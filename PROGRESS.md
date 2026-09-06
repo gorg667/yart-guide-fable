@@ -29,7 +29,17 @@
 10. [ ] Final QA
 
 ## Research notes (append as you go)
-(nothing yet)
+
+### r/TheOCS ACCESS METHOD (SOLVED)
+- reddit.com / old.reddit / api.reddit / .json → 403 from sandbox AND from crawler tool. r.jina.ai → 403. pullpush.io → 429 (blocks agents). redlib mirrors → Anubis bot challenge or 403.
+- **WORKING: Arctic Shift API** (Pushshift successor, full archive incl. recent posts):
+  - Posts: `https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=TheOCS&title=live%20resin&limit=100`
+    - params: subreddit, title, body (or query), author, after/before (unix), limit (max 100), sort=desc, link_id for comments
+  - Comments: `https://arctic-shift.photon-reddit.com/api/comments/search?subreddit=TheOCS&link_id=<post_id>&limit=100`
+  - Rate-limited: returns 422 "Timeout. Maybe slow down" → sleep 2-5s between requests, retry.
+  - Docs: https://arctic-shift.photon-reddit.com/api
+- Script: `research/fetch_reddit.py` saves raw JSON to `research/reddit/`.
+
 
 ## Status log
 - 2026-09-06 01:05 — Fresh start. Repo empty. Created PROGRESS.md.
