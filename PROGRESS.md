@@ -43,3 +43,10 @@
 
 ## Status log
 - 2026-09-06 01:05 — Fresh start. Repo empty. Created PROGRESS.md.
+
+### OCS catalog (DONE)
+- OCS.ca is Shopify; `https://ocs.ca/collections/510-thread-cartridges/products.json?limit=250&page=N` works directly (needs browser UA).
+- `research/fetch_ocs.py` → `research/ocs/products.json` (793 vape products incl. disposables).
+- Filtered 510 live/resin/rosin candidates → `research/ocs/candidates_510_resin_rosin.{json,csv}` (316 rows). Key tags: `subsubcategory` ∈ {Live Cartridges(101), Resin Cartridges(97), Rosin Cartridges(7), Distillate(225), CO2(25)}; `extraction_process`, `drying_method` (Fresh Frozen = true "live"), `availability` (online/in-store), `assortment` (Shared = sold online on OCS.ca; "Wholesale Only" = only via retail stores).
+- NOTE: OCS tagging is noisy (e.g. some liquid-diamond distillate tagged "Live"). Verify by product description text + reddit.
+- NOTE: Rosin 510 carts are RARE on OCS: only 7 tagged (Connoisseur Culture Hash Rosin, Contraband Live Rosin Guava CKE, Frootyhooty Live Rosin+diamonds x2, + others - check csv).
