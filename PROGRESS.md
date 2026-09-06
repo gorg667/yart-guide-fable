@@ -52,3 +52,11 @@
 - NOTE: Rosin 510 carts are RARE on OCS: only 7 tagged (Connoisseur Culture Hash Rosin, Contraband Live Rosin Guava CKE, Frootyhooty Live Rosin+diamonds x2, + others - check csv).
 - OCS official collection `https://ocs.ca/collections/live-carts/products.json` → `research/ocs/collection_live_carts.json` (153 products; 84 are 510 carts). This is the authoritative universe of "live" 510 carts on OCS. Brands: Tribal(11 SKUs), IRIS Labs(5, incl ZODA), EastCann(4), Carmel(4), Lord Jones(4 LD x live resin), Purple Hills(4), Shed Boyz(4), VERO(4), The Loud Plug(4), Frootyhooty(3 rosin+LD), FOUR54(2), Lune Rise(2), Redecan Amped(2), Sherbinskis(2), Jonny Chronic(2), DEBUNK(2), Pura Vida(2), Syrup(2), (GAS)(2); singles: Ambr, Roilty, Qwest, Pepe, Fume, GREAZY, Kolab Liquid Live Resin, Weed Me Max, Vape Breton, Endgame Acai Blxst, JAYS, Contraband Live Rosin, Sauce Rosin Labs, PURE ROSIN, The Goo! rosin, Port North rosin syrup, Connoisseur Culture hash rosin (not in live collection but rosin-tagged), Countryside Live Terp Sauce, Orchid CBD, Bleuh, Queen of the Underground.
 - Reddit full dump strategy changed: dump ALL r/TheOCS posts (limit=auto ≈500/page) to `research/reddit/posts_chunks/`, then filter locally & fetch comments to `research/reddit/threads/`. Resumable via `research/reddit/state.json`. Log: research/fetch_posts.log
+
+## RESUME CHECKLIST (after compaction / account switch)
+1. `cd /home/user/webapp && git status && git log --oneline -3`
+2. Background fetchers DIE on account switch. Restart both (both are resumable/idempotent):
+   - `nohup python3 research/fetch_reddit.py posts >> research/fetch_posts.log 2>&1 &`  (full post dump; done when log says "DONE full dump")
+   - `nohup python3 research/fetch_priority_threads.py >> research/fetch_priority.log 2>&1 &` (comments for cart-relevant threads, biggest first → research/reddit/threads/)
+3. Read threads with `python3 research/show.py <id>[,<id>...] [n_comments]`; append findings to `research/reddit_findings.md`; commit+push often.
+4. Steps done so far: OCS catalog ✔, reddit access ✔, ~25 key threads read & noted. NEXT: keep reading (esp. rosin carts, Purple Hills, Tribal, Kolab, Lune Rise, Wildcard, Woody Nelson, Sherbinskis, Lord Jones, brand-specific threads), then quantitative brand-mention analysis (`research/analyze.py` — TODO), then data/carts.json, then site.
