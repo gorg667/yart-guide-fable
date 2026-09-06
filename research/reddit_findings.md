@@ -235,3 +235,9 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 - FOUR54 ET Gastro Pop (1r7n1i2 46↑): 12% terps, close to flower high, long-lasting, grape; "runs out faster"; 15+ rebuys.
 - **Iris Cherry Bang Bang** (Mar 2026 pkg; 1td8irn, 1t6c8r1): lemon/pine/fruit, "Cuban Linx but better, better hardware"; **Iris' only sativa**; energizing head high, focus; golden straw colour; goes fast (thin oil).
 - Battery tips for 3-setting stick pens: lowest setting (usually green), short hits, 30s between, **no preheat for live resin**; upgrade to Kodo Pro ($10–20) at 1.8–2.2V.
+
+### Gap fills
+- **1964 Lemon Diesel FSE 510** (1ke9a10 May 2025 53↑): lemon candy + lime, sour at 2.4V; energizing all-day, "no sleep"; clean extract; Blue Dream equally good. (Cured FSE.)
+- **Batteries** (1keqrk1 86c, 1jswkuw): Kodo Pro cheap/popular but some budtenders pulled it for cart issues; **Tribal Ark / Yocan Uni Pro** heavy-duty, adjustable, but "no atomizer" detection failures after months (clean contacts w/ iso); Yocan Ziva Pro 2 auto-draw; Vuber Pulse. Consensus: any variable-voltage battery with 1.8–2.4V range; cart hardware matters more.
+- **BLKMKT Pineapple LR cart** (1i19cdb Jan 2025): $54.95, dark oil, burnt taste unless 1.8V, minimal effects, headaches → "BLKMKT carts not worth it; hardware low quality" (contrast w/ 2024 praise). AVOID / declined.
+- **Debunk LR 510** (Blueberry Kush 1n4by8w Aug 2025 $42.50; Funky GLTO 1vq1ydh Aug 2026 $33; Super Lemon Haze): tasty true-to-strain (blueberry / funky earthy gas), cerebral old-school high, ceramic post, 9/10 from OP; BUT leaks reported, **CS non-existent** (Debunk = Ambr/Loud Plug affiliate house? — user lists "Debunk and affiliate brands"). Value option with risk.
