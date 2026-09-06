@@ -66,3 +66,9 @@
 - Priority comment fetcher still running in background (resumable). Not required to finish before building site.
 - NEXT STEP: build `data/carts.json` (structured per-product entries with tier, verdict, pros/cons, effects, flavour, hardware, price, OCS availability, reddit citations) then the static site. Then final QA + push.
 - 2026-09-06: data/carts.json COMPLETE (43 products, 14 also_consider, guide sections). NEXT: build static site (index.html + assets/style.css + assets/app.js) reading data/carts.json; .nojekyll; README. Then QA via GetServiceUrl, push.
+
+## 2026-09-06 — SITE BUILT
+- index.html, assets/style.css, assets/app.js, data/carts.json (43 products, 10 brand cards, 14 also-consider, guide), .nojekyll, README.md — all committed to main.
+- QA: renders with zero console errors; filters/search/sort verified with Playwright; desktop + mobile screenshots OK.
+- Remaining optional polish: keep reading new threads and refine scores; add per-strain effect tags; nothing blocking.
+- GitHub Pages: user must enable in repo Settings → Pages → Deploy from branch `main` / `/ (root)`.
