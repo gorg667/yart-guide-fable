@@ -25,7 +25,7 @@
   fetch("data/carts.json").then(r => r.json()).then(d => {
     DATA = d; PRODUCTS = d.products.slice();
     PRODUCTS.forEach(p => { p._type = p.kind || typeClass(p); p._lean = p.lean || leanClass(p); p._thc = thcMin(p); p._online = (p.on_ocs_online != null) ? p.on_ocs_online : onlineOCS(p); });
-    renderStats(); renderTldr(); renderTierKey(); renderCards(); renderTable(); renderAlso(); renderGuide();
+    renderStats(); renderTldr(); renderBrands(); renderTierKey(); renderCards(); renderTable(); renderAlso(); renderGuide();
     $("#footer-meta").textContent = `Last updated ${d.meta.updated}. ${d.meta.price_note} ${d.meta.disclaimer}`;
     wire();
     if (location.hash) setTimeout(() => { const el = $(location.hash); if (el) el.scrollIntoView(); }, 50);
@@ -51,6 +51,10 @@
     }).join("");
   }
 
+  function renderBrands() {
+    const tb = $("#brand-table tbody"); if (!tb || !DATA.brands) return;
+    tb.innerHTML = DATA.brands.map(b => `<tr style="cursor:default"><td><strong>${esc(b.brand)}</strong></td><td>${esc(b.tier).split(/\s*\/\s*/).map(t => { const k = t.match(/^(S|A|B|C|AVOID)/); return k ? `<span class="badge ${k[1]}">${esc(t)}</span>` : esc(t); }).join(" ")}</td><td>${esc(b.trend)}</td><td>${esc(b.hardware)}</td><td>${esc(b.oil)}</td><td>${esc(b.price)}</td><td>${esc(b.cs)}</td><td>${esc(b.summary)}</td></tr>`).join("");
+  }
   function renderTierKey() {
     $("#tier-key").innerHTML = Object.entries(DATA.tiers).map(([k, v]) => `<span><span class="badge ${k}">${k}</span>${esc(v)}</span>`).join("");
   }

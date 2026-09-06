@@ -2811,5 +2811,107 @@
    "Quotes are verbatim (lightly trimmed) with the thread ID; open any thread at reddit.com/r/TheOCS/comments/<id>/. Upvote counts are as archived.",
    "Limitations: Reddit skews toward enthusiasts and heavy users; brand reps and possible astroturfing exist (the sub's own bots warn about this); lot-to-lot variance is large; prices change weekly; rotating SKUs change strain. Treat this as a well-informed starting point, not gospel."
   ]
- }
+ },
+ "brands": [
+  {
+   "brand": "Atlanticann — Iris Labs / EastCann / FOUR54",
+   "tier": "S",
+   "trend": "↑ rising since late 2024; consensus #1 in 2025–26",
+   "hardware": "Full-ceramic ('Active EZCP'); FOUR54 uses the wide XL version. Lowest failure reports of any brand.",
+   "oil": "100% live resin, CRC'd, extracted by Iris Labs in Nova Scotia. Consistent; a few say 2026 lots slightly muted.",
+   "price": "$39.95–44.95 list; $34–40 in stores",
+   "cs": "Iris: refunds readily (some emails unanswered). EastCann/FOUR54: mixed.",
+   "summary": "Buy with confidence. Pick by strain/effect: Fantasm/Blackwater/Gastro Pop for evening, Mango Sour/Cherry Bang Bang/Route 66/Frozen Lemons for day."
+  },
+  {
+   "brand": "Tribal (Cannara Biotech)",
+   "tier": "A",
+   "trend": "→ steady volume leader; sentiment slipping in 2026 on hardware and runnier oil",
+   "hardware": "Yocan-made metal/cotton cart. Clogs and sticky pulls in the last third are the #1 complaint; 2026 Porto Leche launch lots leaked.",
+   "oil": "100% live resin from fresh-frozen in-house flower, CRC'd. Strong, true-to-flower, best strain variety on the market.",
+   "price": "$44.95 list; $40–45 stores",
+   "cs": "Good — credits/replacements fast, founder replies on Reddit.",
+   "summary": "Still the most-mentioned brand and the easiest to find. Best SKUs: Bubble Up, Neon Sunshine, Triple Burger (potency), Porto Leche, Galactic Rntz. Run ≤2.3 V and take short pulls."
+  },
+  {
+   "brand": "Purple Hills (Agripharm)",
+   "tier": "B",
+   "trend": "↓ 2024 favourite; 2025–26 quality/consistency complaints",
+   "hardware": "Stainless CCELL post in plastic body; XL 1.2g format. Purists dislike plastic; Mar 2025 leaking lot.",
+   "oil": "Live resin from sungrown/outdoor input; potent when on form (Gorilla Z, Big White Dawg) but batch variance and label-% controversies.",
+   "price": "$44.50–47.50 list; $38–48 stores",
+   "cs": "Owner active on Reddit, honours returns.",
+   "summary": "Worth it for Gorilla Z XL / Big White Dawg if the package date is fresh. Otherwise the Atlanticann trio is the safer buy at the same price."
+  },
+  {
+   "brand": "Carmel",
+   "tier": "A (new hardware) / C (old hardware)",
+   "trend": "↑ recovering — switched to FOUR54's ceramic cart late 2025",
+   "hardware": "OLD: notoriously bad (clogs, leaks, burns). NEW: 'Active' postless ceramic XL — check for it before buying.",
+   "oil": "Uncut, non-CRC live resin with real colour — among the best oil on the market.",
+   "price": "$49.10 list (highest LR)",
+   "cs": "Historically poor; now replies on Reddit.",
+   "summary": "Great oil finally in great hardware, at a premium. Jungle J, Zebra Stripes, Permanent Cherries recommended."
+  },
+  {
+   "brand": "1964 (Rubicon Organics)",
+   "tier": "A",
+   "trend": "→ steady; hardware never fixed",
+   "hardware": "Metal-look CCELL-type; inconsistent pulls, fails halfway for some. Community begs for ceramic.",
+   "oil": "Cured full-spectrum resin (not live) by Cannabis Tolling Solutions; no additives; heavy effects despite low terp numbers.",
+   "price": "$44.95 list; $37–45 stores",
+   "cs": "Good via Rubicon.",
+   "summary": "Comatose is a top-tier indica cart; Blue Dream and Lemon Diesel are the sativas. Accept the hardware or skip."
+  },
+  {
+   "brand": "Sauce Rosin Labs",
+   "tier": "S (rosin)",
+   "trend": "→ the rosin benchmark since 2024; hardware improving",
+   "hardware": "Ascera ceramic; early-2026 Mob Pie lot had dead-on-day-2 failures; new smaller format better.",
+   "oil": "Solventless live hash rosin, rotating strains — 'nothing comes close'.",
+   "price": "$44.90 / 0.5g",
+   "cs": "Excellent — replaces duds, active on Reddit.",
+   "summary": "The only rosin 510 the sub consistently recommends. Expensive per gram; buy from a store that does returns."
+  },
+  {
+   "brand": "Kolab Project (Auxly)",
+   "tier": "A",
+   "trend": "→ cult favourite; only one LR SKU",
+   "hardware": "Heaviest-duty on the market (thick metal tip, wide bore).",
+   "oil": "100% live resin (Motorbreath); thin oil, extremely potent.",
+   "price": "$52.10 list; ~$41–52 stores",
+   "cs": "Responsive.",
+   "summary": "Motorbreath is the head-rush cart. Kolab's Liquid Diamonds line is distillate-grade — don't confuse them."
+  },
+  {
+   "brand": "Woody Nelson / Wildcard (Pantheon)",
+   "tier": "B",
+   "trend": "↓ 2025 darlings; 2026 sentiment cooled",
+   "hardware": "Non-ceramic/hemp-plastic 'Active' variant; burns and clogs for many.",
+   "oil": "Wildcard makes both brands' extracts; flavour-forward, potency polarizing. Rainbow Driver and Country Club Gastro Pop were 2025 legends.",
+   "price": "$45–51",
+   "cs": "Woody Nelson unresponsive (Jan 2026); Wildcard replies on Reddit but no defect help per some.",
+   "summary": "Buy for flavour, not for hardware or value."
+  },
+  {
+   "brand": "Lune Rise Farms / Jonny Chronic / Debunk / Greazy",
+   "tier": "A/B",
+   "trend": "→ niche or value options",
+   "hardware": "Lune Rise: Ascera ceramic. Jonny Chronic: heavy metal Greentank. Debunk: ceramic post. Greazy: FOUR54-style ceramic.",
+   "oil": "All 100% live resin per labels/brand statements; Lune Rise very terpy; JC/Debunk/Greazy cheaper inputs.",
+   "price": "$33–48",
+   "cs": "Lune Rise fine; JC transparent; Debunk & Greazy ghost customers.",
+   "summary": "Lune Rise for craft terps; Jonny Chronic for the best sub-$38 pure LR; Debunk/Greazy only from stores that take returns."
+  },
+  {
+   "brand": "Sherbinskis / Lord Jones / The Loud Plug / Ambr / Coterie / -ness / Qwest / Roilty",
+   "tier": "C / AVOID",
+   "trend": "↓",
+   "hardware": "Sherbinskis & Loud Plug share hardware (clog/burn at end); Lord Jones legacy line leaked.",
+   "oil": "Sherbinskis inconsistent; the rest are mostly distillate/liquid diamonds or botanical-terp blends sold as 'live resin'.",
+   "price": "$30–54",
+   "cs": "Poor across the board.",
+   "summary": "Spend the money on Atlanticann or Tribal instead."
+  }
+ ]
 }
