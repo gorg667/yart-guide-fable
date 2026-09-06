@@ -169,3 +169,9 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 - **Ambr Papaya "Pure Live Resin" ($42.99)**: label lists **botanical terpenes** despite "pure" claim; Ambr = same house as The Loud Plug. AVOID for purists.
 - **VERO "Liquid Live Diamond"** and all "liquid diamonds" carts: sub consensus = marketing term for distillate-grade THC; not live resin.
 - **NUGZ (Cannara/Tribal sister)**: cured resin blends w/ disty + flavouring, $30–33; budget step-up.
+
+### 2026 beginner/recommendation threads (1t4ic9i May, 1u2fxk8 Jun, 1vmijev Aug, 1utvjm9 Jul)
+- Beginner setup consensus: **Yocan Kodo Pro or Uni Pro (or Tribal Ark = rebranded Uni Pro)** with voltage display, start 1.8V → 2.2–2.4V; "live resin/rosin/full-spectrum only, skip distillate & liquid diamonds". Tribal recommended as starter (easy to find, varied profiles; good CS — leaky Drip Station replaced immediately).
+- Under $40: Iris Fantasm found for $34+tax; **FOUR54 rotational (Emerald Triangle) "best quality under $40, best hardware"** (note: some call FOUR54 "cured resin" — OCS says live/fresh frozen; rotational strain changes); NUGZ; Sixty Seven Sins cured resin 510 (cheap hardware, metallic at high V); Sauce Rosin/1Above AIO at $40.
+- "Most magical cart": early Carmel Animal Face batches; now Iris Fantasm; FOUR54 Emerald Triangle; Kolab Wedding Pie rosin (legacy); **Orchid CBD RNTZ** (balanced 1:1-ish LR, "amazing high every time").
+- FOUR54 rotation Aug 2026: Papaya Bomb → **Route 66**. Use hibuddy.ca to price-compare (prices vary $35–50 for the same cart).
