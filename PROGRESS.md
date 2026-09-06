@@ -60,3 +60,8 @@
    - `nohup python3 research/fetch_priority_threads.py >> research/fetch_priority.log 2>&1 &` (comments for cart-relevant threads, biggest first → research/reddit/threads/)
 3. Read threads with `python3 research/show.py <id>[,<id>...] [n_comments]`; append findings to `research/reddit_findings.md`; commit+push often.
 4. Steps done so far: OCS catalog ✔, reddit access ✔, ~25 key threads read & noted. NEXT: keep reading (esp. rosin carts, Purple Hills, Tribal, Kolab, Lune Rise, Wildcard, Woody Nelson, Sherbinskis, Lord Jones, brand-specific threads), then quantitative brand-mention analysis (`research/analyze.py` — TODO), then data/carts.json, then site.
+
+## Status update
+- Reddit corpus: 81,698 posts (full sub dump), ~760 threads with comments (~36k comments). `research/reddit_findings.md` = curated qualitative notes (~90 threads read in depth). `research/brand_stats.json` (analyze.py) and `research/sku_stats.json` (sku_mentions.py) = quantitative mention/sentiment counts (CAVEAT: SKU regexes also match flower of the same strain name e.g. Gas Face, Permanent Marker, Rainbow Driver, Comatose — treat as indicative; note in methodology).
+- Priority comment fetcher still running in background (resumable). Not required to finish before building site.
+- NEXT STEP: build `data/carts.json` (structured per-product entries with tier, verdict, pros/cons, effects, flavour, hardware, price, OCS availability, reddit citations) then the static site. Then final QA + push.

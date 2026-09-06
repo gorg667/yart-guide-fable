@@ -1,0 +1,573 @@
+{
+ "generated": "2026-09-06",
+ "n_texts": 24266,
+ "skus": {
+  "Iris Labs Fantasm": {
+   "mentions": 271,
+   "score_sum": 1679,
+   "pos": 309,
+   "neg": 93,
+   "sentiment": 0.54
+  },
+  "Iris Labs Blackwater": {
+   "mentions": 164,
+   "score_sum": 825,
+   "pos": 220,
+   "neg": 51,
+   "sentiment": 0.62
+  },
+  "Iris Labs Purple Sundaze": {
+   "mentions": 108,
+   "score_sum": 657,
+   "pos": 152,
+   "neg": 37,
+   "sentiment": 0.61
+  },
+  "Iris Labs Cherry Bang Bang": {
+   "mentions": 63,
+   "score_sum": 580,
+   "pos": 123,
+   "neg": 42,
+   "sentiment": 0.49
+  },
+  "Iris Labs ZODA": {
+   "mentions": 8,
+   "score_sum": 78,
+   "pos": 7,
+   "neg": 3,
+   "sentiment": 0.4
+  },
+  "EastCann Gastro Pop": {
+   "mentions": 91,
+   "score_sum": 1195,
+   "pos": 219,
+   "neg": 26,
+   "sentiment": 0.79
+  },
+  "FOUR54 Emerald Triangle (Gastro Pop)": {
+   "mentions": 136,
+   "score_sum": 1058,
+   "pos": 153,
+   "neg": 43,
+   "sentiment": 0.56
+  },
+  "FOUR54 Papaya Bomb": {
+   "mentions": 66,
+   "score_sum": 571,
+   "pos": 73,
+   "neg": 21,
+   "sentiment": 0.55
+  },
+  "FOUR54 Route 66": {
+   "mentions": 59,
+   "score_sum": 688,
+   "pos": 151,
+   "neg": 26,
+   "sentiment": 0.71
+  },
+  "EastCann Mango Sour": {
+   "mentions": 95,
+   "score_sum": 474,
+   "pos": 156,
+   "neg": 39,
+   "sentiment": 0.6
+  },
+  "EastCann Frozen Lemons": {
+   "mentions": 41,
+   "score_sum": 221,
+   "pos": 60,
+   "neg": 13,
+   "sentiment": 0.64
+  },
+  "EastCann Purple Kush": {
+   "mentions": 48,
+   "score_sum": 209,
+   "pos": 33,
+   "neg": 18,
+   "sentiment": 0.29
+  },
+  "Tribal Triple Burger": {
+   "mentions": 239,
+   "score_sum": 1333,
+   "pos": 343,
+   "neg": 114,
+   "sentiment": 0.5
+  },
+  "Tribal Bubble Up": {
+   "mentions": 295,
+   "score_sum": 2885,
+   "pos": 404,
+   "neg": 83,
+   "sentiment": 0.66
+  },
+  "Tribal Galactic Runtz": {
+   "mentions": 132,
+   "score_sum": 722,
+   "pos": 130,
+   "neg": 54,
+   "sentiment": 0.41
+  },
+  "Tribal Cuban Linx": {
+   "mentions": 337,
+   "score_sum": 2401,
+   "pos": 583,
+   "neg": 181,
+   "sentiment": 0.53
+  },
+  "Tribal Neon Sunshine": {
+   "mentions": 258,
+   "score_sum": 2427,
+   "pos": 437,
+   "neg": 112,
+   "sentiment": 0.59
+  },
+  "Tribal Porto Leche": {
+   "mentions": 102,
+   "score_sum": 1163,
+   "pos": 122,
+   "neg": 37,
+   "sentiment": 0.53
+  },
+  "Tribal Power Sherb": {
+   "mentions": 36,
+   "score_sum": 146,
+   "pos": 41,
+   "neg": 8,
+   "sentiment": 0.67
+  },
+  "Tribal G Mint": {
+   "mentions": 122,
+   "score_sum": 599,
+   "pos": 178,
+   "neg": 101,
+   "sentiment": 0.28
+  },
+  "Tribal Drip Station": {
+   "mentions": 40,
+   "score_sum": 283,
+   "pos": 48,
+   "neg": 17,
+   "sentiment": 0.48
+  },
+  "Tribal Jigglers": {
+   "mentions": 33,
+   "score_sum": 182,
+   "pos": 57,
+   "neg": 15,
+   "sentiment": 0.58
+  },
+  "Tribal Terple": {
+   "mentions": 72,
+   "score_sum": 503,
+   "pos": 108,
+   "neg": 23,
+   "sentiment": 0.65
+  },
+  "Tribal GT / Gran Turismo": {
+   "mentions": 29,
+   "score_sum": 694,
+   "pos": 39,
+   "neg": 12,
+   "sentiment": 0.53
+  },
+  "Purple Hills Gorilla Z / Zkittlez": {
+   "mentions": 80,
+   "score_sum": 431,
+   "pos": 85,
+   "neg": 34,
+   "sentiment": 0.43
+  },
+  "Purple Hills Orangeade": {
+   "mentions": 59,
+   "score_sum": 387,
+   "pos": 59,
+   "neg": 38,
+   "sentiment": 0.22
+  },
+  "Purple Hills Lemon Pepper": {
+   "mentions": 50,
+   "score_sum": 360,
+   "pos": 66,
+   "neg": 24,
+   "sentiment": 0.47
+  },
+  "Purple Hills Big White Dawg": {
+   "mentions": 32,
+   "score_sum": 203,
+   "pos": 24,
+   "neg": 6,
+   "sentiment": 0.6
+  },
+  "Purple Hills Creemore Valley Kush": {
+   "mentions": 23,
+   "score_sum": 67,
+   "pos": 15,
+   "neg": 7,
+   "sentiment": 0.36
+  },
+  "Purple Hills Shishka Dawg": {
+   "mentions": 11,
+   "score_sum": 16,
+   "pos": 18,
+   "neg": 2,
+   "sentiment": 0.8
+  },
+  "1964 Comatose": {
+   "mentions": 241,
+   "score_sum": 2205,
+   "pos": 379,
+   "neg": 98,
+   "sentiment": 0.59
+  },
+  "1964 Stinky Pinky": {
+   "mentions": 165,
+   "score_sum": 2458,
+   "pos": 264,
+   "neg": 81,
+   "sentiment": 0.53
+  },
+  "1964 Blue Dream (cart)": {
+   "mentions": 106,
+   "score_sum": 911,
+   "pos": 118,
+   "neg": 29,
+   "sentiment": 0.61
+  },
+  "1964 Gelato 41": {
+   "mentions": 48,
+   "score_sum": 721,
+   "pos": 174,
+   "neg": 39,
+   "sentiment": 0.63
+  },
+  "1964 Lemon Diesel": {
+   "mentions": 70,
+   "score_sum": 646,
+   "pos": 121,
+   "neg": 16,
+   "sentiment": 0.77
+  },
+  "Carmel Animal Face": {
+   "mentions": 170,
+   "score_sum": 1272,
+   "pos": 296,
+   "neg": 91,
+   "sentiment": 0.53
+  },
+  "Carmel Slurty3": {
+   "mentions": 32,
+   "score_sum": 197,
+   "pos": 49,
+   "neg": 13,
+   "sentiment": 0.58
+  },
+  "Carmel Jungle J": {
+   "mentions": 5,
+   "score_sum": 80,
+   "pos": 9,
+   "neg": 1,
+   "sentiment": 0.8
+  },
+  "Carmel Big Apple": {
+   "mentions": 18,
+   "score_sum": 111,
+   "pos": 42,
+   "neg": 17,
+   "sentiment": 0.42
+  },
+  "Carmel Zebra Stripes": {
+   "mentions": 27,
+   "score_sum": 434,
+   "pos": 62,
+   "neg": 15,
+   "sentiment": 0.61
+  },
+  "Carmel Permanent Cherries": {
+   "mentions": 18,
+   "score_sum": 221,
+   "pos": 42,
+   "neg": 9,
+   "sentiment": 0.65
+  },
+  "Carmel Flamingo": {
+   "mentions": 21,
+   "score_sum": 176,
+   "pos": 22,
+   "neg": 10,
+   "sentiment": 0.38
+  },
+  "Kolab Motorbreath": {
+   "mentions": 56,
+   "score_sum": 436,
+   "pos": 75,
+   "neg": 9,
+   "sentiment": 0.79
+  },
+  "Woody Nelson Rainbow Driver": {
+   "mentions": 173,
+   "score_sum": 2716,
+   "pos": 366,
+   "neg": 68,
+   "sentiment": 0.69
+  },
+  "Woody Nelson Country Club Gastro Pop": {
+   "mentions": 12,
+   "score_sum": 215,
+   "pos": 39,
+   "neg": 10,
+   "sentiment": 0.59
+  },
+  "Wildcard G-Wagon": {
+   "mentions": 47,
+   "score_sum": 401,
+   "pos": 74,
+   "neg": 20,
+   "sentiment": 0.57
+  },
+  "Wildcard Forbidden Pie": {
+   "mentions": 19,
+   "score_sum": 91,
+   "pos": 19,
+   "neg": 15,
+   "sentiment": 0.12
+  },
+  "Sauce Rosin Labs Mob Pie": {
+   "mentions": 24,
+   "score_sum": 282,
+   "pos": 40,
+   "neg": 10,
+   "sentiment": 0.6
+  },
+  "Sauce Rosin Labs GovernMint Oasis": {
+   "mentions": 17,
+   "score_sum": 211,
+   "pos": 28,
+   "neg": 2,
+   "sentiment": 0.87
+  },
+  "Sauce Rosin Labs Grease Bucket": {
+   "mentions": 34,
+   "score_sum": 310,
+   "pos": 35,
+   "neg": 3,
+   "sentiment": 0.84
+  },
+  "Sauce Rosin Labs Black Maple": {
+   "mentions": 16,
+   "score_sum": 174,
+   "pos": 14,
+   "neg": 3,
+   "sentiment": 0.65
+  },
+  "Sauce Rosin Labs Chilly Willy": {
+   "mentions": 36,
+   "score_sum": 409,
+   "pos": 52,
+   "neg": 15,
+   "sentiment": 0.55
+  },
+  "Sauce Rosin Labs Strawberry Guava": {
+   "mentions": 43,
+   "score_sum": 475,
+   "pos": 86,
+   "neg": 20,
+   "sentiment": 0.62
+  },
+  "Sauce Rosin Labs Point Break": {
+   "mentions": 3,
+   "score_sum": 23,
+   "pos": 1,
+   "neg": 0,
+   "sentiment": 1.0
+  },
+  "Redecan Animal Runtz AIO": {
+   "mentions": 84,
+   "score_sum": 817,
+   "pos": 152,
+   "neg": 15,
+   "sentiment": 0.82
+  },
+  "Redecan Purple Churro AIO": {
+   "mentions": 38,
+   "score_sum": 248,
+   "pos": 49,
+   "neg": 14,
+   "sentiment": 0.56
+  },
+  "Redecan Amped": {
+   "mentions": 8,
+   "score_sum": 45,
+   "pos": 8,
+   "neg": 4,
+   "sentiment": 0.33
+  },
+  "Lune Rise Pink Tsunami": {
+   "mentions": 14,
+   "score_sum": 71,
+   "pos": 8,
+   "neg": 3,
+   "sentiment": 0.45
+  },
+  "Lune Rise Lollipopz": {
+   "mentions": 3,
+   "score_sum": 2,
+   "pos": 2,
+   "neg": 2,
+   "sentiment": 0.0
+  },
+  "Lord Jones Deadhead OG": {
+   "mentions": 12,
+   "score_sum": 15,
+   "pos": 21,
+   "neg": 10,
+   "sentiment": 0.35
+  },
+  "Lord Jones Orange Velvet": {
+   "mentions": 6,
+   "score_sum": 37,
+   "pos": 10,
+   "neg": 6,
+   "sentiment": 0.25
+  },
+  "Sherbinskis Pink Sherb": {
+   "mentions": 23,
+   "score_sum": 95,
+   "pos": 27,
+   "neg": 16,
+   "sentiment": 0.26
+  },
+  "Sherbinskis True GLTO 33": {
+   "mentions": 58,
+   "score_sum": 816,
+   "pos": 170,
+   "neg": 27,
+   "sentiment": 0.73
+  },
+  "Sherbinskis Zauce": {
+   "mentions": 9,
+   "score_sum": 74,
+   "pos": 6,
+   "neg": 1,
+   "sentiment": 0.71
+  },
+  "Jays Pink Cherry": {
+   "mentions": 18,
+   "score_sum": 140,
+   "pos": 20,
+   "neg": 15,
+   "sentiment": 0.14
+  },
+  "Greazy RNB Belts": {
+   "mentions": 19,
+   "score_sum": 86,
+   "pos": 24,
+   "neg": 6,
+   "sentiment": 0.6
+  },
+  "Greazy Super Lemon Haze": {
+   "mentions": 4,
+   "score_sum": 28,
+   "pos": 7,
+   "neg": 1,
+   "sentiment": 0.75
+  },
+  "Orchid CBD RNTZ": {
+   "mentions": 61,
+   "score_sum": 395,
+   "pos": 83,
+   "neg": 21,
+   "sentiment": 0.6
+  },
+  "67 Sins Gas Face": {
+   "mentions": 260,
+   "score_sum": 5326,
+   "pos": 625,
+   "neg": 161,
+   "sentiment": 0.59
+  },
+  "Pure Sunfarms Pink Kush cart": {
+   "mentions": 43,
+   "score_sum": 422,
+   "pos": 92,
+   "neg": 12,
+   "sentiment": 0.77
+  },
+  "1Above Juice Bar": {
+   "mentions": 56,
+   "score_sum": 405,
+   "pos": 89,
+   "neg": 21,
+   "sentiment": 0.62
+  },
+  "Versus BC Purple Kush": {
+   "mentions": 14,
+   "score_sum": 101,
+   "pos": 25,
+   "neg": 8,
+   "sentiment": 0.52
+  },
+  "Port North rosin cart": {
+   "mentions": 78,
+   "score_sum": 527,
+   "pos": 85,
+   "neg": 19,
+   "sentiment": 0.63
+  },
+  "Connoisseur's Culture hash rosin": {
+   "mentions": 50,
+   "score_sum": 404,
+   "pos": 90,
+   "neg": 26,
+   "sentiment": 0.55
+  },
+  "Bleuh Wildberry": {
+   "mentions": 40,
+   "score_sum": 484,
+   "pos": 92,
+   "neg": 14,
+   "sentiment": 0.74
+  },
+  "Northern Canna Permanent Marker AIO": {
+   "mentions": 185,
+   "score_sum": 4155,
+   "pos": 577,
+   "neg": 123,
+   "sentiment": 0.65
+  },
+  "Contraband Live Rosin": {
+   "mentions": 30,
+   "score_sum": 148,
+   "pos": 42,
+   "neg": 13,
+   "sentiment": 0.53
+  },
+  "Frootyhooty rosin": {
+   "mentions": 14,
+   "score_sum": 26,
+   "pos": 39,
+   "neg": 4,
+   "sentiment": 0.81
+  },
+  "Kolab Liquid Live Resin": {
+   "mentions": 9,
+   "score_sum": 146,
+   "pos": 5,
+   "neg": 0,
+   "sentiment": 1.0
+  },
+  "Weed Me Pai Gow": {
+   "mentions": 1,
+   "score_sum": 2,
+   "pos": 1,
+   "neg": 0,
+   "sentiment": 1.0
+  },
+  "MTL Sage n Sour": {
+   "mentions": 27,
+   "score_sum": 215,
+   "pos": 49,
+   "neg": 9,
+   "sentiment": 0.69
+  }
+ }
+}

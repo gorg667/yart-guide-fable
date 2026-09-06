@@ -1,17 +1,17 @@
 {
  "generated": "2026-09-06",
  "n_posts_total": 81698,
- "n_threads_with_comments": 196,
- "n_comments_total": 13283,
+ "n_threads_with_comments": 760,
+ "n_comments_total": 36460,
  "brands": {
   "Iris Labs": {
    "posts": 238,
    "posts_2025plus": 208,
    "post_score": 2610,
-   "comments": 321,
-   "comment_score": 1035,
-   "pos": 181,
-   "neg": 105,
+   "comments": 753,
+   "comment_score": 2241,
+   "pos": 381,
+   "neg": 225,
    "example_posts": [
     {
      "id": "1w1avan",
@@ -70,16 +70,16 @@
      "date": "2026-08-11"
     }
    ],
-   "sentiment": 0.27
+   "sentiment": 0.26
   },
   "EastCann": {
    "posts": 257,
    "posts_2025plus": 185,
    "post_score": 2846,
-   "comments": 159,
-   "comment_score": 511,
-   "pos": 106,
-   "neg": 37,
+   "comments": 437,
+   "comment_score": 1285,
+   "pos": 241,
+   "neg": 114,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -138,16 +138,16 @@
      "date": "2026-08-15"
     }
    ],
-   "sentiment": 0.48
+   "sentiment": 0.36
   },
   "FOUR54": {
    "posts": 103,
    "posts_2025plus": 91,
    "post_score": 1361,
-   "comments": 73,
-   "comment_score": 307,
-   "pos": 51,
-   "neg": 13,
+   "comments": 258,
+   "comment_score": 853,
+   "pos": 131,
+   "neg": 61,
    "example_posts": [
     {
      "id": "1w1avan",
@@ -206,16 +206,16 @@
      "date": "2026-08-07"
     }
    ],
-   "sentiment": 0.59
+   "sentiment": 0.36
   },
   "Tribal": {
    "posts": 1368,
    "posts_2025plus": 531,
    "post_score": 13351,
-   "comments": 902,
-   "comment_score": 3048,
-   "pos": 433,
-   "neg": 362,
+   "comments": 2088,
+   "comment_score": 6532,
+   "pos": 1104,
+   "neg": 696,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -274,16 +274,16 @@
      "date": "2026-08-19"
     }
    ],
-   "sentiment": 0.09
+   "sentiment": 0.23
   },
   "Purple Hills": {
    "posts": 616,
    "posts_2025plus": 166,
    "post_score": 5399,
-   "comments": 383,
-   "comment_score": 1184,
-   "pos": 235,
-   "neg": 163,
+   "comments": 1084,
+   "comment_score": 3282,
+   "pos": 705,
+   "neg": 406,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -342,16 +342,16 @@
      "date": "2026-07-27"
     }
    ],
-   "sentiment": 0.18
+   "sentiment": 0.27
   },
   "1964": {
    "posts": 454,
    "posts_2025plus": 233,
    "post_score": 4951,
-   "comments": 223,
-   "comment_score": 785,
-   "pos": 120,
-   "neg": 100,
+   "comments": 456,
+   "comment_score": 1352,
+   "pos": 260,
+   "neg": 188,
    "example_posts": [
     {
      "id": "1w5qutl",
@@ -410,16 +410,16 @@
      "date": "2026-08-11"
     }
    ],
-   "sentiment": 0.09
+   "sentiment": 0.16
   },
   "Carmel": {
    "posts": 315,
    "posts_2025plus": 137,
    "post_score": 3890,
-   "comments": 174,
-   "comment_score": 563,
-   "pos": 103,
-   "neg": 113,
+   "comments": 390,
+   "comment_score": 1193,
+   "pos": 235,
+   "neg": 208,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -478,16 +478,16 @@
      "date": "2026-07-27"
     }
    ],
-   "sentiment": -0.05
+   "sentiment": 0.06
   },
   "Woody Nelson": {
    "posts": 207,
    "posts_2025plus": 135,
    "post_score": 2846,
-   "comments": 68,
-   "comment_score": 218,
-   "pos": 44,
-   "neg": 27,
+   "comments": 139,
+   "comment_score": 466,
+   "pos": 82,
+   "neg": 45,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -546,16 +546,16 @@
      "date": "2026-08-14"
     }
    ],
-   "sentiment": 0.24
+   "sentiment": 0.29
   },
   "Wildcard": {
    "posts": 85,
    "posts_2025plus": 48,
    "post_score": 880,
-   "comments": 38,
-   "comment_score": 133,
-   "pos": 31,
-   "neg": 9,
+   "comments": 94,
+   "comment_score": 269,
+   "pos": 73,
+   "neg": 30,
    "example_posts": [
     {
      "id": "1rw9woz",
@@ -614,16 +614,16 @@
      "date": "2025-09-03"
     }
    ],
-   "sentiment": 0.55
+   "sentiment": 0.42
   },
   "Kolab": {
    "posts": 433,
    "posts_2025plus": 63,
    "post_score": 4377,
-   "comments": 134,
-   "comment_score": 482,
-   "pos": 97,
-   "neg": 68,
+   "comments": 399,
+   "comment_score": 1337,
+   "pos": 310,
+   "neg": 177,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -682,16 +682,16 @@
      "date": "2026-07-13"
     }
    ],
-   "sentiment": 0.18
+   "sentiment": 0.27
   },
   "Sauce Rosin Labs": {
    "posts": 261,
    "posts_2025plus": 160,
    "post_score": 3241,
-   "comments": 89,
-   "comment_score": 312,
-   "pos": 59,
-   "neg": 31,
+   "comments": 215,
+   "comment_score": 679,
+   "pos": 153,
+   "neg": 50,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -750,16 +750,16 @@
      "date": "2026-07-05"
     }
    ],
-   "sentiment": 0.31
+   "sentiment": 0.51
   },
   "1Above": {
    "posts": 142,
    "posts_2025plus": 142,
    "post_score": 1850,
-   "comments": 123,
-   "comment_score": 485,
-   "pos": 66,
-   "neg": 42,
+   "comments": 181,
+   "comment_score": 623,
+   "pos": 104,
+   "neg": 55,
    "example_posts": [
     {
      "id": "1w5q2o9",
@@ -818,15 +818,15 @@
      "date": "2026-08-03"
     }
    ],
-   "sentiment": 0.22
+   "sentiment": 0.31
   },
   "Lune Rise Farms": {
    "posts": 20,
    "posts_2025plus": 17,
    "post_score": 175,
-   "comments": 20,
-   "comment_score": 54,
-   "pos": 12,
+   "comments": 26,
+   "comment_score": 59,
+   "pos": 14,
    "neg": 2,
    "example_posts": [
     {
@@ -886,16 +886,16 @@
      "date": "2024-10-05"
     }
    ],
-   "sentiment": 0.71
+   "sentiment": 0.75
   },
   "Redecan": {
    "posts": 675,
    "posts_2025plus": 79,
    "post_score": 5472,
-   "comments": 60,
-   "comment_score": 191,
-   "pos": 31,
-   "neg": 28,
+   "comments": 189,
+   "comment_score": 512,
+   "pos": 131,
+   "neg": 99,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -954,16 +954,16 @@
      "date": "2026-08-03"
     }
    ],
-   "sentiment": 0.05
+   "sentiment": 0.14
   },
   "Lord Jones": {
    "posts": 75,
    "posts_2025plus": 28,
    "post_score": 452,
-   "comments": 23,
-   "comment_score": 97,
-   "pos": 10,
-   "neg": 24,
+   "comments": 81,
+   "comment_score": 298,
+   "pos": 31,
+   "neg": 79,
    "example_posts": [
     {
      "id": "1w1tenn",
@@ -1022,16 +1022,16 @@
      "date": "2025-07-26"
     }
    ],
-   "sentiment": -0.41
+   "sentiment": -0.44
   },
   "Sherbinskis": {
    "posts": 223,
    "posts_2025plus": 45,
    "post_score": 1909,
-   "comments": 112,
-   "comment_score": 443,
-   "pos": 74,
-   "neg": 81,
+   "comments": 291,
+   "comment_score": 1038,
+   "pos": 198,
+   "neg": 145,
    "example_posts": [
     {
      "id": "1w6rusd",
@@ -1090,16 +1090,16 @@
      "date": "2025-08-27"
     }
    ],
-   "sentiment": -0.05
+   "sentiment": 0.15
   },
   "Coterie": {
    "posts": 51,
    "posts_2025plus": 11,
    "post_score": 498,
-   "comments": 16,
-   "comment_score": 167,
-   "pos": 2,
-   "neg": 18,
+   "comments": 23,
+   "comment_score": 183,
+   "pos": 4,
+   "neg": 23,
    "example_posts": [
     {
      "id": "1vp1fd5",
@@ -1158,16 +1158,16 @@
      "date": "2023-10-13"
     }
    ],
-   "sentiment": -0.8
+   "sentiment": -0.7
   },
   "The Loud Plug": {
    "posts": 172,
    "posts_2025plus": 67,
    "post_score": 981,
-   "comments": 36,
-   "comment_score": 142,
-   "pos": 29,
-   "neg": 23,
+   "comments": 81,
+   "comment_score": 263,
+   "pos": 71,
+   "neg": 53,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -1226,16 +1226,16 @@
      "date": "2026-07-13"
     }
    ],
-   "sentiment": 0.12
+   "sentiment": 0.15
   },
   "Greazy": {
    "posts": 53,
    "posts_2025plus": 33,
    "post_score": 312,
-   "comments": 9,
-   "comment_score": 26,
-   "pos": 19,
-   "neg": 17,
+   "comments": 22,
+   "comment_score": 59,
+   "pos": 23,
+   "neg": 25,
    "example_posts": [
     {
      "id": "1v5quhu",
@@ -1294,16 +1294,16 @@
      "date": "2025-06-22"
     }
    ],
-   "sentiment": 0.06
+   "sentiment": -0.04
   },
   "Versus": {
    "posts": 66,
    "posts_2025plus": 19,
    "post_score": 371,
-   "comments": 13,
-   "comment_score": 17,
-   "pos": 11,
-   "neg": 10,
+   "comments": 38,
+   "comment_score": 181,
+   "pos": 30,
+   "neg": 25,
    "example_posts": [
     {
      "id": "1u2fxk8",
@@ -1362,7 +1362,7 @@
      "date": "2025-10-31"
     }
    ],
-   "sentiment": 0.05
+   "sentiment": 0.09
   },
   "Contraband": {
    "posts": 10,
@@ -1422,10 +1422,10 @@
    "posts": 20,
    "posts_2025plus": 3,
    "post_score": 47,
-   "comments": 2,
-   "comment_score": 3,
-   "pos": 2,
-   "neg": 0,
+   "comments": 9,
+   "comment_score": 16,
+   "pos": 7,
+   "neg": 4,
    "example_posts": [
     {
      "id": "1mgm0kh",
@@ -1484,16 +1484,16 @@
      "date": "2022-12-04"
     }
    ],
-   "sentiment": 1.0
+   "sentiment": 0.27
   },
   "Jonny Chronic": {
    "posts": 123,
    "posts_2025plus": 48,
    "post_score": 689,
-   "comments": 7,
-   "comment_score": 7,
-   "pos": 1,
-   "neg": 3,
+   "comments": 18,
+   "comment_score": 25,
+   "pos": 8,
+   "neg": 5,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -1552,16 +1552,16 @@
      "date": "2026-06-29"
     }
    ],
-   "sentiment": -0.5
+   "sentiment": 0.23
   },
   "Pepe": {
    "posts": 10,
    "posts_2025plus": 8,
    "post_score": 35,
-   "comments": 5,
-   "comment_score": 11,
+   "comments": 7,
+   "comment_score": 13,
    "pos": 2,
-   "neg": 2,
+   "neg": 3,
    "example_posts": [
     {
      "id": "1pp37ea",
@@ -1599,16 +1599,16 @@
      "date": "2023-09-22"
     }
    ],
-   "sentiment": 0.0
+   "sentiment": -0.2
   },
   "Jays": {
    "posts": 36,
    "posts_2025plus": 32,
    "post_score": 284,
-   "comments": 3,
-   "comment_score": 3,
-   "pos": 0,
-   "neg": 1,
+   "comments": 13,
+   "comment_score": 15,
+   "pos": 6,
+   "neg": 8,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -1667,16 +1667,16 @@
      "date": "2026-07-27"
     }
    ],
-   "sentiment": -1.0
+   "sentiment": -0.14
   },
   "Roilty": {
    "posts": 57,
    "posts_2025plus": 5,
    "post_score": 258,
-   "comments": 1,
-   "comment_score": 1,
-   "pos": 0,
-   "neg": 0,
+   "comments": 15,
+   "comment_score": 41,
+   "pos": 8,
+   "neg": 11,
    "example_posts": [
     {
      "id": "1oqajlm",
@@ -1735,16 +1735,16 @@
      "date": "2024-05-16"
     }
    ],
-   "sentiment": 0.0
+   "sentiment": -0.16
   },
   "Debunk": {
    "posts": 27,
    "posts_2025plus": 11,
    "post_score": 122,
-   "comments": 8,
-   "comment_score": 18,
-   "pos": 7,
-   "neg": 7,
+   "comments": 15,
+   "comment_score": 28,
+   "pos": 11,
+   "neg": 17,
    "example_posts": [
     {
      "id": "1vq1ydh",
@@ -1803,16 +1803,16 @@
      "date": "2025-06-24"
     }
    ],
-   "sentiment": 0.0
+   "sentiment": -0.21
   },
   "Endgame": {
    "posts": 24,
    "posts_2025plus": 5,
    "post_score": 83,
-   "comments": 2,
-   "comment_score": 4,
-   "pos": 4,
-   "neg": 0,
+   "comments": 5,
+   "comment_score": 16,
+   "pos": 6,
+   "neg": 4,
    "example_posts": [
     {
      "id": "1q0dp32",
@@ -1871,16 +1871,16 @@
      "date": "2024-05-05"
     }
    ],
-   "sentiment": 1.0
+   "sentiment": 0.2
   },
   "Boxhot": {
    "posts": 310,
    "posts_2025plus": 79,
    "post_score": 1667,
-   "comments": 34,
-   "comment_score": 78,
-   "pos": 14,
-   "neg": 16,
+   "comments": 80,
+   "comment_score": 166,
+   "pos": 42,
+   "neg": 43,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -1939,16 +1939,16 @@
      "date": "2026-07-26"
     }
    ],
-   "sentiment": -0.07
+   "sentiment": -0.01
   },
   "Kolab Liquid Diamonds": {
    "posts": 32,
    "posts_2025plus": 11,
    "post_score": 483,
-   "comments": 11,
-   "comment_score": 48,
-   "pos": 11,
-   "neg": 14,
+   "comments": 34,
+   "comment_score": 100,
+   "pos": 31,
+   "neg": 20,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -2007,16 +2007,16 @@
      "date": "2025-10-29"
     }
    ],
-   "sentiment": -0.12
+   "sentiment": 0.22
   },
   "General Admission": {
    "posts": 304,
    "posts_2025plus": 63,
    "post_score": 1861,
-   "comments": 84,
-   "comment_score": 303,
-   "pos": 59,
-   "neg": 66,
+   "comments": 255,
+   "comment_score": 812,
+   "pos": 196,
+   "neg": 198,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -2075,16 +2075,16 @@
      "date": "2026-07-13"
     }
    ],
-   "sentiment": -0.06
+   "sentiment": -0.01
   },
   "Back Forty": {
    "posts": 240,
    "posts_2025plus": 56,
    "post_score": 1732,
-   "comments": 24,
-   "comment_score": 134,
-   "pos": 6,
-   "neg": 21,
+   "comments": 77,
+   "comment_score": 266,
+   "pos": 32,
+   "neg": 44,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -2143,16 +2143,16 @@
      "date": "2026-07-27"
     }
    ],
-   "sentiment": -0.56
+   "sentiment": -0.16
   },
   "Good Supply": {
    "posts": 567,
    "posts_2025plus": 55,
    "post_score": 3813,
-   "comments": 18,
-   "comment_score": 35,
-   "pos": 14,
-   "neg": 7,
+   "comments": 121,
+   "comment_score": 274,
+   "pos": 114,
+   "neg": 61,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -2211,16 +2211,16 @@
      "date": "2026-07-13"
     }
    ],
-   "sentiment": 0.33
+   "sentiment": 0.3
   },
   "Spinach": {
    "posts": 154,
    "posts_2025plus": 34,
    "post_score": 1017,
-   "comments": 11,
-   "comment_score": 14,
-   "pos": 9,
-   "neg": 14,
+   "comments": 42,
+   "comment_score": 102,
+   "pos": 54,
+   "neg": 51,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -2279,16 +2279,16 @@
      "date": "2026-07-24"
     }
    ],
-   "sentiment": -0.22
+   "sentiment": 0.03
   },
   "Sticky Greens": {
    "posts": 48,
    "posts_2025plus": 14,
    "post_score": 251,
-   "comments": 6,
-   "comment_score": 58,
-   "pos": 0,
-   "neg": 4,
+   "comments": 21,
+   "comment_score": 85,
+   "pos": 10,
+   "neg": 12,
    "example_posts": [
     {
      "id": "1vpc6eg",
@@ -2347,16 +2347,16 @@
      "date": "2023-09-22"
     }
    ],
-   "sentiment": -1.0
+   "sentiment": -0.09
   },
   "Dymond": {
    "posts": 67,
    "posts_2025plus": 1,
    "post_score": 421,
-   "comments": 5,
-   "comment_score": 15,
-   "pos": 7,
-   "neg": 2,
+   "comments": 28,
+   "comment_score": 55,
+   "pos": 19,
+   "neg": 14,
    "example_posts": [
     {
      "id": "1leq59j",
@@ -2415,16 +2415,16 @@
      "date": "2023-09-14"
     }
    ],
-   "sentiment": 0.56
+   "sentiment": 0.15
   },
   "Greybeard": {
    "posts": 351,
    "posts_2025plus": 19,
    "post_score": 3452,
-   "comments": 136,
-   "comment_score": 401,
-   "pos": 80,
-   "neg": 59,
+   "comments": 542,
+   "comment_score": 1710,
+   "pos": 374,
+   "neg": 219,
    "example_posts": [
     {
      "id": "1t119wl",
@@ -2483,16 +2483,16 @@
      "date": "2025-05-16"
     }
    ],
-   "sentiment": 0.15
+   "sentiment": 0.26
   },
   "Shred": {
    "posts": 59,
    "posts_2025plus": 3,
    "post_score": 483,
-   "comments": 11,
-   "comment_score": 89,
-   "pos": 2,
-   "neg": 17,
+   "comments": 19,
+   "comment_score": 107,
+   "pos": 8,
+   "neg": 22,
    "example_posts": [
     {
      "id": "1pj4o07",
@@ -2551,16 +2551,16 @@
      "date": "2023-11-06"
     }
    ],
-   "sentiment": -0.79
+   "sentiment": -0.47
   },
   "Adults Only / NSFW": {
    "posts": 99,
    "posts_2025plus": 45,
    "post_score": 500,
-   "comments": 10,
-   "comment_score": 21,
-   "pos": 5,
-   "neg": 7,
+   "comments": 21,
+   "comment_score": 43,
+   "pos": 18,
+   "neg": 15,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -2619,16 +2619,16 @@
      "date": "2026-07-06"
     }
    ],
-   "sentiment": -0.17
+   "sentiment": 0.09
   },
   "BLKMKT": {
    "posts": 251,
    "posts_2025plus": 77,
    "post_score": 3119,
-   "comments": 49,
-   "comment_score": 120,
-   "pos": 24,
-   "neg": 14,
+   "comments": 130,
+   "comment_score": 325,
+   "pos": 69,
+   "neg": 33,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -2687,16 +2687,16 @@
      "date": "2026-08-03"
     }
    ],
-   "sentiment": 0.26
+   "sentiment": 0.35
   },
   "Polar": {
    "posts": 43,
    "posts_2025plus": 23,
    "post_score": 442,
-   "comments": 6,
-   "comment_score": -3,
-   "pos": 0,
-   "neg": 3,
+   "comments": 22,
+   "comment_score": 35,
+   "pos": 16,
+   "neg": 11,
    "example_posts": [
     {
      "id": "1vpejl9",
@@ -2755,16 +2755,16 @@
      "date": "2025-10-02"
     }
    ],
-   "sentiment": -1.0
+   "sentiment": 0.19
   },
   "Msiku": {
    "posts": 71,
    "posts_2025plus": 11,
    "post_score": 726,
-   "comments": 14,
-   "comment_score": 33,
-   "pos": 5,
-   "neg": 6,
+   "comments": 50,
+   "comment_score": 107,
+   "pos": 16,
+   "neg": 18,
    "example_posts": [
     {
      "id": "1sukwt8",
@@ -2823,16 +2823,16 @@
      "date": "2024-01-21"
     }
    ],
-   "sentiment": -0.09
+   "sentiment": -0.06
   },
   "Pharmabee": {
    "posts": 10,
    "posts_2025plus": 1,
    "post_score": 112,
-   "comments": 17,
-   "comment_score": 37,
-   "pos": 14,
-   "neg": 8,
+   "comments": 39,
+   "comment_score": 93,
+   "pos": 23,
+   "neg": 10,
    "example_posts": [
     {
      "id": "1i93ex2",
@@ -2884,16 +2884,16 @@
      "date": "2023-11-25"
     }
    ],
-   "sentiment": 0.27
+   "sentiment": 0.39
   },
   "Port North": {
    "posts": 111,
    "posts_2025plus": 36,
    "post_score": 851,
-   "comments": 38,
-   "comment_score": 127,
-   "pos": 19,
-   "neg": 17,
+   "comments": 97,
+   "comment_score": 274,
+   "pos": 42,
+   "neg": 29,
    "example_posts": [
     {
      "id": "1w2l43z",
@@ -2952,16 +2952,16 @@
      "date": "2025-11-10"
     }
    ],
-   "sentiment": 0.06
+   "sentiment": 0.18
   },
   "Brindle": {
    "posts": 6,
    "posts_2025plus": 1,
    "post_score": 59,
-   "comments": 17,
-   "comment_score": 53,
-   "pos": 13,
-   "neg": 3,
+   "comments": 31,
+   "comment_score": 74,
+   "pos": 24,
+   "neg": 5,
    "example_posts": [
     {
      "id": "1hqshob",
@@ -2992,16 +2992,16 @@
      "date": "2023-05-25"
     }
    ],
-   "sentiment": 0.62
+   "sentiment": 0.66
   },
   "SUGR": {
    "posts": 18,
    "posts_2025plus": 11,
    "post_score": 234,
-   "comments": 22,
-   "comment_score": 59,
-   "pos": 4,
-   "neg": 3,
+   "comments": 26,
+   "comment_score": 63,
+   "pos": 5,
+   "neg": 7,
    "example_posts": [
     {
      "id": "1vqvufu",
@@ -3060,16 +3060,16 @@
      "date": "2025-01-17"
     }
    ],
-   "sentiment": 0.14
+   "sentiment": -0.17
   },
   "Unlicensed Producer": {
    "posts": 49,
    "posts_2025plus": 49,
    "post_score": 827,
-   "comments": 15,
-   "comment_score": 57,
+   "comments": 26,
+   "comment_score": 118,
    "pos": 8,
-   "neg": 3,
+   "neg": 5,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -3128,16 +3128,16 @@
      "date": "2026-07-27"
     }
    ],
-   "sentiment": 0.45
+   "sentiment": 0.23
   },
   "The Goo!": {
    "posts": 19,
    "posts_2025plus": 18,
    "post_score": 126,
-   "comments": 8,
-   "comment_score": 36,
+   "comments": 11,
+   "comment_score": 41,
    "pos": 3,
-   "neg": 3,
+   "neg": 6,
    "example_posts": [
     {
      "id": "1vzt2v9",
@@ -3196,16 +3196,16 @@
      "date": "2025-09-05"
     }
    ],
-   "sentiment": 0.0
+   "sentiment": -0.33
   },
   "Frootyhooty": {
    "posts": 16,
    "posts_2025plus": 8,
    "post_score": 39,
-   "comments": 3,
-   "comment_score": 4,
-   "pos": 2,
-   "neg": 1,
+   "comments": 6,
+   "comment_score": 5,
+   "pos": 6,
+   "neg": 3,
    "example_posts": [
     {
      "id": "1vrwmsl",
@@ -3242,9 +3242,9 @@
    "posts": 64,
    "posts_2025plus": 18,
    "post_score": 573,
-   "comments": 3,
-   "comment_score": 3,
-   "pos": 1,
+   "comments": 5,
+   "comment_score": 5,
+   "pos": 2,
    "neg": 1,
    "example_posts": [
     {
@@ -3304,16 +3304,16 @@
      "date": "2025-02-03"
     }
    ],
-   "sentiment": 0.0
+   "sentiment": 0.33
   },
   "Orchid CBD": {
    "posts": 69,
    "posts_2025plus": 17,
    "post_score": 485,
-   "comments": 9,
-   "comment_score": 13,
-   "pos": 6,
-   "neg": 1,
+   "comments": 16,
+   "comment_score": 29,
+   "pos": 9,
+   "neg": 3,
    "example_posts": [
     {
      "id": "1w1sbgs",
@@ -3372,16 +3372,16 @@
      "date": "2025-12-17"
     }
    ],
-   "sentiment": 0.71
+   "sentiment": 0.5
   },
   "Highxotic": {
    "posts": 95,
    "posts_2025plus": 73,
    "post_score": 1021,
-   "comments": 10,
-   "comment_score": 28,
-   "pos": 9,
-   "neg": 2,
+   "comments": 30,
+   "comment_score": 50,
+   "pos": 21,
+   "neg": 9,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -3440,16 +3440,16 @@
      "date": "2026-07-27"
     }
    ],
-   "sentiment": 0.64
+   "sentiment": 0.4
   },
   "Bleuh": {
    "posts": 13,
    "posts_2025plus": 13,
    "post_score": 181,
-   "comments": 3,
-   "comment_score": 24,
-   "pos": 4,
-   "neg": 1,
+   "comments": 7,
+   "comment_score": 35,
+   "pos": 10,
+   "neg": 4,
    "example_posts": [
     {
      "id": "1ubb8ze",
@@ -3494,16 +3494,16 @@
      "date": "2025-10-24"
     }
    ],
-   "sentiment": 0.6
+   "sentiment": 0.43
   },
   "Purple Hills XL": {
    "posts": 7,
    "posts_2025plus": 3,
    "post_score": 46,
-   "comments": 8,
-   "comment_score": 24,
-   "pos": 6,
-   "neg": 7,
+   "comments": 12,
+   "comment_score": 33,
+   "pos": 8,
+   "neg": 15,
    "example_posts": [
     {
      "id": "1ocviox",
@@ -3541,16 +3541,16 @@
      "date": "2024-05-24"
     }
    ],
-   "sentiment": -0.08
+   "sentiment": -0.3
   },
   "Fume": {
    "posts": 18,
    "posts_2025plus": 0,
    "post_score": 138,
-   "comments": 1,
-   "comment_score": 6,
-   "pos": 0,
-   "neg": 0,
+   "comments": 19,
+   "comment_score": 62,
+   "pos": 25,
+   "neg": 12,
    "example_posts": [
     {
      "id": "y2h8v2",
@@ -3609,7 +3609,7 @@
      "date": "2021-07-16"
     }
    ],
-   "sentiment": 0.0
+   "sentiment": 0.35
   },
   "GAS": {
    "posts": 11,
@@ -3641,10 +3641,10 @@
    "posts": 355,
    "posts_2025plus": 149,
    "post_score": 3699,
-   "comments": 122,
-   "comment_score": 275,
-   "pos": 55,
-   "neg": 56,
+   "comments": 259,
+   "comment_score": 675,
+   "pos": 138,
+   "neg": 96,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -3703,15 +3703,15 @@
      "date": "2026-08-03"
     }
    ],
-   "sentiment": -0.01
+   "sentiment": 0.18
   },
   "Slaps": {
    "posts": 4,
    "posts_2025plus": 3,
    "post_score": 59,
-   "comments": 3,
-   "comment_score": 9,
-   "pos": 7,
+   "comments": 4,
+   "comment_score": 11,
+   "pos": 10,
    "neg": 1,
    "example_posts": [
     {
@@ -3736,16 +3736,16 @@
      "date": "2024-08-13"
     }
    ],
-   "sentiment": 0.75
+   "sentiment": 0.82
   },
   "Ambr": {
    "posts": 97,
    "posts_2025plus": 23,
    "post_score": 470,
-   "comments": 12,
-   "comment_score": 35,
-   "pos": 7,
-   "neg": 9,
+   "comments": 35,
+   "comment_score": 77,
+   "pos": 21,
+   "neg": 16,
    "example_posts": [
     {
      "id": "1w5u284",
@@ -3804,16 +3804,16 @@
      "date": "2024-08-25"
     }
    ],
-   "sentiment": -0.12
+   "sentiment": 0.14
   },
   "Qwest": {
    "posts": 24,
    "posts_2025plus": 11,
    "post_score": 246,
-   "comments": 2,
-   "comment_score": 3,
-   "pos": 1,
-   "neg": 2,
+   "comments": 12,
+   "comment_score": 17,
+   "pos": 3,
+   "neg": 8,
    "example_posts": [
     {
      "id": "1w3re84",
@@ -3872,7 +3872,7 @@
      "date": "2026-07-13"
     }
    ],
-   "sentiment": -0.33
+   "sentiment": -0.45
   },
   "Shed Boyz": {
    "posts": 0,
@@ -3889,8 +3889,8 @@
    "posts": 3,
    "posts_2025plus": 3,
    "post_score": 9,
-   "comments": 0,
-   "comment_score": 0,
+   "comments": 1,
+   "comment_score": 1,
    "pos": 0,
    "neg": 0,
    "example_posts": [
@@ -3915,10 +3915,10 @@
    "posts": 11,
    "posts_2025plus": 3,
    "post_score": 45,
-   "comments": 1,
-   "comment_score": 6,
-   "pos": 0,
-   "neg": 1,
+   "comments": 3,
+   "comment_score": 9,
+   "pos": 2,
+   "neg": 3,
    "example_posts": [
     {
      "id": "1w1tenn",
@@ -3977,7 +3977,7 @@
      "date": "2020-01-10"
     }
    ],
-   "sentiment": -1.0
+   "sentiment": -0.2
   }
  }
 }
