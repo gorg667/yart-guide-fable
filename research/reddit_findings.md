@@ -47,3 +47,9 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 
 ### 1j0985r — Carmel Live Resin Cartridge bad hardware (Mar 2025, 61c)
 - "Excellent resin, terrible hardware and terrible customer service." Clogging non-stop, burning, leaking, hot oil in throat. Some got refunds. Flamingo cart many returns. "Carmel is the next Broken Coast" (declining).
+
+### 1vnjgze — Slaps Exotic Rosin Stick (Aug 2026, 98c) — AIO not 510. Controversy: Slaps allegedly evicted 1Above from shared facility, rebranded their rosin. Community boycotting Slaps; **1Above** (rosin AIO/disposable "Juice Bar Sour Sandia") highly respected. Note: AIO, so out of 510 scope but mention in "also consider" section.
+### 1psaqig — Triple Burger Rosin (NUGZ/Cannara jar, Dec 2025) — this is a rosin JAR not cart. Skip. (Shows NUGZ/Tribal rosin respected; 1Above rosin "2x as good for $7 more".)
+### 1kqu9cs — "-ness" (BZAM) "Liquid Live Resin" cart: front says live resin, ingredients say distillate + terps (May 2025, 105↑). BZAM widely disliked. Grower later claimed Strawberry Jack is pure live resin, label error. **Caution list: -ness / BZAM**. Also: Sticky Greens "liquid diamonds" = distillate-based (rep couldn't explain).
+### 1qibif0 — CRC debate (Jan 2026): Tribal rep confirms Tribal CRCs all in-house live resin; Jonny Chronic and Pepe also CRC. Iris also CRC'd. Consensus: CRC is a trade-off that makes carts perform better in 510 hardware (lower viscosity, less clog), purists dislike it. Useful for "glossary/what to know" section.
+### 1rxr556 — 1Above live hash rosin disposable (Mar 2026): "best hardware on the market", 0.5g, $30-42. Rosin brands respected: 1Above, RosinStar, UP (Unlicensed Producer) Yellow Guava, SUGR, Sauce Rosin Labs ($58).
