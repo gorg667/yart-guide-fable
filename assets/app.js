@@ -24,7 +24,7 @@
 
   fetch("data/carts.json").then(r => r.json()).then(d => {
     DATA = d; PRODUCTS = d.products.slice();
-    PRODUCTS.forEach(p => { p._type = typeClass(p); p._lean = leanClass(p); p._thc = thcMin(p); p._online = onlineOCS(p); });
+    PRODUCTS.forEach(p => { p._type = p.kind || typeClass(p); p._lean = p.lean || leanClass(p); p._thc = thcMin(p); p._online = (p.on_ocs_online != null) ? p.on_ocs_online : onlineOCS(p); });
     renderStats(); renderTldr(); renderTierKey(); renderCards(); renderTable(); renderAlso(); renderGuide();
     $("#footer-meta").textContent = `Last updated ${d.meta.updated}. ${d.meta.price_note} ${d.meta.disclaimer}`;
     wire();

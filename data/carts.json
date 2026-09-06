@@ -85,7 +85,10 @@
     "1of9n3j",
     "1rkx9nt",
     "1twv5bv"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "iris-fantasm",
@@ -153,7 +156,10 @@
     "1rjcj8z",
     "1ljen9d",
     "1pomvyj"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "iris-blackwater",
@@ -211,7 +217,10 @@
     "1muaqhz",
     "1uavozu",
     "1kzvr47"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "iris-purple-sundaze",
@@ -267,7 +276,10 @@
     "1n0nbbv",
     "1olmx3r",
     "1k5rw50"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "iris-cherry-bang-bang",
@@ -324,7 +336,10 @@
     "1rzy9tz",
     "1shbfji",
     "1u2bun7"
-   ]
+   ],
+   "kind": "live",
+   "lean": "sativa",
+   "on_ocs_online": true
   },
   {
    "id": "eastcann-gastro-pop",
@@ -382,7 +397,10 @@
     "1vlkfis",
     "1pnlt43",
     "1vyfxns"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "eastcann-mango-sour",
@@ -440,7 +458,10 @@
     "1mq3myy",
     "1l10go7",
     "1k42pag"
-   ]
+   ],
+   "kind": "live",
+   "lean": "sativa",
+   "on_ocs_online": true
   },
   {
    "id": "eastcann-frozen-lemons",
@@ -494,7 +515,10 @@
     "1w1avan",
     "1ttuopw",
     "1tk2l4m"
-   ]
+   ],
+   "kind": "live",
+   "lean": "sativa",
+   "on_ocs_online": true
   },
   {
    "id": "eastcann-purple-kush",
@@ -543,7 +567,10 @@
     "1tyzk2v",
     "1pwcbcj",
     "1w1avan"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "tribal-triple-burger",
@@ -602,7 +629,10 @@
     "1pp5srr",
     "1nfpvin",
     "1w1avan"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "tribal-bubble-up",
@@ -659,7 +689,10 @@
     "1w2hu1w",
     "1rfseap",
     "1vph9qo"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "tribal-neon-sunshine",
@@ -714,7 +747,10 @@
     "1kiz65e",
     "1lrhv5z",
     "1vivsr3"
-   ]
+   ],
+   "kind": "live",
+   "lean": "sativa",
+   "on_ocs_online": true
   },
   {
    "id": "tribal-cuban-linx",
@@ -770,7 +806,10 @@
     "1sbhf4z",
     "1n0nbbv",
     "1td8irn"
-   ]
+   ],
+   "kind": "live",
+   "lean": "sativa",
+   "on_ocs_online": true
   },
   {
    "id": "tribal-galactic-rntz",
@@ -819,7 +858,10 @@
     "1t357th",
     "1pp5srr",
     "1l3d4h0"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "tribal-porto-leche",
@@ -874,7 +916,10 @@
     "1nbv85n",
     "1omqf89",
     "1uwq8kg"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "tribal-gt",
@@ -921,7 +966,10 @@
     "1w2hu1w",
     "1uq30ry",
     "1ume9xy"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "tribal-other",
@@ -970,7 +1018,10 @@
     "1sb3mak",
     "1kl0er2",
     "1jtzih0"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "ph-gorilla-z",
@@ -1027,7 +1078,10 @@
     "1ko8vgc",
     "1ixcfk4",
     "1mw12ny"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": false
   },
   {
    "id": "ph-orangeade",
@@ -1076,7 +1130,10 @@
     "1mw12ny",
     "1ixcfk4",
     "1ko8vgc"
-   ]
+   ],
+   "kind": "live",
+   "lean": "sativa",
+   "on_ocs_online": true
   },
   {
    "id": "ph-others",
@@ -1124,7 +1181,10 @@
     "1j99u0m",
     "1l3d4h0",
     "1lrhv5z"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "carmel-new-hw",
@@ -1183,7 +1243,10 @@
     "1ul4s97",
     "1j0985r",
     "1k4s9vv"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "carmel-animal-face",
@@ -1238,7 +1301,10 @@
     "1j0985r",
     "1ipsz4t",
     "1utvjm9"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "1964-comatose",
@@ -1295,7 +1361,10 @@
     "1uavozu",
     "1j6xl9r",
     "1pwcbcj"
-   ]
+   ],
+   "kind": "cured",
+   "lean": "indica",
+   "on_ocs_online": true
   },
   {
    "id": "1964-others",
@@ -1351,7 +1420,10 @@
     "1ke9a10",
     "1tk2l4m",
     "1w3noif"
-   ]
+   ],
+   "kind": "cured",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "kolab-motorbreath",
@@ -1408,7 +1480,10 @@
     "1j6irz0",
     "1ipsz4t",
     "1n1pq8z"
-   ]
+   ],
+   "kind": "live",
+   "lean": "indica",
+   "on_ocs_online": false
   },
   {
    "id": "woody-nelson",
@@ -1464,7 +1539,10 @@
     "1qdfihw",
     "1jz0yi4",
     "1n1pq8z"
-   ]
+   ],
+   "kind": "cured",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "wildcard",
@@ -1515,7 +1593,10 @@
     "1qkh7ck",
     "1pf1bfl",
     "1jtzih0"
-   ]
+   ],
+   "kind": "cured",
+   "lean": "indica",
+   "on_ocs_online": false
   },
   {
    "id": "lune-rise",
@@ -1565,7 +1646,10 @@
     "1pmf4mq",
     "1nartdw",
     "1w1avan"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "sauce-rosin-labs",
@@ -1630,7 +1714,10 @@
     "1pnmz9l",
     "1dzbnrd",
     "1j67rhe"
-   ]
+   ],
+   "kind": "rosin",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "connoisseur-culture",
@@ -1672,7 +1759,10 @@
    "threads": [
     "1ujs93a",
     "1pcl1af"
-   ]
+   ],
+   "kind": "rosin",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "port-north",
@@ -1721,7 +1811,10 @@
     "1islpdf",
     "1ipsz4t",
     "1kl0z85"
-   ]
+   ],
+   "kind": "rosin",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "greenherb-pure-rosin",
@@ -1770,7 +1863,10 @@
     "1mqh61v",
     "1n6bkgq",
     "1pcl1af"
-   ]
+   ],
+   "kind": "rosin",
+   "lean": "sativa",
+   "on_ocs_online": false
   },
   {
    "id": "rosin-others",
@@ -1818,7 +1914,10 @@
     "1ivu274",
     "1pcl1af",
     "1qkxp99"
-   ]
+   ],
+   "kind": "blend",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "jonny-chronic",
@@ -1867,7 +1966,10 @@
     "1nnu3aj",
     "1tu4lhm",
     "1pcl1af"
-   ]
+   ],
+   "kind": "live",
+   "lean": "sativa",
+   "on_ocs_online": true
   },
   {
    "id": "debunk",
@@ -1916,7 +2018,10 @@
     "1n4by8w",
     "1nggnu5",
     "1vq1ydh"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "greazy",
@@ -1965,7 +2070,10 @@
     "1khcyzc",
     "1nfpvin",
     "1lrhv5z"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": false
   },
   {
    "id": "redecan-amped",
@@ -2013,7 +2121,10 @@
     "1q8w5n9",
     "1tk5rh9",
     "1w1tenn"
-   ]
+   ],
+   "kind": "blend",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "budget-lr",
@@ -2062,7 +2173,10 @@
     "1k8t17z",
     "1rp3yxg",
     "1ion5me"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "sherbinskis",
@@ -2113,7 +2227,10 @@
     "1iciwxa",
     "1pnlt43",
     "1n1pq8z"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "lord-jones",
@@ -2163,7 +2280,10 @@
     "1w1tenn",
     "1igapot",
     "1pcl1af"
-   ]
+   ],
+   "kind": "blend",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "the-loud-plug",
@@ -2211,7 +2331,10 @@
     "1kq2s0b",
     "1ipsz4t",
     "1uact2q"
-   ]
+   ],
+   "kind": "blend",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "mislabelled",
@@ -2266,7 +2389,10 @@
     "1oex2c2",
     "1k1qs3p",
     "1n6bkgq"
-   ]
+   ],
+   "kind": "blend",
+   "lean": "hybrid",
+   "on_ocs_online": true
   },
   {
    "id": "blkmkt",
@@ -2307,7 +2433,10 @@
    "threads": [
     "1i19cdb",
     "1n1pq8z"
-   ]
+   ],
+   "kind": "live",
+   "lean": "hybrid",
+   "on_ocs_online": false
   }
  ],
  "also_consider": [
