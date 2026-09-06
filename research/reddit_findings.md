@@ -190,3 +190,11 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 ### Balanced / CBD live resin (1tsthzp May 2026, 85↑): **Bleuh Original Sativa Wildberry LR 510** (Quebec; 30% THC / 48% CBD / ~10% terps; 100% pure LR, no additives) launched Ontario Jun 2026 — welcomed by people wanting balanced carts; founder Dany active on sub. Other balanced LR: **Orchid CBD RNTZ** (~60% THC, CBD), Lune Rise 2:1 CBD/THC Lemon Zest Pure LR, Glacial Gold 1:1 Anytime Mint (disty).
 ### Northern Canna Permanent Marker LR AIO (1tiivhi May 2026, 62↑): 1g $47, "phenomenal, true to flower, potent sedative" — AIO (uses similar unit to Contraband but better airflow). Also-consider AIO list.
 ### Storage lesson (1uibs6c): heat + months → dark "coffee" resin. Store upright, cool, capped.
+
+### More Aug 2026 rec threads (1vlkfis, 1ttuopw, 1vrwmsl, 1tc1n5o, 1vdq0ty, 1vph9qo)
+- "FOUR54 Gastro Pop and EastCann Gastro Pop are essentially the same product; **FOUR54 has better hardware than EastCann**." Mixed LR+liquid-diamond carts = "trash" per purists.
+- EastCann **Frozen Lemons = social/night-out cart, smooth; 1964 Apples & Bananas = heavy classic stoned**. 3Saints FSE has ceramic hardware (vs 1964 inconsistent pulls).
+- Liquid-diamond carts (Queen of Bud, NSFW, NUGZ Atomic Peach) gave a newbie "no high, awful taste" → sub: Iris/FOUR54/EastCann Mango Sour. Goodbuds (Mango Cake, Timewarp, Gluerangutang) tasty extracts. NUGZ Lemon Linx / G Sherb = LR + added terps (no weedy taste).
+- "Strongest cheap cart": rule #1 never distillate; Iris/Tribal/FOUR54; Kolab for cheaper; tolerance reset caveat.
+- Best LR AIO (Aug 2026): **67 Sins Gas Face AIO** (#1 for many, "kicks like a mule", no botanicals), Iris Fantasm AIO (new 2026), Dom Jackson Gas Tank cured resin AIO, Northern Canna Permanent Marker AIO, 1Above Juice Bar (rosin), Castle Rock Farms Pick Me Up LR AIO, 1964 AIOs, Redecan Legit LR AIO.
+- Gassy/kush carts: Tribal GT (Gran Turismo), Iris Blackwater, EastCann Purple Kush, Bubble Up (soap/gas/filth), Triple Burger, Galactic Runtz, 1964 Stinky Pinky, Redecan Animal Runtz AIO.
