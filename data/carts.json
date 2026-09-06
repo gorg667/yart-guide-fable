@@ -2063,6 +2063,402 @@
     "1rp3yxg",
     "1ion5me"
    ]
+  },
+  {
+   "id": "sherbinskis",
+   "brand": "Sherbinskis",
+   "parent": "Sherbinskis (Canada)",
+   "name": "Pink Sherbs / True GLTO 33 / Zauce Live Resin 510",
+   "current_strain": "Pink Sherbs, True GLTO 33, Zauce",
+   "type": "Live resin (fresh frozen per OCS); community doubts purity of some SKUs",
+   "size": "1g",
+   "price_ocs": 47.0,
+   "street_price": "$43–48",
+   "thc": "74–81%",
+   "terps": "not published on many lots",
+   "hardware": "Same hardware as The Loud Plug — 'nice hardware' vs 'worst clogging I've ever had' (Pink Sherb); burns at end",
+   "tier": "C",
+   "score": 6.8,
+   "ocs_url": "https://ocs.ca/products/true-glto-33-live-resin-510-thread-cartridge-sherbinskis-true-glto",
+   "availability": "OCS.ca (True GLTO 33) + stores",
+   "leaning": "Pink Sherbs indica-hybrid; Zauce heady sativa-ish; GLTO 33 hybrid",
+   "flavour": "Muted candy (Zauce), pink-lemonade (Pink Sherbs), gelato",
+   "effects": "Decent but 'not memorable'",
+   "verdict": "A premium-priced brand that the sub rates as inconsistent: 'feels like they use different input material a lot', Pink Sherb rebuys 'so ass, no taste or high', clogging and leaks with no CS response — yet True GLTO 33 keeps some fans. Spend the $47 on Iris or FOUR54 instead.",
+   "pros": [
+    "GLTO 33 flavour liked",
+    "Wide availability"
+   ],
+   "cons": [
+    "Inconsistency",
+    "Clogging/leaks",
+    "No terp data",
+    "Priced above better carts"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Sherbunkskis has been a lot less consistent … feels like they use different input material a lot tbh.",
+     "t": "1n0nbbv",
+     "s": 11
+    },
+    {
+     "q": "This is how I feel about Pink Sherbs. Got it for the first time after exactly a year and it's so ass. No taste or high",
+     "t": "1jz0yi4",
+     "s": 2
+    }
+   ],
+   "threads": [
+    "1n0nbbv",
+    "1jc8x6z",
+    "1iciwxa",
+    "1pnlt43",
+    "1n1pq8z"
+   ]
+  },
+  {
+   "id": "lord-jones",
+   "brand": "Lord Jones",
+   "parent": "Cronos Group (Spinach) — majority-owned by Altria",
+   "name": "Liquid Diamonds x Live Resin 510 — Orange Velvet / Sour Blueberry / Gorilla Grape / Pink RNTZ (and legacy Deadhead OG LR)",
+   "current_strain": "Orange Velvet (Sour Tangie x Mandarin Sunset), Sour Blueberry (SFV OG x Chem 4), Gorilla Grape (GG4 x Vino OG), Pink RNTZ",
+   "type": "Mostly liquid diamonds (≈ decarbed THCa ≈ distillate-grade) with a small live-resin fraction; 99.2% THC",
+   "size": "1g",
+   "price_ocs": 40.0,
+   "street_price": "$30–40",
+   "thc": "96–99.2%",
+   "terps": "low (added?)",
+   "hardware": "New 2026 metal-core cart fixed the old purple line's leaking for one reviewer; legacy LR line 'leaky shit'",
+   "tier": "AVOID",
+   "score": 5.5,
+   "ocs_url": "https://ocs.ca/products/orange-velvet-liquid-diamonds-x-live-re-510-thread-cartridge-lord-jones-sour-tangie-x-mandarin-sunset",
+   "availability": "OCS.ca online + Canna Cabana",
+   "leaning": "varies",
+   "flavour": "Orange cream / grape candy — 'suspiciously good'",
+   "effects": "Clean but disty-like spike",
+   "verdict": "Community calls it 'designer distillate' — dressed up with 'live resin' on the label so it can sell at LR prices. Casual users rate it 7–8.5/10; enthusiasts say 'big no', citing hardware history, minimal resin content, and Big Tobacco ownership. Not a live resin cart in any meaningful sense.",
+   "pros": [
+    "Cheap for the THC number",
+    "New hardware works"
+   ],
+   "cons": [
+    "Mostly liquid diamonds, not resin",
+    "Legacy line clogged/leaked, zero CS",
+    "Ownership boycott sentiment"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "I call these 'Designer distillate' - dressed up to the max with LR bling but its 80+% distillate with a bit of LR so they can put it on the label.",
+     "t": "1s2lzs1",
+     "s": 9
+    },
+    {
+     "q": "Out of all the live resin carts I've tried, Lord Jones was the absolute worst - burned at low voltage, started clogging and then leaking halfway through. Zero recourse from the LP",
+     "t": "1qnxnw8",
+     "s": 20
+    }
+   ],
+   "threads": [
+    "1s2lzs1",
+    "1qnxnw8",
+    "1w1tenn",
+    "1igapot",
+    "1pcl1af"
+   ]
+  },
+  {
+   "id": "the-loud-plug",
+   "brand": "The Loud Plug",
+   "parent": "white-label (same house as Ambr, Jays)",
+   "name": "Exotic Gas / Venom OG / Frosted Swirl / Lemon GLTO 'Live Resin' 510",
+   "current_strain": "various",
+   "type": "Labelled live resin; outsourced, thick, 'plastic and fake terpenes'; ~5% terps",
+   "size": "1g",
+   "price_ocs": 43.2,
+   "street_price": "$36–54",
+   "thc": "82–89%",
+   "terps": "~5%",
+   "hardware": "Sherbinskis-style; Venom OG leaked with no CS",
+   "tier": "AVOID",
+   "score": 4.5,
+   "ocs_url": "https://ocs.ca/products/exotic-gas-live-resin-510-thread-cartridge-the-loud-plug-pink-cookies",
+   "availability": "OCS.ca + stores",
+   "leaning": "varies",
+   "flavour": "'Straight plastic and fake terpenes'",
+   "effects": "Weak for the price",
+   "verdict": "'Your first mistake was buying The Loud Plug' (64 upvotes). Once decent (late 2024), now considered overpriced white-label product with poor terps. Venom OG at $54 is the most expensive LR on OCS and among the worst reviewed.",
+   "pros": [
+    "Widely stocked"
+   ],
+   "cons": [
+    "Fake/plastic taste",
+    "5% terps",
+    "Overpriced",
+    "Leaks, no CS"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Your first mistake was buying The Loud Plug",
+     "t": "1kq2s0b",
+     "s": 64
+    },
+    {
+     "q": "It's actually crazy how their stuff continues to be some of the most expensive stuff on the market. Who the fuck is buying it?",
+     "t": "1kq2s0b",
+     "s": 31
+    }
+   ],
+   "threads": [
+    "1kq2s0b",
+    "1ipsz4t",
+    "1uact2q"
+   ]
+  },
+  {
+   "id": "mislabelled",
+   "brand": "Coterie / -ness (BZAM) / Ambr / Qwest / Roilty / Frootyhooty",
+   "parent": "various",
+   "name": "'Live resin' carts the community says are cut or mislabelled",
+   "current_strain": "Coterie Sour Tangerine 'live resin' (~80% distillate); -ness 'Liquid Live Resin' (ingredients list distillate + terps); Ambr Papaya 'Pure Live Resin' (botanical terpenes listed); Qwest Grape Cream Cks (80/20 LR/distillate per rep); Roilty 'live resin' (distillate); Frootyhooty 'Live Rosin Amp'd' (rosin + distillate + flavour)",
+   "type": "Blends of distillate/liquid diamonds with a minority of resin, or resin with botanical terps",
+   "size": "1g",
+   "price_ocs": 42.95,
+   "street_price": "$35–47",
+   "thc": "78–95%",
+   "terps": "n/a",
+   "hardware": "varies",
+   "tier": "AVOID",
+   "score": 4.0,
+   "ocs_url": "https://ocs.ca/collections/live-carts",
+   "availability": "OCS.ca + stores",
+   "leaning": "n/a",
+   "flavour": "Hay / fake fruit / pine air-freshener (Qwest)",
+   "effects": "Disty-like",
+   "verdict": "Health Canada does not define 'live resin', so producers can print it on a cart that is mostly distillate. r/TheOCS has repeatedly caught these (Coterie thread: 163 upvotes). Rule: if the ingredients say anything other than 'cannabis extract' — e.g. 'terpenes', 'botanical terpenes', 'distillate' — or the THC is 90%+, it is not a pure live resin cart.",
+   "pros": [
+    "Sometimes cheap on sale"
+   ],
+   "cons": [
+    "Misleading labels",
+    "Low terps",
+    "Community anger"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Right after smoking this I could tell it wasn't straight live resin so I went onto their website just to find out it's mostly a distallite based cartridge.",
+     "t": "1kxs6en",
+     "s": 163
+    },
+    {
+     "q": "front says liquid live resin, back says %100 live resin and ingredients say distillate and terps lol wtf",
+     "t": "1kqu9cs",
+     "s": 105
+    },
+    {
+     "q": "Saying pure live resin and including fake terps should be illegal",
+     "t": "1w5u284",
+     "s": 26
+    }
+   ],
+   "threads": [
+    "1kxs6en",
+    "1kqu9cs",
+    "1w5u284",
+    "1oex2c2",
+    "1k1qs3p",
+    "1n6bkgq"
+   ]
+  },
+  {
+   "id": "blkmkt",
+   "brand": "BLKMKT",
+   "parent": "BLK MKT",
+   "name": "Pineapple Pure Live Resin 510",
+   "current_strain": "Pineapple P",
+   "type": "Live resin",
+   "size": "1g",
+   "price_ocs": 54.95,
+   "street_price": "$50–55",
+   "thc": "~80%",
+   "terps": "n/a",
+   "hardware": "Low quality; burnt taste above 1.8V",
+   "tier": "C",
+   "score": 5.8,
+   "ocs_url": "https://ocs.ca/collections/live-carts",
+   "availability": "limited",
+   "leaning": "hybrid",
+   "flavour": "Dark oil, burnt",
+   "effects": "'Insanely strong' (2024) vs 'minimal, headaches' (2025)",
+   "verdict": "Was S-tier for potency in 2024 but a Jan 2025 rebuy was 3/10 at $55: dark oil, burnt taste, minimal effects, headaches. Fans of the flower avoid the carts.",
+   "pros": [
+    "Legacy reputation"
+   ],
+   "cons": [
+    "Priciest cart on the market",
+    "Hardware low quality",
+    "Recent lots disappointing"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Blk mkt carts are not worth the price at all. The hardware is low quality and the live resin isn't the best either.",
+     "t": "1i19cdb",
+     "s": 20
+    }
+   ],
+   "threads": [
+    "1i19cdb",
+    "1n1pq8z"
+   ]
+  }
+ ],
+ "also_consider": [
+  {
+   "name": "Sixty Seven Sins — 67 Cured Resin 510 (Gas Face) & Gas Face AIO",
+   "category": "Cured resin",
+   "price": "$43 (510) / $40–45 (AIO)",
+   "why": "Most-praised new vape of 2026: 'a pure gassy punch to the face', very sedative, no botanicals; 'kicks like a mule'. 510 uses stainless CCELL (owner promised to look at ceramic); AIO is many users' #1 disposable. Made by the Purple Hills founder's craft label.",
+   "threads": [
+    "1tnsqjs",
+    "1tbyo84",
+    "1vdq0ty"
+   ]
+  },
+  {
+   "name": "Redecan — Legit Live Resin AIO (Animal Runtz, Purple Churro) 1.2g",
+   "category": "Live resin AIO",
+   "price": "$40",
+   "why": "The shock hit of 2025: 'one of the best live resin products on the market', huge mouthpiece, no clogs, tastes like weed, hits like a dab. One dissenter says it only hits hard because it runs hot and burns out in 3 days.",
+   "threads": [
+    "1l6kdjz",
+    "1lbnsra",
+    "1ma7kf7",
+    "1p2xs4m"
+   ]
+  },
+  {
+   "name": "1Above — Juice Bar / Fruit Bar Live Hash Rosin AIO 0.5g",
+   "category": "Live rosin AIO",
+   "price": "$30–42",
+   "why": "'Best AIO in Canada right now'; 'best hardware on the market'; rotating drops (Laranjazz, Autumn Sunset, Sour Sandia, Lemon Berry). The community's #1 rosin brand; the reason many rosin fans skip 510s entirely.",
+   "threads": [
+    "1rxr556",
+    "1pqc13f",
+    "1slkgym",
+    "1vhk7kj"
+   ]
+  },
+  {
+   "name": "Northern Canna — Permanent Marker Live Resin AIO 1g",
+   "category": "Live resin AIO",
+   "price": "$47",
+   "why": "'Phenomenal, true to flower, potent and sedative' (62 upvotes). Better airflow than the Contraband unit it resembles.",
+   "threads": [
+    "1tiivhi",
+    "1vdq0ty"
+   ]
+  },
+  {
+   "name": "Iris Labs — Fantasm AIO",
+   "category": "Live resin AIO",
+   "price": "~$45",
+   "why": "2026 AIO version of the S-tier cart; recommended alongside 67 Sins as the best LR disposable.",
+   "threads": [
+    "1u7tagw",
+    "1u264wx",
+    "1vdq0ty"
+   ]
+  },
+  {
+   "name": "Invader — Live Rosin AIO 0.5g / SUGR — Live Rosin disposable",
+   "category": "Live rosin AIO",
+   "price": "$40–55",
+   "why": "Invader called 'even better than the Juice Bar'; SUGR (arrived in Ontario 2026) is 'top-tier rosin on legal', multi-layered terps, expensive.",
+   "threads": [
+    "1tbyo84",
+    "1r2w537",
+    "1ux00np",
+    "1vqvufu"
+   ]
+  },
+  {
+   "name": "Pure Sunfarms — Pink Kush Cured Resin 510",
+   "category": "Cured resin 510",
+   "price": "$31–40",
+   "why": "'True to flower with earth, gas and a hint of vanilla… quick body stone… not too bad for $31'. Plastic/SS hardware. Cheapest good full-spectrum cart.",
+   "threads": [
+    "1w1sebp",
+    "1w3noif"
+   ]
+  },
+  {
+   "name": "Bleuh — Original Sativa Wildberry Balanced Live Resin 510 (30% THC / 48% CBD)",
+   "category": "Balanced live resin 510",
+   "price": "$44.90",
+   "why": "Quebec 100% pure LR, no additives, in the same Active ceramic hardware as FOUR54. Launched Ontario Jun 2026 to an 85-upvote welcome from people wanting balanced carts. Founder active on the sub.",
+   "threads": [
+    "1tsthzp",
+    "1ujsx0h"
+   ]
+  },
+  {
+   "name": "Orchid CBD — CBD RNTZ Live Resin 510 (~60% THC + CBD)",
+   "category": "Balanced live resin 510",
+   "price": "$40",
+   "why": "'Hands down best overall feeling, perfect daytime buzz'; 'a hug from inside'; 'never had a bum one'. Made by Cannara (Tribal).",
+   "threads": [
+    "1jz0yi4",
+    "1utvjm9",
+    "1dawdms",
+    "1pp5srr"
+   ]
+  },
+  {
+   "name": "Lune Rise Farms — 2:1 CBD/THC Lemon Zest Pure Live Resin 510",
+   "category": "Balanced live resin 510",
+   "price": "$39.90",
+   "why": "Additive-free balanced option from a well-regarded Ontario craft LP.",
+   "threads": [
+    "1pmf4mq"
+   ]
+  },
+  {
+   "name": "Versus — BC Purple Kush Full Spectrum 510 1.2g",
+   "category": "Budget full-spectrum (cured)",
+   "price": "$32–36",
+   "why": "Hay taste but 'feels like you did crack' 9/10 effects; consistent; the sub's budget FSE meme pick.",
+   "threads": [
+    "1l4tivz",
+    "1tyzk2v"
+   ]
+  },
+  {
+   "name": "NUGZ — G Sherb / Lemon Linx Full Spectrum 510",
+   "category": "Budget resin + terps",
+   "price": "$30–35",
+   "why": "Tribal's sister brand; resin with added terps (no weedy taste); the step-up from distillate for students.",
+   "threads": [
+    "1jayip5",
+    "1w3noif",
+    "1vrwmsl"
+   ]
+  },
+  {
+   "name": "MTL Cannabis — Sage n' Sour 510",
+   "category": "Live resin 510",
+   "price": "$47.95",
+   "why": "'Really refreshing' sativa; too few reviews to rank.",
+   "threads": [
+    "1w1avan"
+   ]
+  },
+  {
+   "name": "Weed Me — Pai Gow Pure Live Resin 510",
+   "category": "Live resin 510",
+   "price": "~$45",
+   "why": "One reviewer: 'killer cart… reminiscent of 1964 Blue Dream'. Watch package dates — old Weed Me LR stock reported.",
+   "threads": [
+    "1n0nbbv",
+    "1mgm0kh"
+   ]
   }
  ]
 }
