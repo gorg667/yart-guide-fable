@@ -1125,6 +1125,447 @@
     "1l3d4h0",
     "1lrhv5z"
    ]
+  },
+  {
+   "id": "carmel-new-hw",
+   "brand": "Carmel",
+   "parent": "Carmel Cannabis (Oro-Medonte, Ontario)",
+   "name": "Pure Live Resin 510 — Jungle J / Zebra Stripes / Permanent Cherries / Big Apple (new ceramic hardware)",
+   "current_strain": "Jungle J (Jungle Juice), Zebra Stripes, Permanent Cherries, Big Apple (Apple Fritter x Sherb BX1)",
+   "type": "100% live resin, NOT CRC'd (dark, 'looks like real live resin')",
+   "size": "1g",
+   "price_ocs": 49.1,
+   "street_price": "$45–53",
+   "thc": "81–88%",
+   "terps": "~6%",
+   "hardware": "Late 2025/2026: switched to the same 'Active' postless ceramic XL cart FOUR54 uses (orange cap on Jungle J). Older Carmel carts (pre-late-2025) = notoriously bad hardware.",
+   "tier": "A",
+   "score": 8.5,
+   "ocs_url": "https://ocs.ca/products/jungle-j-pure-live-resin-510-cart-carmel-jungle-juice",
+   "availability": "OCS.ca (Big Apple, Slurty3, Animal Face) + Toronto stores (Jungle J)",
+   "leaning": "varies: Jungle J sour-citrus hybrid; Zebra Stripes earthy; Permanent Cherries cherry-gas; Big Apple sour green apple",
+   "flavour": "Uncut, terpy, 'clean earthy cannabis' — the most 'dab-like' unfiltered resin on the market",
+   "effects": "Potent; Animal Face lineage carts famous for a giggly, creative head that melts into body",
+   "verdict": "Carmel's oil was always S-tier ('excellent resin, terrible hardware') and in late 2025 they finally moved to the community's favourite ceramic hardware. Reviews of Zebra Stripes, Permanent Cherries and Jungle J in the new cart are glowing. Only buy Carmel carts in the new ceramic hardware — and expect to pay a premium.",
+   "pros": [
+    "Uncut, non-CRC resin with real colour and terps",
+    "New hardware = FOUR54-grade",
+    "Carmel replies on Reddit (whatsup@carmelcannabis.ca)"
+   ],
+   "cons": [
+    "Most expensive live resin on OCS ($49.10)",
+    "Old-hardware stock may still be on shelves — check for ceramic/orange cap",
+    "Brand trust damaged by 2024–25 hardware saga and CS complaints",
+    "Animal Face recent lots 'underwhelming' for some"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "This has got to be the best cart on the market. First LR 510 I've had that LOOKS like there's live resin in there. Clearly Carmel have nothing to hide as this has not been CRCed at all.",
+     "t": "1nuttjn",
+     "s": 2
+    },
+    {
+     "q": "It is the same Active cart that Four54 uses… I'm running it at 1.9 and I think it tastes awesome.",
+     "t": "1ujsx0h",
+     "s": 13
+    },
+    {
+     "q": "Hardware is top notch and fires BEAUTIFULLY at 2.0-2.2V, which a lot of other carts do not handle well",
+     "t": "1nuttjn",
+     "s": 2
+    }
+   ],
+   "threads": [
+    "1ujsx0h",
+    "1nuttjn",
+    "1rcqkta",
+    "1sawrgs",
+    "1ul4s97",
+    "1j0985r",
+    "1k4s9vv"
+   ]
+  },
+  {
+   "id": "carmel-animal-face",
+   "brand": "Carmel",
+   "parent": "Carmel Cannabis (Oro-Medonte, Ontario)",
+   "name": "Animal Face Pure Live Resin 510",
+   "current_strain": "Animal Face (Face Off OG x Animal Mints)",
+   "type": "100% live resin (not CRC'd)",
+   "size": "1g",
+   "price_ocs": 49.1,
+   "street_price": "$45–53",
+   "thc": "81–87%",
+   "terps": "~6–9%",
+   "hardware": "Check lot: new ceramic (late 2025+) vs old leaky/clogging cart",
+   "tier": "B",
+   "score": 7.9,
+   "ocs_url": "https://ocs.ca/products/animal-face-pure-live-resin-510-thread-cartridge-carmel-animal-face-1",
+   "availability": "OCS.ca online + stores",
+   "leaning": "Sativa-leaning hybrid (feels relaxing to many)",
+   "flavour": "Lemon, cake, gas — true to the famous flower",
+   "effects": "Giggly, creative, 'diving into the juiciest part of my consciousness', settles into body; high CBG",
+   "verdict": "The 2024 hype cart that launched Carmel's vape line. The resin is still loved ('top 3 for me') but opinions split — recent lots called 'overhyped mid' by some, and older hardware burned many buyers. Worth it in the new hardware if you love the strain.",
+   "pros": [
+    "Iconic strain, faithful flavour",
+    "Very potent for a 'sativa'"
+   ],
+   "cons": [
+    "Priciest tier",
+    "Old-hardware horror stories (>90 users)",
+    "Batch variance 2025"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Carmel - Animal face. So good. Tribal is good too.",
+     "t": "1jz0yi4",
+     "s": 4
+    },
+    {
+     "q": "Caramel - animal face is an over hyped, overpriced mid. Was not happy with that one",
+     "t": "1k42pag",
+     "s": 6
+    },
+    {
+     "q": "The best cart for me was the first batches of Carmel Animal Face. Nowadays it's Fantasm (Iris Labs)",
+     "t": "1utvjm9",
+     "s": 11
+    }
+   ],
+   "threads": [
+    "1ul4s97",
+    "1k42pag",
+    "1j0985r",
+    "1ipsz4t",
+    "1utvjm9"
+   ]
+  },
+  {
+   "id": "1964-comatose",
+   "brand": "1964 (Rubicon Organics)",
+   "parent": "Rubicon Organics (BC); extraction by Cannabis Tolling Solutions",
+   "name": "Comatose FSE Resin 510",
+   "current_strain": "Comatose OG (OG Kush)",
+   "type": "Full-spectrum CURED resin (not live) — often mislabelled 'live resin' in stores",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$37–45",
+   "thc": "75–84%",
+   "terps": "~2.7%",
+   "hardware": "Metal-look CCELL-type cart; the brand's weak point — 'inconsistent pulls', fails halfway for some",
+   "tier": "A",
+   "score": 8.4,
+   "ocs_url": "https://ocs.ca/products/comatose-live-resin-510-thread-cartridge-1964-og-kush",
+   "availability": "OCS.ca online + Toronto stores",
+   "leaning": "Heavy indica",
+   "flavour": "Guava-ish OG, pine, earthy, 'rubbery' to some",
+   "effects": "'A veil of happiness falls over me'; 'medicine'; sedating, mellow, tiring — night-time only",
+   "verdict": "The sub's favourite cured-resin cart and a top indica pick overall ('cliché answer around here'). Low listed terps yet heavy effects — a lesson in why THC/terp numbers mislead. Run it at 1.8–2.0V and accept mediocre hardware.",
+   "pros": [
+    "Consistently loved effects",
+    "Faithful OG flavour",
+    "Frequently $37 in stores"
+   ],
+   "cons": [
+    "Not live resin",
+    "Hardware inconsistency",
+    "Some lots milder / 'doesn't get me high' (heavy users)"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "a very cliche answer around here but 1964 comatose is magic to me. feels like a veil of happiness falls over me.",
+     "t": "1rfseap",
+     "s": 13
+    },
+    {
+     "q": "Plus add 1964 - Comatose. Woooosh that thing is medicine.",
+     "t": "1pnlt43",
+     "s": 5
+    },
+    {
+     "q": "I definitely feel like the hardware on the 1964 suck. I've had like 5 1964 carts and problems with all of them. But the comatose cart is some real full spectrum extract, top notch resin.",
+     "t": "1rfseap",
+     "s": 3
+    }
+   ],
+   "threads": [
+    "1rfseap",
+    "1u9llfq",
+    "1lqyd2b",
+    "1uavozu",
+    "1j6xl9r",
+    "1pwcbcj"
+   ]
+  },
+  {
+   "id": "1964-others",
+   "brand": "1964 (Rubicon Organics)",
+   "parent": "Rubicon Organics (BC)",
+   "name": "Stinky Pinky / Blue Dream / Lemon Diesel / Apples & Bananas FSE Resin 510",
+   "current_strain": "Pink Kush (TF cut), Blue Dream, Lemon Jack x NY Diesel, Apples & Bananas (Gelato 41 discontinued 2025)",
+   "type": "Full-spectrum cured resin",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$37–45",
+   "thc": "74–84%",
+   "terps": "low listed",
+   "hardware": "1964 metal-look cart (weak point)",
+   "tier": "A",
+   "score": 8.2,
+   "ocs_url": "https://ocs.ca/products/stinky-pinky-fse-resin-510-thread-cartridge-1964-pink-kush-pheno-tf-cut",
+   "availability": "OCS.ca online + stores",
+   "leaning": "Stinky Pinky & A&B = indica; Blue Dream & Lemon Diesel = sativa",
+   "flavour": "Stinky Pinky: earthy pine pink kush. Blue Dream: sweet blueberry (budtenders' pick). Lemon Diesel: lemon candy/lime.",
+   "effects": "Stinky Pinky relaxed & heavy (like Comatose); Blue Dream productive euphoria; Lemon Diesel energizing all-day; A&B 'classic stoned'",
+   "verdict": "A strong, no-additive cured-resin line. Blue Dream is the SKU budtenders rebuy; Lemon Diesel is the sleeper sativa. A vocal minority say all 1964 carts taste alike and hit mild.",
+   "pros": [
+    "Pure cured resin, no additives",
+    "Distinct sativa options",
+    "Good CS via Rubicon"
+   ],
+   "cons": [
+    "Hardware",
+    "Cured, so terps more muted than live",
+    "Some find effects underwhelming"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "1964 and Iris Labs are my top pics brand wise.",
+     "t": "1uq30ry",
+     "s": 11
+    },
+    {
+     "q": "Blue Dream is the only one I'd buy again. But I wish it had better hardware.",
+     "t": "1ipg451",
+     "s": 3
+    },
+    {
+     "q": "Lemon Diesel… Big fan of this, had me going all day and I got f*ck all for sleep last night.",
+     "t": "1ke9a10",
+     "s": 53
+    }
+   ],
+   "threads": [
+    "1iavig0",
+    "1ipg451",
+    "1ke9a10",
+    "1tk2l4m",
+    "1w3noif"
+   ]
+  },
+  {
+   "id": "kolab-motorbreath",
+   "brand": "Kolab Project",
+   "parent": "Auxly",
+   "name": "Motorbreath Pure Live Resin 510 ('Liquid Live Resin' / 232 series)",
+   "current_strain": "Motorbreath",
+   "type": "100% live resin (very fluid)",
+   "size": "1g",
+   "price_ocs": 52.1,
+   "street_price": "$41–52",
+   "thc": "85–91% (lots as low as 66–69% with 12–30% terps)",
+   "terps": "12–30%",
+   "hardware": "Heaviest-duty hardware on the market: thick metal tip, wide mouthpiece, doesn't clog; non-standard shape won't fit some holders",
+   "tier": "A",
+   "score": 8.6,
+   "ocs_url": "https://ocs.ca/products/liquid-live-resin-510-thread-cartridge-kolab-project",
+   "availability": "Toronto stores (Wholesale Only)",
+   "leaning": "Indica-leaning hybrid",
+   "flavour": "GMO gas, 'tastes like fresh weed'; some get a sharp cheesy first note",
+   "effects": "'Best cart on the OCS for how hard and fast it hits head-wise' — S-tier potency in one heavy user's tier list; others found it mild",
+   "verdict": "The connoisseur's alternative to Tribal Triple Burger: gassy, extremely potent, in tank-like hardware. Held back only by the highest price on the list and occasional bottom leaks from the thin oil.",
+   "pros": [
+    "Best-built hardware in the category",
+    "Potency despite modest THC on some lots",
+    "Kolab CS responsive (info@kolabproject.com)"
+   ],
+   "cons": [
+    "$52.10 OCS list — priciest LR 510",
+    "Runny oil can leak from the bottom",
+    "Only one strain",
+    "Not on OCS.ca"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Does any 510 cart top Motorbreath by Kolab? It's a 10 / 10 cart in every way.",
+     "t": "1khcyzc",
+     "s": 4
+    },
+    {
+     "q": "Dude, in my opinion, motorbreath is the best cart on the ocs in terms of how hard and fast it hits head-wise. Nothing comes close.",
+     "t": "1ipsz4t",
+     "s": 3
+    },
+    {
+     "q": "Kolab pure live resin hands down",
+     "t": "1pp9wbg",
+     "s": 7
+    }
+   ],
+   "threads": [
+    "1khcyzc",
+    "1pp9wbg",
+    "1j6irz0",
+    "1ipsz4t",
+    "1n1pq8z"
+   ]
+  },
+  {
+   "id": "woody-nelson",
+   "brand": "Woody Nelson",
+   "parent": "Woody Nelson (BC); extract by Wildcard/Pantheon",
+   "name": "Rainbow Driver / Country Club (rotating) Vape 510",
+   "current_strain": "Rainbow Driver; Country Club rotation (Gastro Pop by JR Strain was legendary); 1:1 rotating",
+   "type": "Resin (labelled resin; hang-dry per OCS — treat as cured/FSE)",
+   "size": "1g",
+   "price_ocs": 51.05,
+   "street_price": "$47–51",
+   "thc": "84–90%",
+   "terps": "varies",
+   "hardware": "Ceramic on some batches; clogs reported; a Dec 2025 unit burned out of the box",
+   "tier": "B",
+   "score": 7.8,
+   "ocs_url": "https://ocs.ca/products/rainbow-driver-510-thread-cartridge-woody-nelson-rainbow-driver",
+   "availability": "Toronto stores (Wholesale Only)",
+   "leaning": "Rainbow Driver = hybrid (strong & sleepy)",
+   "flavour": "Berry/candy, 'similar to Neon Sunshine'; very tasty",
+   "effects": "Strong then sleepy; some call it mild for the price",
+   "verdict": "A frequent top-5 pick through mid-2025 (Rainbow Driver ~9/10; Country Club Gastro Pop = 'best cart since Kolab Wedding Pie'). Sentiment cooled in 2026 amid the brand's flower-quality controversy, slow customer service, and a $47–51 price 'not worth more than $40'.",
+   "pros": [
+    "Great flavour",
+    "Country Club rotation can be exceptional"
+   ],
+   "cons": [
+    "Most expensive tier",
+    "CS unresponsive (Jan 2026 thread)",
+    "Clogging; burning report",
+    "Brand perceived as declining"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Woody Nelson Rainbow Driver is my current favourite",
+     "t": "1lrhv5z",
+     "s": 15
+    },
+    {
+     "q": "Country Club w/ JR Strain's Gastro Pop. Best cart I've had since Kolab's Wedding Pie rosin from back in the day.",
+     "t": "1nartdw",
+     "s": 7
+    },
+    {
+     "q": "Pantheon [Wildcard/Woody Nelson] (great taste but not amazing effects and not worth more than $40cad)",
+     "t": "1n1pq8z",
+     "s": 0
+    }
+   ],
+   "threads": [
+    "1lrhv5z",
+    "1nartdw",
+    "1qdfihw",
+    "1jz0yi4",
+    "1n1pq8z"
+   ]
+  },
+  {
+   "id": "wildcard",
+   "brand": "Wildcard Extracts",
+   "parent": "Pantheon (BC)",
+   "name": "Small Batch Resin 510 — G-Wagon (cured) / Forbidden Pie (live) / Waffle Bites (cured)",
+   "current_strain": "G-Wagon (Georgia Pie x Zwish) has been the 'small batch' for 1.5+ years; Forbidden Pie LR; Cake x Caviar Waffle Bites",
+   "type": "Mostly cured resin; Forbidden Pie is live resin; no additives (brand statement)",
+   "size": "1g",
+   "price_ocs": 45.0,
+   "street_price": "$40–50",
+   "thc": "73–90%",
+   "terps": "4–18%",
+   "hardware": "'Active' cart with hemp-plastic mouthpiece, non-ceramic core — burns halfway / clogs for many",
+   "tier": "B",
+   "score": 7.5,
+   "ocs_url": "https://ocs.ca/collections/510-thread-cartridges",
+   "availability": "Toronto stores",
+   "leaning": "G-Wagon indica-hybrid; Forbidden Pie indica ('day-walking indica'); Waffle Bites energizing→relaxing",
+   "flavour": "Flavour-forward despite low listed terps: sweet floral (Forbidden Pie), piney (Waffle Bites), rubbery gas (G-Wagon)",
+   "effects": "Split: 'smacks harder than any Tribal/Carmel/Iris' vs 'super mild'",
+   "verdict": "Great oil, poor hardware, polarizing potency. Forbidden Pie is 'my favourite cart on the market' for some; G-Wagon has been the only rotation for too long. Wildcard is active on Reddit.",
+   "pros": [
+    "No additives, flavour-forward",
+    "Unique genetics"
+   ],
+   "cons": [
+    "Non-ceramic hardware clogs/burns",
+    "Stale rotation",
+    "Potency divides opinion",
+    "No CS for defects per some"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "In terms of Potencey, I have never had a cart smack me this hard… Stronger than any Tribal, Carmel, Iris lab cart… Something Weird - It burned nearly half way",
+     "t": "1lh2nck",
+     "s": 16
+    },
+    {
+     "q": "My favourite carts on the market. The resin inside is so good I hope they find better hardware to match that asap. All of my wildcard carts have clogged but I keep grabbing them",
+     "t": "1ok39yv",
+     "s": 5
+    }
+   ],
+   "threads": [
+    "1lh2nck",
+    "1ok39yv",
+    "1qkh7ck",
+    "1pf1bfl",
+    "1jtzih0"
+   ]
+  },
+  {
+   "id": "lune-rise",
+   "brand": "Lune Rise Farms",
+   "parent": "Lune Rise Farms (Ontario)",
+   "name": "Farmers' Market Pure Live Resin 510 (rotating strain)",
+   "current_strain": "Rotating: Pink Tsunami, Sticky Macaroons, Lollipopz, Peanut Butter Barn Dance…",
+   "type": "100% live resin, no additives",
+   "size": "1g",
+   "price_ocs": 48.05,
+   "street_price": "$42–48",
+   "thc": "78–81%",
+   "terps": "up to 20%",
+   "hardware": "Ascera ceramic (new, 2025) alongside older hardware on same batch",
+   "tier": "A",
+   "score": 8.3,
+   "ocs_url": "https://ocs.ca/products/farmers-market-pure-live-resin-510-vape-lune-rise-farms",
+   "availability": "Toronto stores (Wholesale Only)",
+   "leaning": "varies by rotation",
+   "flavour": "Pink Tsunami: fruity tart, milky-looking resin; Lollipopz: candy",
+   "effects": "Lollipopz lot: 'strongest cart I've had in a while'; Pink Tsunami 10/10",
+   "verdict": "Under-the-radar Ontario craft LR with very high terps and clean inputs; every review is positive but volume is small. Also makes a 2:1 CBD/THC Lemon Zest LR cart ($39.90) for balanced users.",
+   "pros": [
+    "Very terpy, additive-free",
+    "Ceramic hardware rollout",
+    "Balanced 2:1 option"
+   ],
+   "cons": [
+    "Rotating strain, limited distribution",
+    "Pricey at OCS list",
+    "Few reviews"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "There's a rotating lune rise farms live resin strain called Lollipopz. Holy crap has it knocked my socks off. Strongest cart I've had in a while",
+     "t": "1w1avan",
+     "s": 1
+    },
+    {
+     "q": "Lune rise farms has some great live resin in 510 and AIO… No botanicals, additives or fillers",
+     "t": "1pmf4mq",
+     "s": 3
+    }
+   ],
+   "threads": [
+    "1n52wyb",
+    "1pmf4mq",
+    "1nartdw",
+    "1w1avan"
+   ]
   }
  ]
 }
