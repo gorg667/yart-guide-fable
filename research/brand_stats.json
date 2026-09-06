@@ -1,0 +1,3983 @@
+{
+ "generated": "2026-09-06",
+ "n_posts_total": 81698,
+ "n_threads_with_comments": 196,
+ "n_comments_total": 13283,
+ "brands": {
+  "Iris Labs": {
+   "posts": 238,
+   "posts_2025plus": 208,
+   "post_score": 2610,
+   "comments": 321,
+   "comment_score": 1035,
+   "pos": 181,
+   "neg": 105,
+   "example_posts": [
+    {
+     "id": "1w1avan",
+     "title": "Best live resin carts on the market right now?",
+     "score": 3,
+     "n": 20,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vviylk",
+     "title": "ZODA Iris Labs Live Resin",
+     "score": 12,
+     "n": 36,
+     "date": "2026-08-22"
+    },
+    {
+     "id": "1vsvvig",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 2of3",
+     "score": 12,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vsviqo",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 1of3",
+     "score": 19,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vstika",
+     "title": "Apples and bananas 1964",
+     "score": 30,
+     "n": 36,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vpejl9",
+     "title": "Cant go wrong with these!",
+     "score": 27,
+     "n": 22,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vnlm0d",
+     "title": "CHERRY BANG BANG FOUR54 3.5g Flower/rosin",
+     "score": 21,
+     "n": 15,
+     "date": "2026-08-13"
+    },
+    {
+     "id": "1vlkfis",
+     "title": "Looking to choose a 510 cart!",
+     "score": 0,
+     "n": 35,
+     "date": "2026-08-11"
+    }
+   ],
+   "sentiment": 0.27
+  },
+  "EastCann": {
+   "posts": 257,
+   "posts_2025plus": 185,
+   "post_score": 2846,
+   "comments": 159,
+   "comment_score": 511,
+   "pos": 106,
+   "neg": 37,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1w23gry",
+     "title": "Anyone else get higher with MOST cured resin vs live resin?",
+     "score": 6,
+     "n": 10,
+     "date": "2026-08-30"
+    },
+    {
+     "id": "1w1avan",
+     "title": "Best live resin carts on the market right now?",
+     "score": 3,
+     "n": 20,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vyfxns",
+     "title": "Gastro Pop 510 came burnt?",
+     "score": 0,
+     "n": 25,
+     "date": "2026-08-25"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vwnymv",
+     "title": "Eastcann - Sour Diesel AIO🍋",
+     "score": 33,
+     "n": 28,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vp1fd5",
+     "title": "Quick AIO Rundown Thus Far",
+     "score": 0,
+     "n": 6,
+     "date": "2026-08-15"
+    }
+   ],
+   "sentiment": 0.48
+  },
+  "FOUR54": {
+   "posts": 103,
+   "posts_2025plus": 91,
+   "post_score": 1361,
+   "comments": 73,
+   "comment_score": 307,
+   "pos": 51,
+   "neg": 13,
+   "example_posts": [
+    {
+     "id": "1w1avan",
+     "title": "Best live resin carts on the market right now?",
+     "score": 3,
+     "n": 20,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vsvvig",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 2of3",
+     "score": 12,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vsviqo",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 1of3",
+     "score": 19,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vr965c",
+     "title": "FOUR54 Route 66 Live Resin 510 Cartridge",
+     "score": 24,
+     "n": 12,
+     "date": "2026-08-18"
+    },
+    {
+     "id": "1vnlm0d",
+     "title": "CHERRY BANG BANG FOUR54 3.5g Flower/rosin",
+     "score": 21,
+     "n": 15,
+     "date": "2026-08-13"
+    },
+    {
+     "id": "1vlw9eo",
+     "title": "What is the most similar in strength to this vape?",
+     "score": 13,
+     "n": 19,
+     "date": "2026-08-11"
+    },
+    {
+     "id": "1vlkfis",
+     "title": "Looking to choose a 510 cart!",
+     "score": 0,
+     "n": 35,
+     "date": "2026-08-11"
+    },
+    {
+     "id": "1vif7xq",
+     "title": "Four54 Emerald Triangle(Papaya bomb)",
+     "score": 11,
+     "n": 11,
+     "date": "2026-08-07"
+    }
+   ],
+   "sentiment": 0.59
+  },
+  "Tribal": {
+   "posts": 1368,
+   "posts_2025plus": 531,
+   "post_score": 13351,
+   "comments": 902,
+   "comment_score": 3048,
+   "pos": 433,
+   "neg": 362,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1w2hu1w",
+     "title": "GT Tribal Cart using GT battery. Good read for rookies.",
+     "score": 48,
+     "n": 27,
+     "date": "2026-08-30"
+    },
+    {
+     "id": "1w1avan",
+     "title": "Best live resin carts on the market right now?",
+     "score": 3,
+     "n": 20,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vwj9fc",
+     "title": "67 Sins - Gas Face 510 cart 'longevity'",
+     "score": 10,
+     "n": 9,
+     "date": "2026-08-23"
+    },
+    {
+     "id": "1vuvewh",
+     "title": "Looking for a live resin cart potent and euphoric high",
+     "score": 0,
+     "n": 14,
+     "date": "2026-08-21"
+    },
+    {
+     "id": "1vuj4ym",
+     "title": "Tuck Shop - Hawaiian Marker Cured Resin AIO",
+     "score": 12,
+     "n": 6,
+     "date": "2026-08-21"
+    },
+    {
+     "id": "1vsviqo",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 1of3",
+     "score": 19,
+     "n": 12,
+     "date": "2026-08-19"
+    }
+   ],
+   "sentiment": 0.09
+  },
+  "Purple Hills": {
+   "posts": 616,
+   "posts_2025plus": 166,
+   "post_score": 5399,
+   "comments": 383,
+   "comment_score": 1184,
+   "pos": 235,
+   "neg": 163,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vsvvig",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 2of3",
+     "score": 12,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1vdq0ty",
+     "title": "Best AIO live resin out rn?!!",
+     "score": 5,
+     "n": 26,
+     "date": "2026-08-02"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    }
+   ],
+   "sentiment": 0.18
+  },
+  "1964": {
+   "posts": 454,
+   "posts_2025plus": 233,
+   "post_score": 4951,
+   "comments": 223,
+   "comment_score": 785,
+   "pos": 120,
+   "neg": 100,
+   "example_posts": [
+    {
+     "id": "1w5qutl",
+     "title": "1964 - Stinky Pinky 1g",
+     "score": 18,
+     "n": 6,
+     "date": "2026-09-02"
+    },
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vstika",
+     "title": "Apples and bananas 1964",
+     "score": 30,
+     "n": 36,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vph9qo",
+     "title": "Kush like carts. Looking for that gassy dank",
+     "score": 2,
+     "n": 24,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vo8tr8",
+     "title": "Tuck Shop Garlic Mintz cured resin aio",
+     "score": 23,
+     "n": 15,
+     "date": "2026-08-14"
+    },
+    {
+     "id": "1vlkfis",
+     "title": "Looking to choose a 510 cart!",
+     "score": 0,
+     "n": 35,
+     "date": "2026-08-11"
+    }
+   ],
+   "sentiment": 0.09
+  },
+  "Carmel": {
+   "posts": 315,
+   "posts_2025plus": 137,
+   "post_score": 3890,
+   "comments": 174,
+   "comment_score": 563,
+   "pos": 103,
+   "neg": 113,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vl5mj5",
+     "title": "Tribal GT cart manufacturing defect?",
+     "score": 6,
+     "n": 18,
+     "date": "2026-08-11"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1vbddq0",
+     "title": "Rating - Strains List #8",
+     "score": 40,
+     "n": 30,
+     "date": "2026-07-31"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    }
+   ],
+   "sentiment": -0.05
+  },
+  "Woody Nelson": {
+   "posts": 207,
+   "posts_2025plus": 135,
+   "post_score": 2846,
+   "comments": 68,
+   "comment_score": 218,
+   "pos": 44,
+   "neg": 27,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1w23gry",
+     "title": "Anyone else get higher with MOST cured resin vs live resin?",
+     "score": 6,
+     "n": 10,
+     "date": "2026-08-30"
+    },
+    {
+     "id": "1w1sbgs",
+     "title": "Try out 1:1 options thc:cbd",
+     "score": 10,
+     "n": 11,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vzf9cs",
+     "title": "Is my woody nelson vape burnt?",
+     "score": 0,
+     "n": 27,
+     "date": "2026-08-27"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vsviqo",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 1of3",
+     "score": 19,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vo8tr8",
+     "title": "Tuck Shop Garlic Mintz cured resin aio",
+     "score": 23,
+     "n": 15,
+     "date": "2026-08-14"
+    }
+   ],
+   "sentiment": 0.24
+  },
+  "Wildcard": {
+   "posts": 85,
+   "posts_2025plus": 48,
+   "post_score": 880,
+   "comments": 38,
+   "comment_score": 133,
+   "pos": 31,
+   "neg": 9,
+   "example_posts": [
+    {
+     "id": "1rw9woz",
+     "title": "Waffle bites cured resin!!",
+     "score": 25,
+     "n": 5,
+     "date": "2026-03-17"
+    },
+    {
+     "id": "1rlu8ef",
+     "title": "New pick up today...",
+     "score": 2,
+     "n": 41,
+     "date": "2026-03-05"
+    },
+    {
+     "id": "1qkh7ck",
+     "title": "Wildcard extracts small batch resin (cake x caviar waffle bites)",
+     "score": 17,
+     "n": 11,
+     "date": "2026-01-23"
+    },
+    {
+     "id": "1pf1bfl",
+     "title": "Wildcard extracts G-wagon resin 510 :/",
+     "score": 0,
+     "n": 24,
+     "date": "2025-12-05"
+    },
+    {
+     "id": "1ok39yv",
+     "title": "Wildcard Extracts - Forbidden Pie Small Batch Live Resin",
+     "score": 10,
+     "n": 20,
+     "date": "2025-10-30"
+    },
+    {
+     "id": "1oja61a",
+     "title": "Spooky 3+1 Pick my lineup",
+     "score": 5,
+     "n": 17,
+     "date": "2025-10-29"
+    },
+    {
+     "id": "1o1i1vr",
+     "title": "Woody Nelson Country Club 510 Thread-Gastropop",
+     "score": 14,
+     "n": 22,
+     "date": "2025-10-08"
+    },
+    {
+     "id": "1n7m2rz",
+     "title": "wildcard extracts, 1above rosin and handie dandies rosin n rollin.",
+     "score": 12,
+     "n": 5,
+     "date": "2025-09-03"
+    }
+   ],
+   "sentiment": 0.55
+  },
+  "Kolab": {
+   "posts": 433,
+   "posts_2025plus": 63,
+   "post_score": 4377,
+   "comments": 134,
+   "comment_score": 482,
+   "pos": 97,
+   "neg": 68,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vp1fd5",
+     "title": "Quick AIO Rundown Thus Far",
+     "score": 0,
+     "n": 6,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    }
+   ],
+   "sentiment": 0.18
+  },
+  "Sauce Rosin Labs": {
+   "posts": 261,
+   "posts_2025plus": 160,
+   "post_score": 3241,
+   "comments": 89,
+   "comment_score": 312,
+   "pos": 59,
+   "neg": 31,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vqvufu",
+     "title": "SUGR Sweet Tooth Live Rosin, total terps 9.11% -Short Review",
+     "score": 18,
+     "n": 35,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vpejl9",
+     "title": "Cant go wrong with these!",
+     "score": 27,
+     "n": 22,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vng9im",
+     "title": "Hash Hole by Sauce Rosin Labs (Lady Jane Cannabis)",
+     "score": 23,
+     "n": 5,
+     "date": "2026-08-13"
+    },
+    {
+     "id": "1vi072q",
+     "title": "Sauce Rosin - Black Maple 🍁 510 Cartridge",
+     "score": 17,
+     "n": 10,
+     "date": "2026-08-07"
+    },
+    {
+     "id": "1uz6hnp",
+     "title": "Sauce Rosin Labs - Signature Live Rosin (Chilly Willy) | 1G",
+     "score": 17,
+     "n": 9,
+     "date": "2026-07-17"
+    },
+    {
+     "id": "1us2ac6",
+     "title": "Tenzo - Bigs Smalls - Rainbow Pie 🌈🥧 & Sauce Rosin - Cherry pie 🍒🥧",
+     "score": 22,
+     "n": 6,
+     "date": "2026-07-09"
+    },
+    {
+     "id": "1uoc8hg",
+     "title": "Which cart - Sauce Rosin Black Maple or Connoisseur Culture Peanut Butter Hash Rosin?",
+     "score": 7,
+     "n": 16,
+     "date": "2026-07-05"
+    }
+   ],
+   "sentiment": 0.31
+  },
+  "1Above": {
+   "posts": 142,
+   "posts_2025plus": 142,
+   "post_score": 1850,
+   "comments": 123,
+   "comment_score": 485,
+   "pos": 66,
+   "neg": 42,
+   "example_posts": [
+    {
+     "id": "1w5q2o9",
+     "title": "Risks of microplastics in carts?",
+     "score": 0,
+     "n": 28,
+     "date": "2026-09-02"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vpejl9",
+     "title": "Cant go wrong with these!",
+     "score": 27,
+     "n": 22,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vnjgze",
+     "title": "Absolutely Slaps 👋🔥 Slaps - Exotic Rosin Stick ( Sour Trop ) - 78.3% THC",
+     "score": 0,
+     "n": 98,
+     "date": "2026-08-13"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vi072q",
+     "title": "Sauce Rosin - Black Maple 🍁 510 Cartridge",
+     "score": 17,
+     "n": 10,
+     "date": "2026-08-07"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    }
+   ],
+   "sentiment": 0.22
+  },
+  "Lune Rise Farms": {
+   "posts": 20,
+   "posts_2025plus": 17,
+   "post_score": 175,
+   "comments": 20,
+   "comment_score": 54,
+   "pos": 12,
+   "neg": 2,
+   "example_posts": [
+    {
+     "id": "1vrwmsl",
+     "title": "Each cart I've tried so far has been terrible. Advice?",
+     "score": 0,
+     "n": 34,
+     "date": "2026-08-18"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    },
+    {
+     "id": "1unfzye",
+     "title": "Lune Rise Farms PBB Live Rosin",
+     "score": 45,
+     "n": 44,
+     "date": "2026-07-04"
+    },
+    {
+     "id": "1ru2yzx",
+     "title": "Powerhouse Live Resin Lineup",
+     "score": 32,
+     "n": 11,
+     "date": "2026-03-15"
+    },
+    {
+     "id": "1ohuwkr",
+     "title": "Lune Rise Farms - Peanut Butter Barn Dance - 1g Cart",
+     "score": 7,
+     "n": 5,
+     "date": "2025-10-28"
+    },
+    {
+     "id": "1n52wyb",
+     "title": "lune rise farms, farmers market live resin (pink tsunami) hybrid",
+     "score": 15,
+     "n": 23,
+     "date": "2025-08-31"
+    },
+    {
+     "id": "1n1lmbs",
+     "title": "lune rise farms, farmers market pure live resin (sticky macaroons)",
+     "score": 8,
+     "n": 7,
+     "date": "2025-08-27"
+    },
+    {
+     "id": "1fwvvqn",
+     "title": "Lune Rise Farms - Blueberry Basket 0.25g 510 Thread Live Resin Cartridge Enhancer [3 Blue Kings]",
+     "score": 7,
+     "n": 11,
+     "date": "2024-10-05"
+    }
+   ],
+   "sentiment": 0.71
+  },
+  "Redecan": {
+   "posts": 675,
+   "posts_2025plus": 79,
+   "post_score": 5472,
+   "comments": 60,
+   "comment_score": 191,
+   "pos": 31,
+   "neg": 28,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vuvewh",
+     "title": "Looking for a live resin cart potent and euphoric high",
+     "score": 0,
+     "n": 14,
+     "date": "2026-08-21"
+    },
+    {
+     "id": "1vuj4ym",
+     "title": "Tuck Shop - Hawaiian Marker Cured Resin AIO",
+     "score": 12,
+     "n": 6,
+     "date": "2026-08-21"
+    },
+    {
+     "id": "1vs78fe",
+     "title": "Redecan Animal Runtz Live resin AIO",
+     "score": 3,
+     "n": 6,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    }
+   ],
+   "sentiment": 0.05
+  },
+  "Lord Jones": {
+   "posts": 75,
+   "posts_2025plus": 28,
+   "post_score": 452,
+   "comments": 23,
+   "comment_score": 97,
+   "pos": 10,
+   "neg": 24,
+   "example_posts": [
+    {
+     "id": "1w1tenn",
+     "title": "lord jones: liquid diamonds x live resin - orange velvet sativa 510 cart first impression review",
+     "score": 0,
+     "n": 8,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1ueoyje",
+     "title": "Opinions on this thc Cart",
+     "score": 0,
+     "n": 26,
+     "date": "2026-06-24"
+    },
+    {
+     "id": "1u55o9q",
+     "title": "Discreet battery discussion",
+     "score": 3,
+     "n": 24,
+     "date": "2026-06-13"
+    },
+    {
+     "id": "1s2lzs1",
+     "title": "Lord Jones - Orange Velvet 510",
+     "score": 2,
+     "n": 16,
+     "date": "2026-03-24"
+    },
+    {
+     "id": "1qx8ysc",
+     "title": "Live resin battery opinions?",
+     "score": 1,
+     "n": 22,
+     "date": "2026-02-06"
+    },
+    {
+     "id": "1qwpxc8",
+     "title": "Any carts like orangeade from purple hills?",
+     "score": 6,
+     "n": 11,
+     "date": "2026-02-05"
+    },
+    {
+     "id": "1qnxnw8",
+     "title": "Sour Blueberry Live Resin & Diamonds By Lord Jones",
+     "score": 2,
+     "n": 14,
+     "date": "2026-01-27"
+    },
+    {
+     "id": "1ma610b",
+     "title": "Zebra stripes live resin 510 by Carmel",
+     "score": 15,
+     "n": 16,
+     "date": "2025-07-26"
+    }
+   ],
+   "sentiment": -0.41
+  },
+  "Sherbinskis": {
+   "posts": 223,
+   "posts_2025plus": 45,
+   "post_score": 1909,
+   "comments": 112,
+   "comment_score": 443,
+   "pos": 74,
+   "neg": 81,
+   "example_posts": [
+    {
+     "id": "1w6rusd",
+     "title": "Ness~Sticky Grape (indica hybrid) 7.5/10",
+     "score": 2,
+     "n": 12,
+     "date": "2026-09-04"
+    },
+    {
+     "id": "1tvkjuh",
+     "title": "Blackwater Iris labs + reviews (510’s)",
+     "score": 19,
+     "n": 6,
+     "date": "2026-06-03"
+    },
+    {
+     "id": "1pnlt43",
+     "title": "Best tasting live resin carts that aren't mixed with distillate?",
+     "score": 3,
+     "n": 43,
+     "date": "2025-12-15"
+    },
+    {
+     "id": "1oi1myc",
+     "title": "Small hits on tribal carts?",
+     "score": 0,
+     "n": 6,
+     "date": "2025-10-28"
+    },
+    {
+     "id": "1o222bl",
+     "title": "Have been trying to reach Sherbinskis customer service for four days now..",
+     "score": 9,
+     "n": 5,
+     "date": "2025-10-09"
+    },
+    {
+     "id": "1niinr4",
+     "title": "Sherbinskis Pure Live Resin AIO Variety Pack Disposable",
+     "score": 0,
+     "n": 16,
+     "date": "2025-09-16"
+    },
+    {
+     "id": "1ngelge",
+     "title": "Anyone tried the 1Above and Highxotic Disposables?",
+     "score": 3,
+     "n": 13,
+     "date": "2025-09-14"
+    },
+    {
+     "id": "1n1pq8z",
+     "title": "Best Live Rosin/Resin Carts",
+     "score": 0,
+     "n": 34,
+     "date": "2025-08-27"
+    }
+   ],
+   "sentiment": -0.05
+  },
+  "Coterie": {
+   "posts": 51,
+   "posts_2025plus": 11,
+   "post_score": 498,
+   "comments": 16,
+   "comment_score": 167,
+   "pos": 2,
+   "neg": 18,
+   "example_posts": [
+    {
+     "id": "1vp1fd5",
+     "title": "Quick AIO Rundown Thus Far",
+     "score": 0,
+     "n": 6,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1kyqyoe",
+     "title": "Companies not disclaiming distillate on labels",
+     "score": 23,
+     "n": 17,
+     "date": "2025-05-30"
+    },
+    {
+     "id": "1kxs6en",
+     "title": "Coterie \"live resin\" vapes",
+     "score": 163,
+     "n": 81,
+     "date": "2025-05-28"
+    },
+    {
+     "id": "1h7s98g",
+     "title": "Tribal - Neon Sunshine (3.5g) 0.25x, 1.5x, & 4x macro 📸",
+     "score": 52,
+     "n": 30,
+     "date": "2024-12-06"
+    },
+    {
+     "id": "1f7hjif",
+     "title": "Frootyhooty- Poppin Peach Live Rosin Amplified Distillate 510",
+     "score": 7,
+     "n": 16,
+     "date": "2024-09-02"
+    },
+    {
+     "id": "1cyxpim",
+     "title": "Has anyone had this cart before? Granny Smith LR from Coterie.",
+     "score": 3,
+     "n": 8,
+     "date": "2024-05-23"
+    },
+    {
+     "id": "17h99dm",
+     "title": "Daily OCS Update - New Products (3) - Restocked Products (25) - Thu, Oct 26",
+     "score": 0,
+     "n": 6,
+     "date": "2023-10-26"
+    },
+    {
+     "id": "1774jyg",
+     "title": "Coterie- Select Pheno #7 and two suggested great investments.",
+     "score": 0,
+     "n": 9,
+     "date": "2023-10-13"
+    }
+   ],
+   "sentiment": -0.8
+  },
+  "The Loud Plug": {
+   "posts": 172,
+   "posts_2025plus": 67,
+   "post_score": 981,
+   "comments": 36,
+   "comment_score": 142,
+   "pos": 29,
+   "neg": 23,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    }
+   ],
+   "sentiment": 0.12
+  },
+  "Greazy": {
+   "posts": 53,
+   "posts_2025plus": 33,
+   "post_score": 312,
+   "comments": 9,
+   "comment_score": 26,
+   "pos": 19,
+   "neg": 17,
+   "example_posts": [
+    {
+     "id": "1v5quhu",
+     "title": "Liquid diamonds actually hit..?",
+     "score": 3,
+     "n": 25,
+     "date": "2026-07-24"
+    },
+    {
+     "id": "1orxeeq",
+     "title": "Are companies like Greazy lying about their ingredients?",
+     "score": 12,
+     "n": 9,
+     "date": "2025-11-08"
+    },
+    {
+     "id": "1o021g8",
+     "title": "Am I receiving the correct amount?",
+     "score": 4,
+     "n": 17,
+     "date": "2025-10-07"
+    },
+    {
+     "id": "1nw5uzv",
+     "title": "Concentrate/ Extract Recommendations?  (Live resin, rosin, shatter)",
+     "score": 2,
+     "n": 7,
+     "date": "2025-10-02"
+    },
+    {
+     "id": "1nfpvin",
+     "title": "i feel like i've had damn near every 510 resin/rosin cart  annd tribal - triple burger is still the best. anyone else?",
+     "score": 5,
+     "n": 19,
+     "date": "2025-09-13"
+    },
+    {
+     "id": "1na6ky3",
+     "title": "greazy ( live rosin)",
+     "score": 12,
+     "n": 9,
+     "date": "2025-09-06"
+    },
+    {
+     "id": "1n1pq8z",
+     "title": "Best Live Rosin/Resin Carts",
+     "score": 0,
+     "n": 34,
+     "date": "2025-08-27"
+    },
+    {
+     "id": "1lhcx6q",
+     "title": "510 Cart Recommendations for High Potency",
+     "score": 0,
+     "n": 21,
+     "date": "2025-06-22"
+    }
+   ],
+   "sentiment": 0.06
+  },
+  "Versus": {
+   "posts": 66,
+   "posts_2025plus": 19,
+   "post_score": 371,
+   "comments": 13,
+   "comment_score": 17,
+   "pos": 11,
+   "neg": 10,
+   "example_posts": [
+    {
+     "id": "1u2fxk8",
+     "title": "Need recommendations for a cart under $40",
+     "score": 4,
+     "n": 60,
+     "date": "2026-06-10"
+    },
+    {
+     "id": "1tyzk2v",
+     "title": "Battle of the Purple Kush. ( Versus BC purple kush vs. eastcann purple kush vapes)",
+     "score": 12,
+     "n": 18,
+     "date": "2026-06-07"
+    },
+    {
+     "id": "1si3ohn",
+     "title": "BC Green Crk Versus Full Spectrum Oil 510 Cart",
+     "score": 0,
+     "n": 10,
+     "date": "2026-04-11"
+    },
+    {
+     "id": "1s7gbsb",
+     "title": "Anyone Prefer Distillates and Cured Resin Carts Over Live Resin? Or rotate between them as a technique/strategy?",
+     "score": 0,
+     "n": 8,
+     "date": "2026-03-30"
+    },
+    {
+     "id": "1qhaqlx",
+     "title": "Versus neon rush 510 cartridge",
+     "score": 0,
+     "n": 36,
+     "date": "2026-01-19"
+    },
+    {
+     "id": "1px1fh4",
+     "title": "Versus watermelon bubba and Jays macchiato gold carts",
+     "score": 0,
+     "n": 13,
+     "date": "2025-12-27"
+    },
+    {
+     "id": "1p2s5u7",
+     "title": "ChillBilly Cobra Chicken Blammo Live Resin 510 Cart (1g) Review",
+     "score": 2,
+     "n": 5,
+     "date": "2025-11-21"
+    },
+    {
+     "id": "1okgenm",
+     "title": "Worst cart I’ve ever had in a bit",
+     "score": 23,
+     "n": 17,
+     "date": "2025-10-31"
+    }
+   ],
+   "sentiment": 0.05
+  },
+  "Contraband": {
+   "posts": 10,
+   "posts_2025plus": 1,
+   "post_score": 67,
+   "comments": 0,
+   "comment_score": 0,
+   "pos": 0,
+   "neg": 0,
+   "example_posts": [
+    {
+     "id": "1jp3jq2",
+     "title": "What is the longest 510 cart has lasted you?",
+     "score": 7,
+     "n": 28,
+     "date": "2025-04-01"
+    },
+    {
+     "id": "16ef6f4",
+     "title": "Pure live resin carts?",
+     "score": 4,
+     "n": 9,
+     "date": "2023-09-09"
+    },
+    {
+     "id": "13uv6ph",
+     "title": "Contraband Okanagan Sugar Live Terp 510 Review (9/10)",
+     "score": 10,
+     "n": 12,
+     "date": "2023-05-29"
+    },
+    {
+     "id": "zi6ixo",
+     "title": "I'm New to Live Resin 510 Carts, Wondering What Strains and/or Brands are Good?",
+     "score": 3,
+     "n": 11,
+     "date": "2022-12-10"
+    },
+    {
+     "id": "y6q5qw",
+     "title": "Any reviews on this? Contraband Killer Kush Live Terp 510 1g @$40",
+     "score": 5,
+     "n": 20,
+     "date": "2022-10-17"
+    },
+    {
+     "id": "v8m01h",
+     "title": "Anyone tried CONTRABAND live terp cartridge?",
+     "score": 7,
+     "n": 16,
+     "date": "2022-06-09"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "Weed Me": {
+   "posts": 20,
+   "posts_2025plus": 3,
+   "post_score": 47,
+   "comments": 2,
+   "comment_score": 3,
+   "pos": 2,
+   "neg": 0,
+   "example_posts": [
+    {
+     "id": "1mgm0kh",
+     "title": "weed me get down live resin",
+     "score": 0,
+     "n": 8,
+     "date": "2025-08-03"
+    },
+    {
+     "id": "1flpbcj",
+     "title": "Weed me Max cartridge tastes like plastic and not like seedless grape, anyone ever had a problem with this brand?",
+     "score": 0,
+     "n": 13,
+     "date": "2024-09-20"
+    },
+    {
+     "id": "1fi9z0d",
+     "title": "Second Weed Me Max cart with this brown ring (brand new)",
+     "score": 1,
+     "n": 13,
+     "date": "2024-09-16"
+    },
+    {
+     "id": "1edw8s8",
+     "title": "Weed Me Max - Liquid Diamond Mango Blueberry Slush 510 Cart - 97.7% THC (!)",
+     "score": 0,
+     "n": 10,
+     "date": "2024-07-28"
+    },
+    {
+     "id": "1e4afyk",
+     "title": "Weed Me Max California Peach 510 cartridge review",
+     "score": 1,
+     "n": 5,
+     "date": "2024-07-16"
+    },
+    {
+     "id": "15nxkgq",
+     "title": "Has anyone tried the new Weed Me carts? Yuzu Weed Me Cart 92% thc",
+     "score": 0,
+     "n": 16,
+     "date": "2023-08-11"
+    },
+    {
+     "id": "13crse2",
+     "title": "WeedMe Tropical Orange & Pineapple Cart",
+     "score": 0,
+     "n": 9,
+     "date": "2023-05-09"
+    },
+    {
+     "id": "zcdv21",
+     "title": "New 1.2g offering! WeedMe Tropical Orange and Pineapple. Sweet tropical taste🍊🍍Also noticeably smoother than past distillates carts I’ve tried recently",
+     "score": 11,
+     "n": 23,
+     "date": "2022-12-04"
+    }
+   ],
+   "sentiment": 1.0
+  },
+  "Jonny Chronic": {
+   "posts": 123,
+   "posts_2025plus": 48,
+   "post_score": 689,
+   "comments": 7,
+   "comment_score": 7,
+   "pos": 1,
+   "neg": 3,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    },
+    {
+     "id": "1uiv9co",
+     "title": "Ontario Best Sellers - Week of Jun 22 to Jun 28, 2026",
+     "score": 15,
+     "n": 43,
+     "date": "2026-06-29"
+    }
+   ],
+   "sentiment": -0.5
+  },
+  "Pepe": {
+   "posts": 10,
+   "posts_2025plus": 8,
+   "post_score": 35,
+   "comments": 5,
+   "comment_score": 11,
+   "pos": 2,
+   "neg": 2,
+   "example_posts": [
+    {
+     "id": "1pp37ea",
+     "title": "Budget Live Resin, which are cut?",
+     "score": 1,
+     "n": 13,
+     "date": "2025-12-17"
+    },
+    {
+     "id": "1mce6th",
+     "title": "Pepe, 11 Week Pink 🌲⛽️, 1G live resin 510 Thread Cartridge, 75.2 % THC",
+     "score": 11,
+     "n": 6,
+     "date": "2025-07-29"
+    },
+    {
+     "id": "1ix1n6r",
+     "title": "Pepe 510’s lemon freeze/lemonatti",
+     "score": 0,
+     "n": 18,
+     "date": "2025-02-24"
+    },
+    {
+     "id": "1ion5me",
+     "title": "PEPE Lemon Freeze Live Resin",
+     "score": 5,
+     "n": 19,
+     "date": "2025-02-13"
+    },
+    {
+     "id": "16pl6uo",
+     "title": "Pepe Lemon Freeze Live Resin 510 Cart - Tasting Burnt...",
+     "score": 7,
+     "n": 21,
+     "date": "2023-09-22"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "Jays": {
+   "posts": 36,
+   "posts_2025plus": 32,
+   "post_score": 284,
+   "comments": 3,
+   "comment_score": 3,
+   "pos": 0,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1w1avan",
+     "title": "Best live resin carts on the market right now?",
+     "score": 3,
+     "n": 20,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vszwvg",
+     "title": "Jays Pink Cherry 510 Vape Live Resin",
+     "score": 0,
+     "n": 16,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    }
+   ],
+   "sentiment": -1.0
+  },
+  "Roilty": {
+   "posts": 57,
+   "posts_2025plus": 5,
+   "post_score": 258,
+   "comments": 1,
+   "comment_score": 1,
+   "pos": 0,
+   "neg": 0,
+   "example_posts": [
+    {
+     "id": "1oqajlm",
+     "title": "I kept track of every product I purchased for the last year",
+     "score": 11,
+     "n": 7,
+     "date": "2025-11-06"
+    },
+    {
+     "id": "1m1tw0v",
+     "title": "Roilty Imperial Peach 510",
+     "score": 2,
+     "n": 7,
+     "date": "2025-07-17"
+    },
+    {
+     "id": "1k1qs3p",
+     "title": "roilty live resin (fake)",
+     "score": 0,
+     "n": 18,
+     "date": "2025-04-17"
+    },
+    {
+     "id": "1gptcca",
+     "title": "Roilty - White Knight Sugar Wax [DO NOT BUY]",
+     "score": 13,
+     "n": 28,
+     "date": "2024-11-12"
+    },
+    {
+     "id": "1g55mmd",
+     "title": "Roilty 0.5x2: Pink Princess 👑 and Roil Lemon Haze Shatter 🍋",
+     "score": 4,
+     "n": 8,
+     "date": "2024-10-16"
+    },
+    {
+     "id": "1fw7j0c",
+     "title": "Roilty can't package oil",
+     "score": 27,
+     "n": 20,
+     "date": "2024-10-04"
+    },
+    {
+     "id": "1fr19gv",
+     "title": "Roilty Banana Ice live resin reserve. Got it for 38 at my shop with employee discount.",
+     "score": 2,
+     "n": 11,
+     "date": "2024-09-27"
+    },
+    {
+     "id": "1ctf4bl",
+     "title": "Roilty - Grape Galena Live Resin Reserve",
+     "score": 13,
+     "n": 14,
+     "date": "2024-05-16"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "Debunk": {
+   "posts": 27,
+   "posts_2025plus": 11,
+   "post_score": 122,
+   "comments": 8,
+   "comment_score": 18,
+   "pos": 7,
+   "neg": 7,
+   "example_posts": [
+    {
+     "id": "1vq1ydh",
+     "title": "Debunk - Funky Glto live resin 510",
+     "score": 5,
+     "n": 11,
+     "date": "2026-08-16"
+    },
+    {
+     "id": "1u3lxqd",
+     "title": "Debunk Funky GLTO Live Resin",
+     "score": 4,
+     "n": 6,
+     "date": "2026-06-12"
+    },
+    {
+     "id": "1re2ihr",
+     "title": "More live resin, sorry I couldn’t find the packaging for the Debunked",
+     "score": 3,
+     "n": 13,
+     "date": "2026-02-25"
+    },
+    {
+     "id": "1opij96",
+     "title": "Does my cart look weird??",
+     "score": 0,
+     "n": 11,
+     "date": "2025-11-05"
+    },
+    {
+     "id": "1nggnu5",
+     "title": "Debunk super lemon haze live resin 510 cart review",
+     "score": 14,
+     "n": 10,
+     "date": "2025-09-14"
+    },
+    {
+     "id": "1n4by8w",
+     "title": "Debunk Blueberry Kush Live Resin 510 review",
+     "score": 8,
+     "n": 14,
+     "date": "2025-08-30"
+    },
+    {
+     "id": "1lri8zz",
+     "title": "DEBUNK - Ice Kiwi Kush Liquid Diamond 510 Vape",
+     "score": 0,
+     "n": 9,
+     "date": "2025-07-04"
+    },
+    {
+     "id": "1lixv30",
+     "title": "Allergic reaction to THC vape pen?",
+     "score": 0,
+     "n": 40,
+     "date": "2025-06-24"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "Endgame": {
+   "posts": 24,
+   "posts_2025plus": 5,
+   "post_score": 83,
+   "comments": 2,
+   "comment_score": 4,
+   "pos": 4,
+   "neg": 0,
+   "example_posts": [
+    {
+     "id": "1q0dp32",
+     "title": "Platinum peach liquid diamonds by end game",
+     "score": 0,
+     "n": 13,
+     "date": "2025-12-31"
+    },
+    {
+     "id": "1mrg3ir",
+     "title": "Endgame forbidden runts cartridge came like this?? is this normal",
+     "score": 0,
+     "n": 13,
+     "date": "2025-08-16"
+    },
+    {
+     "id": "1lhcx6q",
+     "title": "510 Cart Recommendations for High Potency",
+     "score": 0,
+     "n": 21,
+     "date": "2025-06-22"
+    },
+    {
+     "id": "1jbka5i",
+     "title": "Cheeky cherry NSFW Adults Only",
+     "score": 6,
+     "n": 44,
+     "date": "2025-03-15"
+    },
+    {
+     "id": "1hr33la",
+     "title": "Pre-filled vape carts inconsistent. Clogging, leaking and gone quickly.",
+     "score": 0,
+     "n": 17,
+     "date": "2025-01-01"
+    },
+    {
+     "id": "1fcemzr",
+     "title": "Endgame Forbidden RNTZ liquid diamond cart review - brown liquid ? ",
+     "score": 3,
+     "n": 7,
+     "date": "2024-09-09"
+    },
+    {
+     "id": "1dsrh62",
+     "title": "Community Hybrid Cart (Rainbow Sherb)",
+     "score": 3,
+     "n": 26,
+     "date": "2024-07-01"
+    },
+    {
+     "id": "1ckfn8u",
+     "title": "New liquid diamonds carts - Endgame",
+     "score": 2,
+     "n": 12,
+     "date": "2024-05-05"
+    }
+   ],
+   "sentiment": 1.0
+  },
+  "Boxhot": {
+   "posts": 310,
+   "posts_2025plus": 79,
+   "post_score": 1667,
+   "comments": 34,
+   "comment_score": 78,
+   "pos": 14,
+   "neg": 16,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vp1fd5",
+     "title": "Quick AIO Rundown Thus Far",
+     "score": 0,
+     "n": 6,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v7hq2m",
+     "title": "Boxhot AIO watermelon g",
+     "score": 0,
+     "n": 32,
+     "date": "2026-07-26"
+    }
+   ],
+   "sentiment": -0.07
+  },
+  "Kolab Liquid Diamonds": {
+   "posts": 32,
+   "posts_2025plus": 11,
+   "post_score": 483,
+   "comments": 11,
+   "comment_score": 48,
+   "pos": 11,
+   "neg": 14,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    },
+    {
+     "id": "1oja61a",
+     "title": "Spooky 3+1 Pick my lineup",
+     "score": 5,
+     "n": 17,
+     "date": "2025-10-29"
+    }
+   ],
+   "sentiment": -0.12
+  },
+  "General Admission": {
+   "posts": 304,
+   "posts_2025plus": 63,
+   "post_score": 1861,
+   "comments": 84,
+   "comment_score": 303,
+   "pos": 59,
+   "neg": 66,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    }
+   ],
+   "sentiment": -0.06
+  },
+  "Back Forty": {
+   "posts": 240,
+   "posts_2025plus": 56,
+   "post_score": 1732,
+   "comments": 24,
+   "comment_score": 134,
+   "pos": 6,
+   "neg": 21,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1w09drg",
+     "title": "Help with Suggestion: Similar to back forty",
+     "score": 2,
+     "n": 19,
+     "date": "2026-08-27"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vp1fd5",
+     "title": "Quick AIO Rundown Thus Far",
+     "score": 0,
+     "n": 6,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    }
+   ],
+   "sentiment": -0.56
+  },
+  "Good Supply": {
+   "posts": 567,
+   "posts_2025plus": 55,
+   "post_score": 3813,
+   "comments": 18,
+   "comment_score": 35,
+   "pos": 14,
+   "neg": 7,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    }
+   ],
+   "sentiment": 0.33
+  },
+  "Spinach": {
+   "posts": 154,
+   "posts_2025plus": 34,
+   "post_score": 1017,
+   "comments": 11,
+   "comment_score": 14,
+   "pos": 9,
+   "neg": 14,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vvre1j",
+     "title": "Bought a spinach liquid diamonds vape in hope of..",
+     "score": 11,
+     "n": 13,
+     "date": "2026-08-22"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v5quhu",
+     "title": "Liquid diamonds actually hit..?",
+     "score": 3,
+     "n": 25,
+     "date": "2026-07-24"
+    }
+   ],
+   "sentiment": -0.22
+  },
+  "Sticky Greens": {
+   "posts": 48,
+   "posts_2025plus": 14,
+   "post_score": 251,
+   "comments": 6,
+   "comment_score": 58,
+   "pos": 0,
+   "neg": 4,
+   "example_posts": [
+    {
+     "id": "1vpc6eg",
+     "title": "Sticky greens, blue razzleberry AIO",
+     "score": 2,
+     "n": 16,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1jxm510",
+     "title": "Looking for the cheapest Non-flavored 510 thc vape",
+     "score": 0,
+     "n": 62,
+     "date": "2025-04-12"
+    },
+    {
+     "id": "1j5tn58",
+     "title": "Is anyone else being forced to buy Sticky Greens or Trippy Sips by budtenders??",
+     "score": 49,
+     "n": 79,
+     "date": "2025-03-07"
+    },
+    {
+     "id": "1j1st5c",
+     "title": "Is your budtender selling you what's best for what you want, or being forced to sell a particular product/brand?",
+     "score": 70,
+     "n": 142,
+     "date": "2025-03-02"
+    },
+    {
+     "id": "1iwua9d",
+     "title": "current daytime and nighttime cart collection, what are your favs? Also recommendations for carts to mix with my meds",
+     "score": 12,
+     "n": 22,
+     "date": "2025-02-24"
+    },
+    {
+     "id": "18g5zbx",
+     "title": "Best 510 \"pen\" battery",
+     "score": 1,
+     "n": 16,
+     "date": "2023-12-11"
+    },
+    {
+     "id": "1858s3j",
+     "title": "does anyone have any pen recommendations for a beginner?",
+     "score": 1,
+     "n": 13,
+     "date": "2023-11-27"
+    },
+    {
+     "id": "16ow2yp",
+     "title": "Sticky Greens Toasted Lime 510 Cartridge",
+     "score": 0,
+     "n": 9,
+     "date": "2023-09-22"
+    }
+   ],
+   "sentiment": -1.0
+  },
+  "Dymond": {
+   "posts": 67,
+   "posts_2025plus": 1,
+   "post_score": 421,
+   "comments": 5,
+   "comment_score": 15,
+   "pos": 7,
+   "neg": 2,
+   "example_posts": [
+    {
+     "id": "1leq59j",
+     "title": "Dymond concentrates 2.0 purple dank breath live resin",
+     "score": 6,
+     "n": 7,
+     "date": "2025-06-18"
+    },
+    {
+     "id": "1gneeo1",
+     "title": "Purple Hills & Sherbinski & NSFW fan but need something else. 1964 vs tribal vs dymond vs engame vs debunk ice vs NSFW (again). Opinions on my options?",
+     "score": 1,
+     "n": 60,
+     "date": "2024-11-09"
+    },
+    {
+     "id": "1c3837r",
+     "title": "Strawberry Clouds (Live Resin) - Dymond Concentrates 2.0",
+     "score": 8,
+     "n": 12,
+     "date": "2024-04-13"
+    },
+    {
+     "id": "1b2w92c",
+     "title": "Resin/Rosin carts vs infused rolls",
+     "score": 1,
+     "n": 11,
+     "date": "2024-02-29"
+    },
+    {
+     "id": "190y5yh",
+     "title": "How is my next re supply looking?",
+     "score": 1,
+     "n": 9,
+     "date": "2024-01-07"
+    },
+    {
+     "id": "18pyovi",
+     "title": "Dymond Concentrates 2.0 - Mango Beach Liquid Diamonds 510 | REVIEW",
+     "score": 8,
+     "n": 18,
+     "date": "2023-12-24"
+    },
+    {
+     "id": "1745eja",
+     "title": "Dymond cart not hitting ? Need help",
+     "score": 10,
+     "n": 21,
+     "date": "2023-10-09"
+    },
+    {
+     "id": "16imfzo",
+     "title": "Dymond 2.0 Tiger CK Live Resin Vape 🔥",
+     "score": 4,
+     "n": 8,
+     "date": "2023-09-14"
+    }
+   ],
+   "sentiment": 0.56
+  },
+  "Greybeard": {
+   "posts": 351,
+   "posts_2025plus": 19,
+   "post_score": 3452,
+   "comments": 136,
+   "comment_score": 401,
+   "pos": 80,
+   "neg": 59,
+   "example_posts": [
+    {
+     "id": "1t119wl",
+     "title": "Figr - Jungle Fumes Cold Cured Resin 510.",
+     "score": 15,
+     "n": 5,
+     "date": "2026-05-01"
+    },
+    {
+     "id": "1q2g9si",
+     "title": "Terple - Tribal live resin vape Review",
+     "score": 14,
+     "n": 19,
+     "date": "2026-01-03"
+    },
+    {
+     "id": "1p746r8",
+     "title": "Need suggestions for 510 LR cart",
+     "score": 4,
+     "n": 23,
+     "date": "2025-11-26"
+    },
+    {
+     "id": "1osang3",
+     "title": "Greybeard : Zour Breath 1g 510 cart",
+     "score": 4,
+     "n": 8,
+     "date": "2025-11-09"
+    },
+    {
+     "id": "1o64pbx",
+     "title": "Recommendations needed for particular 510s",
+     "score": 0,
+     "n": 9,
+     "date": "2025-10-14"
+    },
+    {
+     "id": "1nmwxml",
+     "title": "Cross Border Concentrates finally dropping in 🇨🇦",
+     "score": 2,
+     "n": 16,
+     "date": "2025-09-21"
+    },
+    {
+     "id": "1l1sz44",
+     "title": "Best live resin cart",
+     "score": 3,
+     "n": 10,
+     "date": "2025-06-02"
+    },
+    {
+     "id": "1knoqju",
+     "title": "Pink Sunset Live Resin 510- Greybeard Cannabis",
+     "score": 1,
+     "n": 12,
+     "date": "2025-05-16"
+    }
+   ],
+   "sentiment": 0.15
+  },
+  "Shred": {
+   "posts": 59,
+   "posts_2025plus": 3,
+   "post_score": 483,
+   "comments": 11,
+   "comment_score": 89,
+   "pos": 2,
+   "neg": 17,
+   "example_posts": [
+    {
+     "id": "1pj4o07",
+     "title": "Best budget brands/strains?",
+     "score": 10,
+     "n": 40,
+     "date": "2025-12-10"
+    },
+    {
+     "id": "1nvei56",
+     "title": "Best Strains I've Tried in The Past 3 Months (October 2025)",
+     "score": 9,
+     "n": 7,
+     "date": "2025-10-01"
+    },
+    {
+     "id": "1fwicfm",
+     "title": "SHRED X Blueberry Blaster All-In-One Vape | 0.3g",
+     "score": 2,
+     "n": 9,
+     "date": "2024-10-05"
+    },
+    {
+     "id": "1fc5su8",
+     "title": "Parcel - Sweet Notes 14g (photos & web-360) ",
+     "score": 37,
+     "n": 10,
+     "date": "2024-09-08"
+    },
+    {
+     "id": "1bj2o3m",
+     "title": "Shred X quantum 510 vape carts... trash",
+     "score": 5,
+     "n": 8,
+     "date": "2024-03-20"
+    },
+    {
+     "id": "1aq575p",
+     "title": "New 510 Vape tech from Shred 🤔 \"Quantum Vape\"",
+     "score": 52,
+     "n": 111,
+     "date": "2024-02-13"
+    },
+    {
+     "id": "1823f67",
+     "title": "Nugz Slerple milled flower 7g Yum!?!",
+     "score": 3,
+     "n": 9,
+     "date": "2023-11-23"
+    },
+    {
+     "id": "17oujuw",
+     "title": "Best Infused Pre-Roll on the Market?",
+     "score": 3,
+     "n": 27,
+     "date": "2023-11-06"
+    }
+   ],
+   "sentiment": -0.79
+  },
+  "Adults Only / NSFW": {
+   "posts": 99,
+   "posts_2025plus": 45,
+   "post_score": 500,
+   "comments": 10,
+   "comment_score": 21,
+   "pos": 5,
+   "neg": 7,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    },
+    {
+     "id": "1uoycin",
+     "title": "Ontario Best Sellers - Week of June 29th to July 5th, 2026",
+     "score": 4,
+     "n": 11,
+     "date": "2026-07-06"
+    }
+   ],
+   "sentiment": -0.17
+  },
+  "BLKMKT": {
+   "posts": 251,
+   "posts_2025plus": 77,
+   "post_score": 3119,
+   "comments": 49,
+   "comment_score": 120,
+   "pos": 24,
+   "neg": 14,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vsvvig",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 2of3",
+     "score": 12,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vsviqo",
+     "title": "The Great Cherry Strains of Summer Stravaganza '26 1of3",
+     "score": 19,
+     "n": 12,
+     "date": "2026-08-19"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1viisok",
+     "title": "Blk mkt-yuck mouth 14g 🫡💨",
+     "score": 15,
+     "n": 27,
+     "date": "2026-08-08"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    }
+   ],
+   "sentiment": 0.26
+  },
+  "Polar": {
+   "posts": 43,
+   "posts_2025plus": 23,
+   "post_score": 442,
+   "comments": 6,
+   "comment_score": -3,
+   "pos": 0,
+   "neg": 3,
+   "example_posts": [
+    {
+     "id": "1vpejl9",
+     "title": "Cant go wrong with these!",
+     "score": 27,
+     "n": 22,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1tndw29",
+     "title": "Polar's Bananium rosin x Port North's Peanut Butter Breath rosin = Peanut Butter Bananium Sandwich rosin",
+     "score": 15,
+     "n": 19,
+     "date": "2026-05-25"
+    },
+    {
+     "id": "1rnm3t0",
+     "title": "Polar Arctic Drop live rosin - wedding ck",
+     "score": 8,
+     "n": 5,
+     "date": "2026-03-07"
+    },
+    {
+     "id": "1rmbo4g",
+     "title": "Polar Black Mountianside live rosin. Grabbed this from the shop I work at for just under 50 bucks with a discount.",
+     "score": 30,
+     "n": 11,
+     "date": "2026-03-06"
+    },
+    {
+     "id": "1qhfqjo",
+     "title": "Polar - Black Mountain Side & Arctic Drop (Black Pie) Live Rosin",
+     "score": 8,
+     "n": 12,
+     "date": "2026-01-19"
+    },
+    {
+     "id": "1px8vj9",
+     "title": "Polar // Arctic Drop Live Rosin (Wedding Cake)",
+     "score": 24,
+     "n": 7,
+     "date": "2025-12-27"
+    },
+    {
+     "id": "1ow4qwp",
+     "title": "New Live Rosin Vapes",
+     "score": 44,
+     "n": 31,
+     "date": "2025-11-13"
+    },
+    {
+     "id": "1nw5uzv",
+     "title": "Concentrate/ Extract Recommendations?  (Live resin, rosin, shatter)",
+     "score": 2,
+     "n": 7,
+     "date": "2025-10-02"
+    }
+   ],
+   "sentiment": -1.0
+  },
+  "Msiku": {
+   "posts": 71,
+   "posts_2025plus": 11,
+   "post_score": 726,
+   "comments": 14,
+   "comment_score": 33,
+   "pos": 5,
+   "neg": 6,
+   "example_posts": [
+    {
+     "id": "1sukwt8",
+     "title": "Gastro Pop by EastCann",
+     "score": 32,
+     "n": 18,
+     "date": "2026-04-24"
+    },
+    {
+     "id": "1q4o0rb",
+     "title": "Eastcann - Frozen Lemons Live Resin 510",
+     "score": 29,
+     "n": 14,
+     "date": "2026-01-05"
+    },
+    {
+     "id": "1n1pq8z",
+     "title": "Best Live Rosin/Resin Carts",
+     "score": 0,
+     "n": 34,
+     "date": "2025-08-27"
+    },
+    {
+     "id": "1ltf6r7",
+     "title": "Msiku, Starstruck 🍋⭐️, 76.5% THC, 16.28 % Terpenes, Packaged on April 28, 2025",
+     "score": 24,
+     "n": 11,
+     "date": "2025-07-06"
+    },
+    {
+     "id": "1l0v5rw",
+     "title": "Iris Labs - Black Water 510",
+     "score": 8,
+     "n": 17,
+     "date": "2025-06-01"
+    },
+    {
+     "id": "1jkqovm",
+     "title": "Multi cart review(tribal-neon/linx)1964Comatose and mskiru- star struck",
+     "score": 10,
+     "n": 9,
+     "date": "2025-03-26"
+    },
+    {
+     "id": "1ipsc9c",
+     "title": "Star stuck live resin - Msiku (same company as iris labs)",
+     "score": 17,
+     "n": 18,
+     "date": "2025-02-15"
+    },
+    {
+     "id": "19c6q8n",
+     "title": "Question about available",
+     "score": 1,
+     "n": 5,
+     "date": "2024-01-21"
+    }
+   ],
+   "sentiment": -0.09
+  },
+  "Pharmabee": {
+   "posts": 10,
+   "posts_2025plus": 1,
+   "post_score": 112,
+   "comments": 17,
+   "comment_score": 37,
+   "pos": 14,
+   "neg": 8,
+   "example_posts": [
+    {
+     "id": "1i93ex2",
+     "title": "HighXotic // Mr. C Live Rosin 0.5g AIO",
+     "score": 32,
+     "n": 22,
+     "date": "2025-01-24"
+    },
+    {
+     "id": "1h4s77v",
+     "title": "-Pharma Bee- OG Kush Breath Rozzie Stick ",
+     "score": 20,
+     "n": 5,
+     "date": "2024-12-02"
+    },
+    {
+     "id": "1erphng",
+     "title": "Noticed this green fuzz in a pharmabee rozzie cart just now",
+     "score": 13,
+     "n": 15,
+     "date": "2024-08-14"
+    },
+    {
+     "id": "1dyf4k8",
+     "title": "Pharma Bee Rozzie Stick OG Kush Breath",
+     "score": 13,
+     "n": 5,
+     "date": "2024-07-08"
+    },
+    {
+     "id": "1dkhxp3",
+     "title": "Pharmabee - Rizzie Stick",
+     "score": 7,
+     "n": 5,
+     "date": "2024-06-20"
+    },
+    {
+     "id": "1c11nqv",
+     "title": "OG Kush Breath ⛽️ 🥜 Live Rosin AIO - Rozzie stick",
+     "score": 15,
+     "n": 16,
+     "date": "2024-04-11"
+    },
+    {
+     "id": "183wy2e",
+     "title": "CBG Vapes",
+     "score": 2,
+     "n": 12,
+     "date": "2023-11-25"
+    }
+   ],
+   "sentiment": 0.27
+  },
+  "Port North": {
+   "posts": 111,
+   "posts_2025plus": 36,
+   "post_score": 851,
+   "comments": 38,
+   "comment_score": 127,
+   "pos": 19,
+   "neg": 17,
+   "example_posts": [
+    {
+     "id": "1w2l43z",
+     "title": "Port North Live Rosin Strawberry Cough Terps 9.5% - Short review (Poor Quality)",
+     "score": 17,
+     "n": 10,
+     "date": "2026-08-30"
+    },
+    {
+     "id": "1vrwmsl",
+     "title": "Each cart I've tried so far has been terrible. Advice?",
+     "score": 0,
+     "n": 34,
+     "date": "2026-08-18"
+    },
+    {
+     "id": "1tndw29",
+     "title": "Polar's Bananium rosin x Port North's Peanut Butter Breath rosin = Peanut Butter Bananium Sandwich rosin",
+     "score": 15,
+     "n": 19,
+     "date": "2026-05-25"
+    },
+    {
+     "id": "1qrl090",
+     "title": "Port North Full Spectrum Live Rosin Syrup -Gorilla Cookies 510 Cart Review",
+     "score": 11,
+     "n": 12,
+     "date": "2026-01-30"
+    },
+    {
+     "id": "1q2a6ug",
+     "title": "Switching from Smoking Flower to Live Rosin and Live Resin",
+     "score": 5,
+     "n": 38,
+     "date": "2026-01-02"
+    },
+    {
+     "id": "1ppxere",
+     "title": "Photo dumping this past week// Nugz FF Hash Rosin ✌🏼times, Tenzo Big Smallz, a new Puffco Peak + Port North Pink Goo 🧊 💧 hash",
+     "score": 14,
+     "n": 26,
+     "date": "2025-12-18"
+    },
+    {
+     "id": "1pjklo0",
+     "title": "Port North - Full Spectrum Cold Cure Live Hash Rosin - Lemon Cherry Do si dos",
+     "score": 11,
+     "n": 11,
+     "date": "2025-12-11"
+    },
+    {
+     "id": "1otfrsf",
+     "title": "Turkey dinner in a cart - Sauce Rosin Mob Pie",
+     "score": 34,
+     "n": 20,
+     "date": "2025-11-10"
+    }
+   ],
+   "sentiment": 0.06
+  },
+  "Brindle": {
+   "posts": 6,
+   "posts_2025plus": 1,
+   "post_score": 59,
+   "comments": 17,
+   "comment_score": 53,
+   "pos": 13,
+   "neg": 3,
+   "example_posts": [
+    {
+     "id": "1hqshob",
+     "title": "Has anyone seen Brindle Farms or Rosinstar in Ottawa?",
+     "score": 5,
+     "n": 13,
+     "date": "2025-01-01"
+    },
+    {
+     "id": "1glvob9",
+     "title": "Rosin Heads Dab Collab // 1G Hash Rosin (Purple Punch From Crop Circle)",
+     "score": 16,
+     "n": 13,
+     "date": "2024-11-07"
+    },
+    {
+     "id": "1cydl93",
+     "title": "Why cant I buy Brindle Farms, Dabble and all these products on OCS in Toronto?",
+     "score": 3,
+     "n": 15,
+     "date": "2024-05-22"
+    },
+    {
+     "id": "13rw9s3",
+     "title": "O’Quality😶‍🌫️ Brindle Farms x Old Growth Collective - Animal Sour Live Rosin Vape - 8.9% Terpenes & 80.3% THC + Port North - Traingle Kush Live Rosin Syrup 510 + BLKMKT - 14G Jealousy - 3.28% Terpenes & 26.5% THC",
+     "score": 23,
+     "n": 16,
+     "date": "2023-05-25"
+    }
+   ],
+   "sentiment": 0.62
+  },
+  "SUGR": {
+   "posts": 18,
+   "posts_2025plus": 11,
+   "post_score": 234,
+   "comments": 22,
+   "comment_score": 59,
+   "pos": 4,
+   "neg": 3,
+   "example_posts": [
+    {
+     "id": "1vqvufu",
+     "title": "SUGR Sweet Tooth Live Rosin, total terps 9.11% -Short Review",
+     "score": 18,
+     "n": 35,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vb0s9a",
+     "title": "SUGR Live Rosin Gas Leak GRAPE RAINBOW PIE X WATERMELON SUGEREE - quick review",
+     "score": 20,
+     "n": 11,
+     "date": "2026-07-30"
+    },
+    {
+     "id": "1unfzye",
+     "title": "Lune Rise Farms PBB Live Rosin",
+     "score": 45,
+     "n": 44,
+     "date": "2026-07-04"
+    },
+    {
+     "id": "1uai0q9",
+     "title": "Sugr Hash- buyer beware of empty jars",
+     "score": 34,
+     "n": 72,
+     "date": "2026-06-20"
+    },
+    {
+     "id": "1tf3fi8",
+     "title": "Sugr - Gas Leak (Strawberry Belts)",
+     "score": 29,
+     "n": 15,
+     "date": "2026-05-16"
+    },
+    {
+     "id": "1slar0l",
+     "title": "SUGR - Drop Culture - Gas Leak",
+     "score": 25,
+     "n": 33,
+     "date": "2026-04-14"
+    },
+    {
+     "id": "1sdcggz",
+     "title": "Drop Culture by SUGR - GAS LEAK live rosin ⛽ - very good but very expensive",
+     "score": 22,
+     "n": 42,
+     "date": "2026-04-05"
+    },
+    {
+     "id": "1i3a90z",
+     "title": "Sugr rosin does come to Ontario right ?",
+     "score": 14,
+     "n": 14,
+     "date": "2025-01-17"
+    }
+   ],
+   "sentiment": 0.14
+  },
+  "Unlicensed Producer": {
+   "posts": 49,
+   "posts_2025plus": 49,
+   "post_score": 827,
+   "comments": 15,
+   "comment_score": 57,
+   "pos": 8,
+   "neg": 3,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1w21uz2",
+     "title": "Unlicensed Producer - Strawberry Meltshake x Tractor Fuel",
+     "score": 27,
+     "n": 8,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vjzt3i",
+     "title": "Unlicensed Producer, Single source live rosin, Farmers Daughter👩‍🌾🍓,1G, 76.1% THC, 11.34% Total Terpenes, July 22 2026 packaging date",
+     "score": 14,
+     "n": 6,
+     "date": "2026-08-09"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    }
+   ],
+   "sentiment": 0.45
+  },
+  "The Goo!": {
+   "posts": 19,
+   "posts_2025plus": 18,
+   "post_score": 126,
+   "comments": 8,
+   "comment_score": 36,
+   "pos": 3,
+   "neg": 3,
+   "example_posts": [
+    {
+     "id": "1vzt2v9",
+     "title": "Goob Pre-Roll Infused with Live Rosin by The Goo! (Crop Circle Cannabis)",
+     "score": 17,
+     "n": 5,
+     "date": "2026-08-27"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uoycin",
+     "title": "Ontario Best Sellers - Week of June 29th to July 5th, 2026",
+     "score": 4,
+     "n": 11,
+     "date": "2026-07-06"
+    },
+    {
+     "id": "1ubfowz",
+     "title": "The GOO! Goo cart 510 live rosin 0.5g (ego checker: Indica)",
+     "score": 21,
+     "n": 19,
+     "date": "2026-06-21"
+    },
+    {
+     "id": "1u6ftzn",
+     "title": "Ontario Best Sellers - Week of Jun 8 to Jun 14, 2026",
+     "score": 21,
+     "n": 34,
+     "date": "2026-06-15"
+    },
+    {
+     "id": "1n973vb",
+     "title": "The Goo! 1g Brain Fruit live rosin",
+     "score": 11,
+     "n": 10,
+     "date": "2025-09-05"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "Frootyhooty": {
+   "posts": 16,
+   "posts_2025plus": 8,
+   "post_score": 39,
+   "comments": 3,
+   "comment_score": 4,
+   "pos": 2,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1vrwmsl",
+     "title": "Each cart I've tried so far has been terrible. Advice?",
+     "score": 0,
+     "n": 34,
+     "date": "2026-08-18"
+    },
+    {
+     "id": "1nt7oul",
+     "title": "Help me decide which cart to buy",
+     "score": 2,
+     "n": 10,
+     "date": "2025-09-29"
+    },
+    {
+     "id": "1feyt45",
+     "title": "Frootyhooty🟢🔵🔴🟡WILD WATERMELON 🍉 coconut 🥥 live rosin amplified DIAMONDS &Sauce 7.8%Terps💦",
+     "score": 0,
+     "n": 40,
+     "date": "2024-09-12"
+    },
+    {
+     "id": "1f7hjif",
+     "title": "Frootyhooty- Poppin Peach Live Rosin Amplified Distillate 510",
+     "score": 7,
+     "n": 16,
+     "date": "2024-09-02"
+    }
+   ],
+   "sentiment": 0.33
+  },
+  "MTL Cannabis": {
+   "posts": 64,
+   "posts_2025plus": 18,
+   "post_score": 573,
+   "comments": 3,
+   "comment_score": 3,
+   "pos": 1,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    },
+    {
+     "id": "1uiv9co",
+     "title": "Ontario Best Sellers - Week of Jun 22 to Jun 28, 2026",
+     "score": 15,
+     "n": 43,
+     "date": "2026-06-29"
+    },
+    {
+     "id": "1t0egz2",
+     "title": "MTL Sage N' Sour 510 cart - is this live resin or distillate? *photos inside*",
+     "score": 1,
+     "n": 9,
+     "date": "2026-05-01"
+    },
+    {
+     "id": "1kl717x",
+     "title": "MTL Cannabis - \"91 Ox\" (3.5g)",
+     "score": 37,
+     "n": 14,
+     "date": "2025-05-12"
+    },
+    {
+     "id": "1ih2bo9",
+     "title": "Pistol And Paris Pink Panties 🩲 & 1964 La Kush Cake 🍰",
+     "score": 61,
+     "n": 24,
+     "date": "2025-02-03"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "Orchid CBD": {
+   "posts": 69,
+   "posts_2025plus": 17,
+   "post_score": 485,
+   "comments": 9,
+   "comment_score": 13,
+   "pos": 6,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1w1sbgs",
+     "title": "Try out 1:1 options thc:cbd",
+     "score": 10,
+     "n": 11,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1vgdrs1",
+     "title": "Woody Nelson Country Club 1:1 Vape (Nostalgia x Pink Kush)",
+     "score": 14,
+     "n": 5,
+     "date": "2026-08-05"
+    },
+    {
+     "id": "1txxvw1",
+     "title": "Woody Nelson 1:1 cured resin cart - mango sour x nostalgia",
+     "score": 19,
+     "n": 10,
+     "date": "2026-06-05"
+    },
+    {
+     "id": "1t6uxpr",
+     "title": "Orchid CBD Live Resin Vape (Pain Relief Review)",
+     "score": 30,
+     "n": 13,
+     "date": "2026-05-08"
+    },
+    {
+     "id": "1sexqw8",
+     "title": "Asking 510 cart users",
+     "score": 1,
+     "n": 36,
+     "date": "2026-04-07"
+    },
+    {
+     "id": "1reh8m3",
+     "title": "Looking for some balanced carts or flower",
+     "score": 4,
+     "n": 6,
+     "date": "2026-02-25"
+    },
+    {
+     "id": "1r9zove",
+     "title": "Lack of CBD strains/flower available on market",
+     "score": 1,
+     "n": 6,
+     "date": "2026-02-20"
+    },
+    {
+     "id": "1pp1wpa",
+     "title": "Whats going on with Tribal/Orchid cartridges recently?",
+     "score": 9,
+     "n": 14,
+     "date": "2025-12-17"
+    }
+   ],
+   "sentiment": 0.71
+  },
+  "Highxotic": {
+   "posts": 95,
+   "posts_2025plus": 73,
+   "post_score": 1021,
+   "comments": 10,
+   "comment_score": 28,
+   "pos": 9,
+   "neg": 2,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1vbddq0",
+     "title": "Rating - Strains List #8",
+     "score": 40,
+     "n": 30,
+     "date": "2026-07-31"
+    },
+    {
+     "id": "1va5108",
+     "title": "HighXotic - Royal Press - Creme L'Orange - Live Rosin - Orange Cookies x Cookies and Cream",
+     "score": 31,
+     "n": 15,
+     "date": "2026-07-29"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    }
+   ],
+   "sentiment": 0.64
+  },
+  "Bleuh": {
+   "posts": 13,
+   "posts_2025plus": 13,
+   "post_score": 181,
+   "comments": 3,
+   "comment_score": 24,
+   "pos": 4,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1ubb8ze",
+     "title": "BLEUH - WILD BERRY CBD - 2:1 510 CART",
+     "score": 7,
+     "n": 6,
+     "date": "2026-06-20"
+    },
+    {
+     "id": "1tz0u6b",
+     "title": "Bleuh - Balanced Live Resin 510 cart - opened to find it cracked down the length of the cart :(",
+     "score": 3,
+     "n": 12,
+     "date": "2026-06-07"
+    },
+    {
+     "id": "1tsthzp",
+     "title": "Quebec’s 30% THC cap forced us at Bleuh to rethink live resin vape design. We’re bringing that thinking to Ontario.",
+     "score": 85,
+     "n": 53,
+     "date": "2026-05-31"
+    },
+    {
+     "id": "1r9zove",
+     "title": "Lack of CBD strains/flower available on market",
+     "score": 1,
+     "n": 6,
+     "date": "2026-02-20"
+    },
+    {
+     "id": "1p2bc8b",
+     "title": "Retailers / Buyers beware - Bleuh \"Capsule\" battery",
+     "score": 47,
+     "n": 40,
+     "date": "2025-11-20"
+    },
+    {
+     "id": "1of1n4z",
+     "title": "New Pickups🔥 Thoughts??",
+     "score": 17,
+     "n": 31,
+     "date": "2025-10-24"
+    }
+   ],
+   "sentiment": 0.6
+  },
+  "Purple Hills XL": {
+   "posts": 7,
+   "posts_2025plus": 3,
+   "post_score": 46,
+   "comments": 8,
+   "comment_score": 24,
+   "pos": 6,
+   "neg": 7,
+   "example_posts": [
+    {
+     "id": "1ocviox",
+     "title": "Purple Hills | Galactic Grape XL 1.2g 510",
+     "score": 12,
+     "n": 25,
+     "date": "2025-10-22"
+    },
+    {
+     "id": "1kdex3v",
+     "title": "need help deciding on live resin carts",
+     "score": 4,
+     "n": 13,
+     "date": "2025-05-02"
+    },
+    {
+     "id": "1e11yva",
+     "title": "Purple hills carts burning?",
+     "score": 2,
+     "n": 14,
+     "date": "2024-07-11"
+    },
+    {
+     "id": "1dqsfs6",
+     "title": "Purple Hills - Live Resin - Frosted CKS XL. 14% terps?!",
+     "score": 7,
+     "n": 17,
+     "date": "2024-06-28"
+    },
+    {
+     "id": "1czsq8u",
+     "title": "All hail Purple Hills",
+     "score": 18,
+     "n": 8,
+     "date": "2024-05-24"
+    }
+   ],
+   "sentiment": -0.08
+  },
+  "Fume": {
+   "posts": 18,
+   "posts_2025plus": 0,
+   "post_score": 138,
+   "comments": 1,
+   "comment_score": 6,
+   "pos": 0,
+   "neg": 0,
+   "example_posts": [
+    {
+     "id": "y2h8v2",
+     "title": "Is this actually \"solventless\"?",
+     "score": 5,
+     "n": 16,
+     "date": "2022-10-12"
+    },
+    {
+     "id": "uqwmj3",
+     "title": "My first week using OCS 510 carts, a review",
+     "score": 10,
+     "n": 19,
+     "date": "2022-05-16"
+    },
+    {
+     "id": "sgg70l",
+     "title": "Fume - Pink Kush Solventless Terpenes 510 Cart - Unboxing Review - 0.5g @ 77.8% (778mg) THC/g",
+     "score": 2,
+     "n": 5,
+     "date": "2022-01-30"
+    },
+    {
+     "id": "sbzuz2",
+     "title": "Fume: Super Lemon Crush 81% distillate cartridge!",
+     "score": 2,
+     "n": 7,
+     "date": "2022-01-24"
+    },
+    {
+     "id": "pwu51t",
+     "title": "You guys sick of Pineapple Paradise yet ? Nah me either lol, just cracked last jar . 20% pkgd 21/7/13. Them Fume carts were delicious too .",
+     "score": 5,
+     "n": 7,
+     "date": "2021-09-28"
+    },
+    {
+     "id": "pdkp13",
+     "title": "Fume Jean Guy Full Spectrum Cart",
+     "score": 2,
+     "n": 11,
+     "date": "2021-08-28"
+    },
+    {
+     "id": "ou12la",
+     "title": "My quick conversation with Talaal Rshaidat, CSO at Fume Labs. In regards to the Solventless Terp cartridge.",
+     "score": 39,
+     "n": 30,
+     "date": "2021-07-29"
+    },
+    {
+     "id": "ol6t1m",
+     "title": "Fume Lemon Haze full Spectrum Cart, long-lasting chill high, great for social settings! Thanks, R/theOCS for recommending it!",
+     "score": 16,
+     "n": 6,
+     "date": "2021-07-16"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "GAS": {
+   "posts": 11,
+   "posts_2025plus": 7,
+   "post_score": 39,
+   "comments": 3,
+   "comment_score": 16,
+   "pos": 2,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1nvei56",
+     "title": "Best Strains I've Tried in The Past 3 Months (October 2025)",
+     "score": 9,
+     "n": 7,
+     "date": "2025-10-01"
+    },
+    {
+     "id": "1jaiygc",
+     "title": "constant problems with greybeard carts. anyone else?",
+     "score": 8,
+     "n": 11,
+     "date": "2025-03-13"
+    }
+   ],
+   "sentiment": 0.33
+  },
+  "Nugz": {
+   "posts": 355,
+   "posts_2025plus": 149,
+   "post_score": 3699,
+   "comments": 122,
+   "comment_score": 275,
+   "pos": 55,
+   "neg": 56,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vrwmsl",
+     "title": "Each cart I've tried so far has been terrible. Advice?",
+     "score": 0,
+     "n": 34,
+     "date": "2026-08-18"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vpt3e8",
+     "title": "What’s the best dispo carts?",
+     "score": 0,
+     "n": 37,
+     "date": "2026-08-16"
+    },
+    {
+     "id": "1vp1fd5",
+     "title": "Quick AIO Rundown Thus Far",
+     "score": 0,
+     "n": 6,
+     "date": "2026-08-15"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    }
+   ],
+   "sentiment": -0.01
+  },
+  "Slaps": {
+   "posts": 4,
+   "posts_2025plus": 3,
+   "post_score": 59,
+   "comments": 3,
+   "comment_score": 9,
+   "pos": 7,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1vnjgze",
+     "title": "Absolutely Slaps 👋🔥 Slaps - Exotic Rosin Stick ( Sour Trop ) - 78.3% THC",
+     "score": 0,
+     "n": 98,
+     "date": "2026-08-13"
+    },
+    {
+     "id": "1pbk775",
+     "title": "1above autumn sunset hash rosin",
+     "score": 27,
+     "n": 20,
+     "date": "2025-12-01"
+    },
+    {
+     "id": "1erddki",
+     "title": "Tribal: Neon Sunshine 🍊☀️🍬 | 29.5% THC | 2.1% Terps | ",
+     "score": 31,
+     "n": 19,
+     "date": "2024-08-13"
+    }
+   ],
+   "sentiment": 0.75
+  },
+  "Ambr": {
+   "posts": 97,
+   "posts_2025plus": 23,
+   "post_score": 470,
+   "comments": 12,
+   "comment_score": 35,
+   "pos": 7,
+   "neg": 9,
+   "example_posts": [
+    {
+     "id": "1w5u284",
+     "title": "Ambr papaya live resin vape",
+     "score": 0,
+     "n": 21,
+     "date": "2026-09-03"
+    },
+    {
+     "id": "1mvimuu",
+     "title": "Papa's Herb - Blueberry Zlshie/Fruit Punch. Ambr - CRL Milk. Liquid Diamonds",
+     "score": 0,
+     "n": 11,
+     "date": "2025-08-20"
+    },
+    {
+     "id": "1mbwtnc",
+     "title": "Vapes on vapes on vapes....",
+     "score": 0,
+     "n": 11,
+     "date": "2025-07-29"
+    },
+    {
+     "id": "1jr29kj",
+     "title": "Ambr gelato 510 thread 2 years old !??",
+     "score": 3,
+     "n": 6,
+     "date": "2025-04-04"
+    },
+    {
+     "id": "1j935h0",
+     "title": "Any suggestions for a battery?",
+     "score": 1,
+     "n": 6,
+     "date": "2025-03-11"
+    },
+    {
+     "id": "1ht4ab9",
+     "title": "Ambr- Grape Cake- 7G",
+     "score": 35,
+     "n": 7,
+     "date": "2025-01-04"
+    },
+    {
+     "id": "1gnjsqu",
+     "title": "AMBR vapes no where to be found!",
+     "score": 0,
+     "n": 8,
+     "date": "2024-11-09"
+    },
+    {
+     "id": "1f115mt",
+     "title": "You gotta try THIS!!💜💜",
+     "score": 1,
+     "n": 15,
+     "date": "2024-08-25"
+    }
+   ],
+   "sentiment": -0.12
+  },
+  "Qwest": {
+   "posts": 24,
+   "posts_2025plus": 11,
+   "post_score": 246,
+   "comments": 2,
+   "comment_score": 3,
+   "pos": 1,
+   "neg": 2,
+   "example_posts": [
+    {
+     "id": "1w3re84",
+     "title": "Ontario Best Sellers - Week of August 24 - 30",
+     "score": 13,
+     "n": 8,
+     "date": "2026-08-31"
+    },
+    {
+     "id": "1vx9o67",
+     "title": "Ontario Best Sellers - Week of August 17 - 23",
+     "score": 4,
+     "n": 9,
+     "date": "2026-08-24"
+    },
+    {
+     "id": "1vr426c",
+     "title": "Ontario Best Sellers - Week of August 10 - 16",
+     "score": 14,
+     "n": 27,
+     "date": "2026-08-17"
+    },
+    {
+     "id": "1vkvm2e",
+     "title": "Ontario Best Sellers - Week of August 3 to August 9, 2026",
+     "score": 7,
+     "n": 11,
+     "date": "2026-08-10"
+    },
+    {
+     "id": "1vel61n",
+     "title": "Ontario Best Sellers - Week of July 27 to August 2, 2026",
+     "score": 10,
+     "n": 5,
+     "date": "2026-08-03"
+    },
+    {
+     "id": "1v826kj",
+     "title": "Ontario Best Sellers - Week of July 20 to July 26, 2026",
+     "score": 2,
+     "n": 9,
+     "date": "2026-07-27"
+    },
+    {
+     "id": "1v1nedc",
+     "title": "Ontario Best Sellers - Week of July 12 to July 19, 2026",
+     "score": 8,
+     "n": 8,
+     "date": "2026-07-20"
+    },
+    {
+     "id": "1uvaug1",
+     "title": "Ontario Best Sellers - Week of July 6 to July 12, 2026",
+     "score": 20,
+     "n": 8,
+     "date": "2026-07-13"
+    }
+   ],
+   "sentiment": -0.33
+  },
+  "Shed Boyz": {
+   "posts": 0,
+   "posts_2025plus": 0,
+   "post_score": 0,
+   "comments": 0,
+   "comment_score": 0,
+   "pos": 0,
+   "neg": 0,
+   "example_posts": [],
+   "sentiment": 0.0
+  },
+  "VERO": {
+   "posts": 3,
+   "posts_2025plus": 3,
+   "post_score": 9,
+   "comments": 0,
+   "comment_score": 0,
+   "pos": 0,
+   "neg": 0,
+   "example_posts": [
+    {
+     "id": "1t527lb",
+     "title": "VERO *POSTLESS* Rocket Bomb Liquid Live Diamond 510",
+     "score": 5,
+     "n": 44,
+     "date": "2026-05-06"
+    },
+    {
+     "id": "1t2ay70",
+     "title": "VERO *POSTLESS* Blue Razz Liquid Live Diamond 510",
+     "score": 3,
+     "n": 8,
+     "date": "2026-05-03"
+    }
+   ],
+   "sentiment": 0.0
+  },
+  "Cabana": {
+   "posts": 11,
+   "posts_2025plus": 3,
+   "post_score": 45,
+   "comments": 1,
+   "comment_score": 6,
+   "pos": 0,
+   "neg": 1,
+   "example_posts": [
+    {
+     "id": "1w1tenn",
+     "title": "lord jones: liquid diamonds x live resin - orange velvet sativa 510 cart first impression review",
+     "score": 0,
+     "n": 8,
+     "date": "2026-08-29"
+    },
+    {
+     "id": "1sfaexe",
+     "title": "Canna Cabana Return Policies and PORTAL vapes (suck)",
+     "score": 0,
+     "n": 27,
+     "date": "2026-04-07"
+    },
+    {
+     "id": "1hpd2b5",
+     "title": "(question) $100 budget",
+     "score": 0,
+     "n": 15,
+     "date": "2024-12-30"
+    },
+    {
+     "id": "1ctxxqb",
+     "title": "Slurring phyto extractions",
+     "score": 0,
+     "n": 12,
+     "date": "2024-05-17"
+    },
+    {
+     "id": "1ce7adl",
+     "title": "Adults only NSFW cheeky cherry 510",
+     "score": 4,
+     "n": 21,
+     "date": "2024-04-27"
+    },
+    {
+     "id": "fl3fqi",
+     "title": "Friendly Stranger Store review and the word of wisdom at the end",
+     "score": 1,
+     "n": 12,
+     "date": "2020-03-19"
+    },
+    {
+     "id": "eovi4y",
+     "title": "01-10-2020 - Canna Cabana Toronto - Color Blueberry Seagall (milled) / San Rafael Pink Kush 510 Cartridge / Tokyo Smoke Pause",
+     "score": 16,
+     "n": 8,
+     "date": "2020-01-15"
+    },
+    {
+     "id": "emld9i",
+     "title": "The Niagara Herbalist todays 2.0 menu, possibly best price out there.",
+     "score": 18,
+     "n": 27,
+     "date": "2020-01-10"
+    }
+   ],
+   "sentiment": -1.0
+  }
+ }
+}
