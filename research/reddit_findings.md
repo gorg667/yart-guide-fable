@@ -146,3 +146,6 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 - Cherry Bang Bang: creative+relaxing, spicy gassy herbal "cherry" (terpinolene — more lemon/mango/pine than cherry to many), very fluid light-coloured oil (= clean extraction, but used up faster); similar to Cuban Linx. Some prefer Gastro Pop (CBB "one-dimensional").
 - Fantasm Jan 2026 lot: 16% terps, orange flavour, functional warm buzz; "**now fully ceramic hardware + mouthpiece — terps preserved, zero burning**"; priced "couple $ more than bottom-tier disty" ($40–45). Tribal LR described as "brown viscous sludge" by comparison.
 - Toronto availability tip: Cannabis Hut (Coxwell) carries Iris.
+### EastCann/FOUR54 context (1q7r9ns Jan 2026 — flower CS complaint; 1w4ltz2 Sep 2026 flower; 1twv5bv Jun 2026; 1rkx9nt Mar 2026)
+- EastCann CS mixed: flower complaint handled poorly (u/KevinEastCann active); some say EastCann flower inconsistent late 2025; carts remain well-liked. FOUR54 CS "terrible" per one.
+- FOUR54 ET Papaya Bomb leak at 60% on Kodo Pro — theory: **wide ceramic FOUR54 carts partially cover Kodo Pro's small air intakes → oil pulled in → clog/leak; Uni Pro better with wide carts**. Others: "best hardware on the market", "prefer FOUR54 to Iris & EastCann". Emerald Triangle Gastro Pop 8/10 never clogged/spit/leaked. Voltage: 1.8V works; 2.4 max.
