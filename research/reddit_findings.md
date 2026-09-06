@@ -159,3 +159,13 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 
 ### Redecan Amped Live Resin 510 (1q8w5n9 Jan 2026, 1tk5rh9 May 2026): 80/20 live resin/diamonds, no flavouring (per Redecan). Chubby cart, big tip, good airflow, earthy flower taste, functional hybrid buzz, 8/10. Criticism: priced ≈ pure LR (Tribal), "not spending LR money on LR + disty". Pineapple Express batch had oxidizing/bubbling defects; Space Age Cake good. **Mid/value pick with caveat.**
 ### Wildcard Extracts (Pantheon; BC) — (1lh2nck Jun 2025, 1pf1bfl Dec 2025, 1ok39yv Oct 2025, 1qkh7ck Jan 2026): "Small Batch Resin" line is mostly CURED resin (G-Wagon 1.5 yrs, Waffle Bites, Caribbean Breeze) + some live (Forbidden Pie LR indica — "favourite cart on market" resin-wise, floral). Potency split: "smacks harder than any Tribal/Carmel/Iris, = PH Gorilla XL" vs "super mild". Hardware: non-ceramic "Active" hardware w/ hemp-plastic mouthpiece — burns halfway, clogs, "cloggy leaky garbage" (some); Wildcard active on sub (u/wildcardextracts_) and says no additives. Low listed terps (4%) but flavour-forward. Mid-tier: great oil, weak hardware, ~$45–50.
+
+### Budget / value tier & "watch the label" brands
+- **Jays Pink Cherry LR ($30–35)**: OCS lists Butane/Live; sub: "floor-sweeping live resin" (cheap trim input) — harsh/"tastes like ass" but strong head high, reliable hardware, never leaks/clogs; some claim it's disty+terps (95% THC claim was about Jays distillate line). Budget LR pick with taste caveat.
+- **Pepe Lemon Freeze LR ($34.90)**, **Pura Vida Pineapple Express LR ($29.95)**, Thrifty: same "budget floor-sweep LR" category; Pepe changed hardware (white flat mouthpiece), CRC'd. OK for price.
+- **Versus (SNDL/Value Buds house brand) FSE 1.2g ($30)**: hybrid CO2+hydrocarbon full-spectrum, hay taste, strong effects ("feels like crack" 9/10 meme), best budget FSE; not live.
+- **Greazy (RNB Belts, Super Lemon Haze; $35)**: same stocky ceramic hardware as FOUR54 — great flow; flavour "tastes like additives" to purists vs "another winner"; CS complaints (leaks, "get bent"). Polarizing value pick.
+- **Qwest Grape Cream Cks LR ($47)**: per GA rep = 80% LR / 20% distillate, no botanicals; reviewer: "terrible, pine air freshener", finishes fast. AVOID.
+- **Ambr Papaya "Pure Live Resin" ($42.99)**: label lists **botanical terpenes** despite "pure" claim; Ambr = same house as The Loud Plug. AVOID for purists.
+- **VERO "Liquid Live Diamond"** and all "liquid diamonds" carts: sub consensus = marketing term for distillate-grade THC; not live resin.
+- **NUGZ (Cannara/Tribal sister)**: cured resin blends w/ disty + flavouring, $30–33; budget step-up.
