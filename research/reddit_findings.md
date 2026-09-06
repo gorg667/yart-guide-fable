@@ -186,3 +186,7 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 - Technique: **short 2–4s hits at 2.2–2.3V, exhale quickly; don't rip hard** — fixes most "cart sucks" complaints.
 - Other: Portals (lint-cap) many returns; Wild West "waste in a tube".
 ### LR vs distillate framing (1uy3nsz Jul 2026 22↑; 1t5s4hi): disty = isolated THC + flavouring → one-dimensional head spike, headaches for some; LR = full terp/minor-cannabinoid profile → rounded, longer, "true to flower"; some tolerant users still prefer disty's hard spike. Indica/sativa labels ≈ marketing.
+
+### Balanced / CBD live resin (1tsthzp May 2026, 85↑): **Bleuh Original Sativa Wildberry LR 510** (Quebec; 30% THC / 48% CBD / ~10% terps; 100% pure LR, no additives) launched Ontario Jun 2026 — welcomed by people wanting balanced carts; founder Dany active on sub. Other balanced LR: **Orchid CBD RNTZ** (~60% THC, CBD), Lune Rise 2:1 CBD/THC Lemon Zest Pure LR, Glacial Gold 1:1 Anytime Mint (disty).
+### Northern Canna Permanent Marker LR AIO (1tiivhi May 2026, 62↑): 1g $47, "phenomenal, true to flower, potent sedative" — AIO (uses similar unit to Contraband but better airflow). Also-consider AIO list.
+### Storage lesson (1uibs6c): heat + months → dark "coffee" resin. Store upright, cool, capped.
