@@ -1566,6 +1566,503 @@
     "1nartdw",
     "1w1avan"
    ]
+  },
+  {
+   "id": "sauce-rosin-labs",
+   "brand": "Sauce Rosin Labs",
+   "parent": "Sauce Rosin Labs (Ontario)",
+   "name": "Solventless Live Rosin 510 (rotating strain)",
+   "current_strain": "Rotating: Black Maple, Chilly Willy, Mob Pie, Grease Bucket, Strawberry Guava, GovernMint Oasis, Point Break…",
+   "type": "100% solventless live hash rosin — no distillate, no additives",
+   "size": "0.5g",
+   "price_ocs": 44.9,
+   "street_price": "$37–48",
+   "thc": "68–74%",
+   "terps": "high",
+   "hardware": "Ascera ceramic; older lots had failures (died after 1–2 days for some — SRL replaced them); newer smaller-format cart works at 1.8V",
+   "tier": "S",
+   "score": 9.0,
+   "ocs_url": "https://ocs.ca/products/solventless-live-rosin-cart-sauce-rosin-labs-1",
+   "availability": "Toronto stores (e.g., Cannabis Hut Coxwell, Cookies Toronto) — search hibuddy.ca",
+   "leaning": "varies: Mob Pie heavy sedative; Chilly Willy buzzy euphoric; Black Maple balanced; Strawberry Guava fruity",
+   "flavour": "'Tastes like I'm hitting a Volcano'; true-to-hash; sweet creamy gas (Chilly Willy), sweet gas (Black Maple)",
+   "effects": "Slow-building, steady, long-lasting hash high with far less redosing than distillate; 'closest experience to dabbing'",
+   "verdict": "The only 510 rosin cart with a sustained reputation on r/TheOCS — 'nothing comes close', 'the only rosin cart really worth getting'. Half the volume of a resin cart at the same price, and hardware has been hit-or-miss, but for solventless purists it is the pick. Brand replies to complaints on Reddit and replaces duds.",
+   "pros": [
+    "Best-in-class solventless oil",
+    "Ceramic hardware, now improved",
+    "Great flavour retention",
+    "Responsive customer service"
+   ],
+   "cons": [
+    "0.5g for ~$45 (double the per-gram cost of resin)",
+    "Hardware failures on some lots (Mob Pie early 2026)",
+    "Rotating strain; can be hard to find",
+    "'A miss lately' per a few in 2026"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Honestly besides the sauce rosin labs I don't think anything comes close.",
+     "t": "1kl0z85",
+     "s": 7
+    },
+    {
+     "q": "First day using it, it hit AMAZING. Super smooth, strong effects, great flavor… But the hardware is horrible. By the second day it just completely stopped hitting.",
+     "t": "1r57fgd",
+     "s": 14
+    },
+    {
+     "q": "This is (in my opinion) the best live rosin cart to hit the market, and ive tried most of them.",
+     "t": "1okshdv",
+     "s": 3
+    },
+    {
+     "q": "Stick to ceramic carts! Sauce Rosin Labs Governmint Oasis has to be the best cart I've ever had... Gone thru 13 so far!",
+     "t": "1kacpls",
+     "s": 2
+    }
+   ],
+   "threads": [
+    "1r57fgd",
+    "1okshdv",
+    "1uact2q",
+    "1vi072q",
+    "1pnmz9l",
+    "1dzbnrd",
+    "1j67rhe"
+   ]
+  },
+  {
+   "id": "connoisseur-culture",
+   "brand": "Connoisseur Culture",
+   "parent": "Connoisseur Culture",
+   "name": "Connoisseur's Hash Rosin — Rotational 510",
+   "current_strain": "Rotating: Peanut Butter Breath, Blue King…",
+   "type": "Cured hash rosin (solventless, water/ice)",
+   "size": "1g",
+   "price_ocs": 46.95,
+   "street_price": "$40–47",
+   "thc": "70–76%",
+   "terps": "moderate",
+   "hardware": "All-ceramic with double O-ring seal — 'should be the industry standard', 'feels premium'",
+   "tier": "A",
+   "score": 8.3,
+   "ocs_url": "https://ocs.ca/products/connoisseurs-hash-rosin-rotational-r-510-thread-cartridge-connoisseur-culture-hash-pen",
+   "availability": "Toronto stores (Wholesale Only)",
+   "leaning": "Hybrid (PBB)",
+   "flavour": "Skunky funk, 'old book', dry-mouth hash",
+   "effects": "Balanced hybrid, more forward than a straight sativa",
+   "verdict": "A rare FULL GRAM of real hash rosin at a lower price than half-gram competitors, in excellent ceramic hardware. Cured (not live) rosin, so slightly less terpy — but the community response (Jun 2026) was very positive.",
+   "pros": [
+    "1g of pure rosin ≈ $40",
+    "Excellent ceramic hardware",
+    "Cheaper than SRL per gram"
+   ],
+   "cons": [
+    "Cured, not live rosin",
+    "Limited distribution / few reviews"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Hardware is awesome ceramic all around this should be the industry standard for anything decent… The rosin is delicious",
+     "t": "1ujs93a",
+     "s": 17
+    }
+   ],
+   "threads": [
+    "1ujs93a",
+    "1pcl1af"
+   ]
+  },
+  {
+   "id": "port-north",
+   "brand": "Port North (Persy)",
+   "parent": "Persy",
+   "name": "Full Spectrum Live Rosin Syrup 510 (rotating)",
+   "current_strain": "Rotating: Gorilla Cookies, Lemon G, Roadhouse, Cherry Boat, Triangle Kush TK3K…",
+   "type": "Live rosin 'syrup' (whipped/cold-cured badder)",
+   "size": "0.5g",
+   "price_ocs": 29.5,
+   "street_price": "$25–30",
+   "thc": "65–87%",
+   "terps": "moderate",
+   "hardware": "Ceramic; reports of clogging at ~60–75%",
+   "tier": "B",
+   "score": 7.6,
+   "ocs_url": "https://ocs.ca/products/triangle-kush-tk3k-full-spectrum-live-rosin-syrup-510-cart-port-north",
+   "availability": "Toronto stores",
+   "leaning": "varies",
+   "flavour": "Some lots dank (Roadhouse); others 'all taste like caramel, no terp smell' — lower-quality input than SRL",
+   "effects": "'Smacks' — heavy, fast, behind the eyes; among the hardest-hitting rosin carts",
+   "verdict": "The budget rosin cart: half the price of Sauce Rosin Labs and strong, but flavour is inconsistent and Persy's reputation has slipped ('Persy fell off'). Good entry to rosin if price matters more than terps.",
+   "pros": [
+    "Cheapest real rosin 510 (~$30/0.5g)",
+    "Potent"
+   ],
+   "cons": [
+    "Caramel/muted flavour on many lots",
+    "Clogs late",
+    "Brand perceived as declined"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Easily one of the strongest and most satisfying rosin 510 carts I have had in this recent run.",
+     "t": "1qrl090",
+     "s": 11
+    },
+    {
+     "q": "all their rosin tastes like caramel. It's nasty. It's sad cuz the crosses and strains seem good but the quality of extraction is not there",
+     "t": "1qrl090",
+     "s": 1
+    }
+   ],
+   "threads": [
+    "1qrl090",
+    "1islpdf",
+    "1ipsz4t",
+    "1kl0z85"
+   ]
+  },
+  {
+   "id": "greenherb-pure-rosin",
+   "brand": "PURE ROSIN (Greenherb)",
+   "parent": "Greenherb",
+   "name": "100% Rosin Sativa / Live Hash Rosin Vape 510 (strain specific)",
+   "current_strain": "Harbour Haze and other sativas",
+   "type": "100% rosin (1g, no additives)",
+   "size": "1g",
+   "price_ocs": 58.95,
+   "street_price": "$45–59",
+   "thc": "71–77%",
+   "terps": "~12%",
+   "hardware": "Full ceramic; runny rosin; mild clogging",
+   "tier": "B",
+   "score": 7.6,
+   "ocs_url": "https://ocs.ca/products/100-pure-rosin-sativa-510-thread-cartridge-greenherb",
+   "availability": "Toronto/Burlington stores (rare)",
+   "leaning": "Sativa",
+   "flavour": "Light, sweet, mild for rosin",
+   "effects": "Energizing sativa rosin — 'gives some energy at any time of day'; 9.5/10 effects",
+   "verdict": "One of only two true 1g pure-rosin 510s on the market. Effects praised, flavour milder than expected, and it finishes fast. Expensive at list but often discounted.",
+   "pros": [
+    "Full gram of real rosin",
+    "Ceramic",
+    "Sativa rosin is rare"
+   ],
+   "cons": [
+    "$58.95 list",
+    "Mild taste",
+    "Hard to find"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "If you want a full 1g of pure rosin, check out the 100% sativa rosin from Pure rosin and Black Mountain Side hash rosin 1g by Polar.",
+     "t": "1n6bkgq",
+     "s": 8
+    },
+    {
+     "q": "Sativa in the name speaks for itself… few small hits will get you where you gotta be… 9.5/10",
+     "t": "1mqh61v",
+     "s": 10
+    }
+   ],
+   "threads": [
+    "1mqh61v",
+    "1n6bkgq",
+    "1pcl1af"
+   ]
+  },
+  {
+   "id": "rosin-others",
+   "brand": "Contraband / The Goo! / Frootyhooty / Polar",
+   "parent": "various",
+   "name": "Other rosin-labelled 510s on OCS",
+   "current_strain": "Contraband Live Rosin Guava Cake (0.5g $39.95); The Goo! GOO-CART (0.5g $33); Frootyhooty 'Live Rosin Amp'd with Liquid Diamonds' (1g $37.95); Polar Black Mountain Side (1g)",
+   "type": "Contraband & Goo! = live rosin; Frootyhooty = rosin + distillate ('amplified'); Polar = hash rosin",
+   "size": "0.5–1g",
+   "price_ocs": 37.95,
+   "street_price": "$30–50",
+   "thc": "67–87%",
+   "terps": "varies",
+   "hardware": "varies; Polar clogged/burnt at 60–75% for reviewers",
+   "tier": "C",
+   "score": 6.5,
+   "ocs_url": "https://ocs.ca/collections/rosin-cartridges",
+   "availability": "Toronto stores",
+   "leaning": "varies",
+   "flavour": "Goo! 'Brain Fruit' called mid; Polar muted/harsh; Frootyhooty fruity (flavoured)",
+   "effects": "varies",
+   "verdict": "Approach with caution. Frootyhooty's 1g 'rosin' carts are mostly distillate ('amplified'). Polar's rosin cart disappointed reviewers. Contraband and The Goo! have too few reviews to rank (Goo! is respected for jars). Sauce Rosin Labs remains the safe rosin buy.",
+   "pros": [
+    "Cheaper entry points to 'rosin'"
+   ],
+   "cons": [
+    "'Amplified' = cut with distillate",
+    "Sparse/negative reviews",
+    "Polar hardware issues"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "The majority of 1g Rosin 510 carts on the market are amplified rosin, which means they take a bit of rosin, cut it with disty and flavoring and put that into a cart.",
+     "t": "1n6bkgq",
+     "s": 8
+    },
+    {
+     "q": "[Polar] Flavor was fairly muted, high was like a 7/10… clogged after like 60% of the cart was finished… Go for sauce rosin labs.",
+     "t": "1ivu274",
+     "s": 5
+    }
+   ],
+   "threads": [
+    "1n6bkgq",
+    "1ivu274",
+    "1pcl1af",
+    "1qkxp99"
+   ]
+  },
+  {
+   "id": "jonny-chronic",
+   "brand": "Jonny Chronic",
+   "parent": "Jonny Chronic (Ontario)",
+   "name": "Acapulco Gold / Cherry Bomb Live Resin 510",
+   "current_strain": "Acapulco Gold (landrace sativa), Cherry Bomb",
+   "type": "100% live resin (brand confirms no distillate; CRC'd)",
+   "size": "1g",
+   "price_ocs": 37.65,
+   "street_price": "$33–38",
+   "thc": "80–86% (flat 80% labels)",
+   "terps": "moderate",
+   "hardware": "Heavy polished-metal tip + stainless post (Greentank-style) — sturdy but 'needs babying' to avoid clogs",
+   "tier": "B",
+   "score": 8.0,
+   "ocs_url": "https://ocs.ca/products/acapulco-gold-live-resin-510-thread-cartridge-jonny-chronic-central-american-landrace",
+   "availability": "OCS.ca online + stores",
+   "leaning": "Acapulco Gold = calm, spacey sativa; Cherry Bomb = indica-leaning",
+   "flavour": "Black pepper, wood, faint citrus — true to flower",
+   "effects": "Potent, mind-calming sativa; 'feel it in the eyelids'",
+   "verdict": "The best-value 100% live resin on OCS.ca ('8/10, 11/10 for the price'), 20–25% cheaper than Tribal. Older metal hardware is the compromise.",
+   "pros": [
+    "$37.65 for pure LR",
+    "Brand transparency on Reddit",
+    "Landrace sativa profile"
+   ],
+   "cons": [
+    "Dated metal hardware",
+    "Flat 80% THC label raises eyebrows",
+    "Fewer reviews"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Best part about this cart is the price though, 36.95 on the OCS. Compared to tribal carts (on the OCS) that's a 25 percent difference",
+     "t": "1nnu3aj",
+     "s": 24
+    },
+    {
+     "q": "Just to clarify: our Live Resin cartridges contain no distillate — they are 100% live resin.",
+     "t": "1nnu3aj",
+     "s": 27
+    }
+   ],
+   "threads": [
+    "1nnu3aj",
+    "1tu4lhm",
+    "1pcl1af"
+   ]
+  },
+  {
+   "id": "debunk",
+   "brand": "DEBUNK",
+   "parent": "Debunk",
+   "name": "Blueberry Kush / Funky GLTO / Super Lemon Haze Live Resin 510",
+   "current_strain": "Blueberry Kush, Funky GLTO (Funky Panties x Chimp Mint Gelato), Super Lemon Haze",
+   "type": "100% live resin, no added terps (per reviewers)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$33–43",
+   "thc": "72–84%",
+   "terps": "moderate",
+   "hardware": "Ceramic post, smooth — but multiple leak reports and 'non-existent' customer service",
+   "tier": "B",
+   "score": 7.7,
+   "ocs_url": "https://ocs.ca/products/funky-glto-live-resin-510-thread-cartridge-debunk-funky-panties-x-chimp-mint-gelato",
+   "availability": "OCS.ca (Funky GLTO) + stores",
+   "leaning": "Blueberry Kush = cerebral 'old-school' high; SLH = lemon gas, sleepier than expected; Funky GLTO = funky earthy gas",
+   "flavour": "True-to-strain: blueberry / lemon-gas / funky gas",
+   "effects": "Strong ('stronger than Tribal Terple'), fun, hungry",
+   "verdict": "Often on sale at $33–38 and reviewers rate the oil 8.5–9/10 with clean ceramic hardware — a genuine value LR. The catch: leaks happen and the company does not answer emails, so buy from a store that accepts returns.",
+   "pros": [
+    "Frequently discounted",
+    "Tasty, additive-free",
+    "Ceramic post"
+   ],
+   "cons": [
+    "Leaks reported",
+    "Customer service ghosting",
+    "Debunk also sells lots of liquid-diamond distillate carts — don't confuse them"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "The taste is phenomenal and the high is strong and fun 9/10",
+     "t": "1n4by8w",
+     "s": 8
+    },
+    {
+     "q": "Their carts leak and customer service is non existent",
+     "t": "1vq1ydh",
+     "s": 3
+    }
+   ],
+   "threads": [
+    "1n4by8w",
+    "1nggnu5",
+    "1vq1ydh"
+   ]
+  },
+  {
+   "id": "greazy",
+   "brand": "GREAZY",
+   "parent": "Greazy",
+   "name": "RNB Belts / Super Lemon Haze Live Resin 510",
+   "current_strain": "RNB Belts, Super Lemon Haze",
+   "type": "Live resin (fresh frozen per OCS); purists suspect added terps",
+   "size": "1g",
+   "price_ocs": 45.6,
+   "street_price": "$35–40",
+   "thc": "76–82%",
+   "terps": "moderate",
+   "hardware": "Same stocky 'Active' ceramic XL hardware as FOUR54 — great airflow, no clogs",
+   "tier": "B",
+   "score": 7.4,
+   "ocs_url": "https://ocs.ca/products/super-lemon-haze-live-resin-510-thread-cartridge-greazy-super-lemon-haze",
+   "availability": "Toronto stores",
+   "leaning": "RNB Belts hybrid; SLH sativa",
+   "flavour": "Candy-sweet (RNB Belts); lemon haze with a tobacco-like aftertaste (SLH)",
+   "effects": "Decent; 'underrated'",
+   "verdict": "Polarizing: some call RNB Belts 'the best cart I've had', others 'tastes like additives' and report dead-on-arrival carts with a brush-off from the company. Excellent hardware at a street price of ~$35 keeps it in the conversation.",
+   "pros": [
+    "FOUR54-grade hardware",
+    "~$35 in stores"
+   ],
+   "cons": [
+    "Flavour suspected artificial by purists",
+    "Customer-service complaints",
+    "Few reviews"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Best I've had is rnb belts by Greazy",
+     "t": "1khcyzc",
+     "s": 5
+    },
+    {
+     "q": "Greazy is easily the worst cart/ company ive dealt with.",
+     "t": "1l03agv",
+     "s": 11
+    }
+   ],
+   "threads": [
+    "1l03agv",
+    "1khcyzc",
+    "1nfpvin",
+    "1lrhv5z"
+   ]
+  },
+  {
+   "id": "redecan-amped",
+   "brand": "Redecan",
+   "parent": "Redecan (Ontario)",
+   "name": "Amped Live Resin 510 — Space Age Cake / Blueberry Donuts / Pineapple Express",
+   "current_strain": "Space Age Cake, Blueberry DNTS, Pineapple Express",
+   "type": "~80% live resin + 20% THCa diamonds (no flavouring, per Redecan)",
+   "size": "1g",
+   "price_ocs": 45.85,
+   "street_price": "$38–46",
+   "thc": "89–95%",
+   "terps": "moderate",
+   "hardware": "Chubby cart with big tip and strong airflow",
+   "tier": "B",
+   "score": 7.5,
+   "ocs_url": "https://ocs.ca/products/amped-live-resin-space-age-ck-510-thread-cartridge-redecan-space-age-cake",
+   "availability": "OCS.ca online + stores",
+   "leaning": "Hybrid",
+   "flavour": "Earthy flower with a hint of fruit — less candy than expected",
+   "effects": "Solid functional buzz, no couch-lock; 8/10",
+   "verdict": "'Surprisingly good' for a Redecan product and a legit resin/diamond blend (unlike 'designer distillate' competitors). But it costs the same as pure Tribal LR, so purists skip it. A Pineapple Express lot had oxidation/bubbling defects. See also Redecan's 'Legit Live Resin' AIO below — the true community darling.",
+   "pros": [
+    "Real 80/20 blend, no botanicals",
+    "Big airflow, no clogs"
+   ],
+   "cons": [
+    "Same price as 100% LR",
+    "Pineapple Express lot defects",
+    "Purists: 'LR mixed with distillate'"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Redecan's Amped was surprisingly good, I was told by the Redecan Rep that they are 80% Resin / 20% Diamonds",
+     "t": "1w1tenn",
+     "s": 1
+    },
+    {
+     "q": "This is the same price almost… than an actual pure live resin cart from Tribal. And that's a big reason I haven't tried it.",
+     "t": "1q8w5n9",
+     "s": 27
+    }
+   ],
+   "threads": [
+    "1q8w5n9",
+    "1tk5rh9",
+    "1w1tenn"
+   ]
+  },
+  {
+   "id": "budget-lr",
+   "brand": "Jays / Pepe / Pura Vida",
+   "parent": "various (Jays = same house as The Loud Plug/Ambr)",
+   "name": "Budget live resin 510s — Jays Pink Cherry, Pepe Lemon Freeze, Pura Vida Pineapple Express",
+   "current_strain": "Pink Cherry ($34.95), Lemon Freeze ($34.90), Pineapple Express ($29.95)",
+   "type": "Live resin from lower-grade input ('floor-sweeping live resin'), CRC'd",
+   "size": "1g",
+   "price_ocs": 29.95,
+   "street_price": "$22–35",
+   "thc": "75–84%",
+   "terps": "low-moderate",
+   "hardware": "Basic but reliable (Jays 'never leak, clog or burn'); Pepe updated to white flat mouthpiece",
+   "tier": "B",
+   "score": 6.9,
+   "ocs_url": "https://ocs.ca/products/pineapple-express-live-resin-cartridge-pura-vida",
+   "availability": "OCS.ca (Pura Vida) + stores",
+   "leaning": "Jays Pink Cherry indica-ish; Lemon Freeze & Pineapple Express sativa-ish",
+   "flavour": "Harsh, 'tastes like weed/ass' (Jays); lemon (Pepe); pineapple (Pura Vida)",
+   "effects": "Surprisingly strong head high (Jays 'shits on 75% of LR carts for the price')",
+   "verdict": "The sub's 'budget LR' category: real (if low-grade) live resin for $22–35. Expect rough taste and small clouds; expect a decent high. A step up from any distillate at the same price.",
+   "pros": [
+    "$10–20 cheaper than premium LR",
+    "Reliable Jays hardware",
+    "Actually live resin"
+   ],
+   "cons": [
+    "Harsh, grassy flavour",
+    "Some doubt purity ('disty + terps')",
+    "Jays parent = The Loud Plug/Ambr"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "This shit taste like ass just like weed tbh but I am high asffff… This shits on more than 75% of live resin carts and for the price I am definitely buying this again.",
+     "t": "1k8t17z",
+     "s": 10
+    },
+    {
+     "q": "Not cut, It's just floor sweeping live resin. It's a new category, Pepe has some, and pura vida and thrifty",
+     "t": "1k8t17z",
+     "s": 13
+    }
+   ],
+   "threads": [
+    "1k8t17z",
+    "1rp3yxg",
+    "1ion5me"
+   ]
   }
  ]
 }
