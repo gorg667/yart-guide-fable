@@ -179,3 +179,10 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 ### Cured resin (not live) — worth an "also consider" section (1tnsqjs May 2026 40↑, 1tbyo84 May 2026 45↑, 1w3noif Aug 2026)
 - **Sixty Seven Sins "67" Cured Resin 510 Gas Face** (launched May 2026; brand = Purple Hills owner's craft label): "freaking fantastic", pure gassy punch, sedative, better airflow than their AIO; **hardware = stainless CCELL (not ceramic)** — owner (active on sub) says <1% failure across ~100 PH carts; community begs for ceramic; owner promises to look for ceramic. 67 Sins Gas Face AIO: "in an ocean of shitty disty vapes this shines", cured hits harder than live for some.
 - Cured resin favourites: NUGZ G Sherb, **Pure Sunfarms Pink Kush FS resin cart** (tasty, needs ceramic hw), 1964 (all cured/FSE), 3Saints FSE, 67 Sins Artisan Reserve. Rosin AIO: **Invader 0.5g live rosin AIO "even better than Juice Bar"**.
+
+### Tribal 2026 status (1ume9xy Jul 2026 22↑, 1uwq8kg Jul 2026 31↑, 1w2hu1w Aug 2026 48↑)
+- Concern: Tribal LR "runnier" in 2026 (liquid-diamond-like consistency), carts finishing in 5 days vs 2 weeks; budtender/manager agrees; several switched to Iris ("costs less, works better"). Counter: runnier = wicks better, no dry hits; latest batch "amazing"; GT cart "vaped proper all the way through".
+- Neon Sunshine 510 (May 2026 pkg): "one of the greatest carts ever, destroys Fantasm" — Tribal loyalists prefer Tribal potency; "Atlanticann and Tribal are the only 2 brands I trust". Porto Leche also praised across formats.
+- Technique: **short 2–4s hits at 2.2–2.3V, exhale quickly; don't rip hard** — fixes most "cart sucks" complaints.
+- Other: Portals (lint-cap) many returns; Wild West "waste in a tube".
+### LR vs distillate framing (1uy3nsz Jul 2026 22↑; 1t5s4hi): disty = isolated THC + flavouring → one-dimensional head spike, headaches for some; LR = full terp/minor-cannabinoid profile → rounded, longer, "true to flower"; some tolerant users still prefer disty's hard spike. Indica/sativa labels ≈ marketing.
