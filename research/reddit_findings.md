@@ -111,3 +111,9 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 - **WARNING: most 1g "rosin" 510s are "amplified"/"amp'd" rosin = a bit of rosin + distillate + flavouring** (Frootyhooty "Live Rosin Amp'd with Liquid Diamonds", Poppin Peach "LIVE ROSIN AMPLIFIED Distillate"). True 0.5g pure rosin carts are the exception.
 - Lord Jones: "big no — resin & hardware not good, tons of clogging; owned by Spinach parent (Cronos/big tobacco)". Wildcard "Small Batch Resin" has been only G-Wagon for 1.5 yrs (stale rotation). Tribal = 100% live resin (confirmed by several); NUGZ (Tribal sister) = cured resin blends with disty + flavouring.
 - Rosin-cart usage tips: hold button 4-5s before hit, 5s hits, wait 30s between, keep upright, <25°C, 2.4V max.
+
+### Rosin cart reviews
+- **Connoisseur's Culture Rotational Hash Rosin 510 (Peanut Butter Breath)** (1ujs93a Jun 2026, 17↑): $40 (cheaper than most rosin), **all-ceramic hardware "should be industry standard", double O-ring seal, premium feel**; skunky "old book" funk; 73% THC; it's *cured* hash rosin not live. Brand also has Blue King strain. Positive.
+- **Sauce Rosin Labs Mob Pie 510** (1okshdv Oct 2025, 20↑): "one of the best vape experiences on the market", heavy sedative, true-to-flower, fast; one user's died at 1/4 (SRL DM'd to fix). Grease Bucket = "#1 in the cart dept" for another. Brand replies on sub.
+- **Sauce Rosin Labs Chilly Willy 510** (1uact2q Jun 2026): ~$37/0.5g at Cannabis Hut (Coxwell, Toronto); sweet creamy gas; buzzy euphoric no anxiety; great description of disty (spike/crash/redose) vs LR/rosin (slower, steadier, longer) high.
+- **Port North FS Live Rosin Syrup Gorilla Cookies 510** (1qrl090 Jan 2026): smacks, smooth, strong; but others say all Port North rosin "tastes like caramel", no terp smell — budget rosin; new Lemon G rosin 510. Port North = "syrup" = whipped/cold-cured badder.
