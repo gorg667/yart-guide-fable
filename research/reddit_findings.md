@@ -142,3 +142,7 @@ Format: brand → what sub says (with thread ids for citation). "+" positive, "�
 - Iris hardware preferred over Tribal by many: "Tribal cotton darkens before halfway, burnt hits at 2.0V; Iris cotton stays clean".
 - **ZODA (new Jul 2026)** = "first real miss", kushy/gassy, underwhelming flavour. Ranking by fans: Purple Sundaze / Fantasm / Blackwater top; Cherry Bang Bang "most flavourful", "cart of the year" candidate (Apr 2026); ZODA last.
 - **2026 concern: recent Iris lots "muted", less potent, more burning** vs 2025 lots (Blackwater tastes "watered down"). Still "best LR on market with EastCann, 100x better than Tribal" per budtenders.
+### Iris positives (1sg74u7 Apr 2026 49↑, 1qs7naq Jan 2026 65↑, 1shbfji, 1rzy9tz)
+- Cherry Bang Bang: creative+relaxing, spicy gassy herbal "cherry" (terpinolene — more lemon/mango/pine than cherry to many), very fluid light-coloured oil (= clean extraction, but used up faster); similar to Cuban Linx. Some prefer Gastro Pop (CBB "one-dimensional").
+- Fantasm Jan 2026 lot: 16% terps, orange flavour, functional warm buzz; "**now fully ceramic hardware + mouthpiece — terps preserved, zero burning**"; priced "couple $ more than bottom-tier disty" ($40–45). Tribal LR described as "brown viscous sludge" by comparison.
+- Toronto availability tip: Cannabis Hut (Coxwell) carries Iris.
