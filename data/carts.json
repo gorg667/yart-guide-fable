@@ -1,293 +1,1130 @@
 {
-  "meta": {
-    "title": "Best Live Resin & Live Rosin 510 Carts in Toronto (OCS) — r/TheOCS Community Guide",
-    "updated": "2026-09-06",
-    "reddit_posts_scanned": 81698,
-    "reddit_threads_read": 850,
-    "reddit_comments_indexed": 36460,
-    "ocs_products_indexed": 793,
-    "ocs_live_510_skus": 84,
-    "price_note": "Prices are OCS.ca list prices (Sept 2026) before 13% HST. Retail stores in Toronto commonly sell $3–10 below OCS list; use hibuddy.ca to compare.",
-    "disclaimer": "Independent research compiled from public r/TheOCS discussion and OCS.ca product data. No affiliation with any producer or retailer. Cannabis is for adults 19+ in Ontario."
-  },
-  "tiers": {
-    "S": "Top tier — repeated, broad community consensus as best-in-class; consistent oil + reliable hardware.",
-    "A": "Excellent — widely recommended, minor caveats (hardware, batch variance, price).",
-    "B": "Good / situational — worth buying for the right use case or price; notable trade-offs.",
-    "C": "Mixed — enjoyed by some, frequent complaints from others.",
-    "AVOID": "Community consensus is negative or the product is not what the label implies."
-  },
-  "products": [
+ "meta": {
+  "title": "Best Live Resin & Live Rosin 510 Carts in Toronto (OCS) — r/TheOCS Community Guide",
+  "updated": "2026-09-06",
+  "reddit_posts_scanned": 81698,
+  "reddit_threads_read": 850,
+  "reddit_comments_indexed": 36460,
+  "ocs_products_indexed": 793,
+  "ocs_live_510_skus": 84,
+  "price_note": "Prices are OCS.ca list prices (Sept 2026) before 13% HST. Retail stores in Toronto commonly sell $3–10 below OCS list; use hibuddy.ca to compare.",
+  "disclaimer": "Independent research compiled from public r/TheOCS discussion and OCS.ca product data. No affiliation with any producer or retailer. Cannabis is for adults 19+ in Ontario."
+ },
+ "tiers": {
+  "S": "Top tier — repeated, broad community consensus as best-in-class; consistent oil + reliable hardware.",
+  "A": "Excellent — widely recommended, minor caveats (hardware, batch variance, price).",
+  "B": "Good / situational — worth buying for the right use case or price; notable trade-offs.",
+  "C": "Mixed — enjoyed by some, frequent complaints from others.",
+  "AVOID": "Community consensus is negative or the product is not what the label implies."
+ },
+ "products": [
+  {
+   "id": "four54-emerald-triangle",
+   "brand": "FOUR54",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Emerald Triangle Live Resin 510 (rotating strain)",
+   "current_strain": "Route 66 (Aug 2026) — previously Papaya Bomb (Mar–Jul 2026), Gastro Pop (2025–early 2026)",
+   "type": "100% live resin (fresh frozen, hydrocarbon)",
+   "size": "1g",
+   "price_ocs": 39.95,
+   "street_price": "$34–40",
+   "thc": "74–84%",
+   "terps": "12–16.5% (lot dependent)",
+   "hardware": "\"Active\" 1.2Ω postless full-ceramic XL cart — the community's 2026 hardware benchmark; very wide airflow, huge vapour at 2.0–2.2V, rarely clogs",
+   "tier": "S",
+   "score": 9.5,
+   "ocs_url": "https://ocs.ca/products/emerald-triangle-cured-resin-510-thread-cartridge-four54",
+   "availability": "OCS.ca online + widely stocked in Toronto stores",
+   "leaning": "Varies by rotation: Gastro Pop = indica-leaning hybrid; Papaya Bomb = relaxing hybrid; Route 66 = stimulating, cerebral sativa-leaning",
+   "flavour": "Gastro Pop: dark grape + gas, extremely loud (tin reeks). Papaya Bomb: tropical, lighter taste than smell. Route 66: sweet berries, citrus, sour apple.",
+   "effects": "Gastro Pop: heavy, sedative, behind-the-eyes — 'smoke when you have nothing to do'. Route 66: 'stimulating and cerebral, but calm and floaty; puts you in a nice place then gets out of the way'.",
+   "verdict": "The single most recommended live resin cart on r/TheOCS in 2026. Same Atlanticann resin as EastCann/Iris but in the best hardware and at the lowest price of the three. The Gastro Pop rotation is called 'GOAT' and 'cart hall of fame'; Route 66 is the current crowd favourite sativa.",
+   "pros": [
+    "Best-in-class ceramic XL hardware ('leagues ahead of Tribal, Carmel, 1964, Woody Nelson')",
+    "Cheapest of the Atlanticann trio",
+    "Very loud, true-to-flower terps",
+    "Tastes as good at the end as day one",
+    "Fits Uni Pro; huge hits at low voltage"
+   ],
+   "cons": [
+    "Rotating SKU — the strain you loved may be gone next month",
+    "Wide base can partly cover Kodo Pro air intakes → a few leak reports on that battery",
+    "Papaya Bomb harsher for some",
+    "Some Aug 2026 Route 66 units shipped with plastic (not ceramic) tops",
+    "Thin oil = runs out a little faster"
+   ],
+   "reddit_quotes": [
     {
-      "id": "four54-emerald-triangle",
-      "brand": "FOUR54",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Emerald Triangle Live Resin 510 (rotating strain)",
-      "current_strain": "Route 66 (Aug 2026) — previously Papaya Bomb (Mar–Jul 2026), Gastro Pop (2025–early 2026)",
-      "type": "100% live resin (fresh frozen, hydrocarbon)",
-      "size": "1g",
-      "price_ocs": 39.95,
-      "street_price": "$34–40",
-      "thc": "74–84%",
-      "terps": "12–16.5% (lot dependent)",
-      "hardware": "\"Active\" 1.2Ω postless full-ceramic XL cart — the community's 2026 hardware benchmark; very wide airflow, huge vapour at 2.0–2.2V, rarely clogs",
-      "tier": "S",
-      "score": 9.5,
-      "ocs_url": "https://ocs.ca/products/emerald-triangle-cured-resin-510-thread-cartridge-four54",
-      "availability": "OCS.ca online + widely stocked in Toronto stores",
-      "leaning": "Varies by rotation: Gastro Pop = indica-leaning hybrid; Papaya Bomb = relaxing hybrid; Route 66 = stimulating, cerebral sativa-leaning",
-      "flavour": "Gastro Pop: dark grape + gas, extremely loud (tin reeks). Papaya Bomb: tropical, lighter taste than smell. Route 66: sweet berries, citrus, sour apple.",
-      "effects": "Gastro Pop: heavy, sedative, behind-the-eyes — 'smoke when you have nothing to do'. Route 66: 'stimulating and cerebral, but calm and floaty; puts you in a nice place then gets out of the way'.",
-      "verdict": "The single most recommended live resin cart on r/TheOCS in 2026. Same Atlanticann resin as EastCann/Iris but in the best hardware and at the lowest price of the three. The Gastro Pop rotation is called 'GOAT' and 'cart hall of fame'; Route 66 is the current crowd favourite sativa.",
-      "pros": ["Best-in-class ceramic XL hardware ('leagues ahead of Tribal, Carmel, 1964, Woody Nelson')", "Cheapest of the Atlanticann trio", "Very loud, true-to-flower terps", "Tastes as good at the end as day one", "Fits Uni Pro; huge hits at low voltage"],
-      "cons": ["Rotating SKU — the strain you loved may be gone next month", "Wide base can partly cover Kodo Pro air intakes → a few leak reports on that battery", "Papaya Bomb harsher for some", "Some Aug 2026 Route 66 units shipped with plastic (not ceramic) tops", "Thin oil = runs out a little faster"],
-      "reddit_quotes": [
-        {"q": "Four54 Emerald Triangle Gastro Pop is GOAT but is out of rotation atm… Nothing else is close.", "t": "1uq30ry", "s": 19},
-        {"q": "Genuinely mind blown with how good the wider hardware is, I'm getting massive terpy hits at only 2.2V. Leagues ahead of Tribal, Carmel, 1964, Woody Nelson, etc hardware.", "t": "1omqf89", "s": 6},
-        {"q": "Route 66… It's stimulating and cerebral, but also calm and floaty. It's possible to focus and get things done. 10/10", "t": "1vr965c", "s": 24},
-        {"q": "Four54 cured resin carts are probably the best quality for under $40. Really good hardware, good resin, and no additives.", "t": "1u2fxk8", "s": 11}
-      ],
-      "threads": ["1uq30ry", "1omqf89", "1vr965c", "1riheh4", "1stsmlw", "1qxpb1b", "1of9n3j", "1rkx9nt", "1twv5bv"]
+     "q": "Four54 Emerald Triangle Gastro Pop is GOAT but is out of rotation atm… Nothing else is close.",
+     "t": "1uq30ry",
+     "s": 19
     },
     {
-      "id": "iris-fantasm",
-      "brand": "Iris Labs",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Fantasm Live Resin 510",
-      "current_strain": "Fantasm (ICC x Kush Mints #11 per OCS; 'strain002')",
-      "type": "100% live resin (fresh frozen, hydrocarbon, CRC'd)",
-      "size": "1g",
-      "price_ocs": 44.95,
-      "street_price": "$34–46",
-      "thc": "78.5–84.5%",
-      "terps": "~16%",
-      "hardware": "Iris full-ceramic core + (since 2026) ceramic mouthpiece; orange tip; longer than a standard cart (won't fit some batteries); cotton stays clean to the end",
-      "tier": "S",
-      "score": 9.4,
-      "ocs_url": "https://ocs.ca/products/fantasm-live-resin-510-thread-cartridge-iris-labs-icc-x-kushmints-11",
-      "availability": "OCS.ca online + most Toronto stores (e.g., Cannabis Hut Coxwell)",
-      "leaning": "Indica-leaning hybrid",
-      "flavour": "Orange zest / creamsicle, floral, 'tastes like ice cream'; some get lemon-candy-gas",
-      "effects": "Smooth, potent, 'hits like a truck' but functional; warm fuzzy head pressure, chilled not knocked out",
-      "verdict": "The flagship of the brand most often called 'the best live resin carts in Ontario'. Fantasm is the safest single recommendation on the sub for taste + smoothness + hardware reliability. Slightly pricier than FOUR54 at OCS list, often cheaper in stores.",
-      "pros": ["'Never clogged, never burnt, smoke to the very bottom' (many users, 8–20 carts deep)", "Best flavour in the category for many", "Now fully ceramic incl. mouthpiece (2026)", "Great for infrequent users — holds up 8+ weeks", "Iris CS reimburses defects"],
-      "cons": ["2026 lots called 'muted'/weaker by some long-time fans", "Longer cart doesn't fit some batteries", "Fluid oil → used up faster than Tribal", "Not a sativa (Iris' only sativa is Cherry Bang Bang)", "A few clog/leak reports, usually on stick batteries"],
-      "reddit_quotes": [
-        {"q": "After officially trying the 3 carts by Iris labs I can say they are definitely the best carts in the Ontario market at the moment. My favourite is the Fantasm which tastes like ice cream, hits like a truck and always smooth.", "t": "1o5se5j", "s": 73},
-        {"q": "I've gone through >8 Iris carts, and have never had a clog or failure.", "t": "1sbhf4z", "s": 5},
-        {"q": "Iris labs never leak, never burn, I can smoke them down to the very bottom.", "t": "1pmf4mq", "s": 6},
-        {"q": "The fact this is a couple dollars more than a bottom 1g distillate cart blows my mind.", "t": "1qs7naq", "s": 65}
-      ],
-      "threads": ["1o5se5j", "1j2v0o3", "1qs7naq", "1sbhf4z", "1pmf4mq", "1rjcj8z", "1ljen9d", "1pomvyj"]
+     "q": "Genuinely mind blown with how good the wider hardware is, I'm getting massive terpy hits at only 2.2V. Leagues ahead of Tribal, Carmel, 1964, Woody Nelson, etc hardware.",
+     "t": "1omqf89",
+     "s": 6
     },
     {
-      "id": "iris-blackwater",
-      "brand": "Iris Labs",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Blackwater Live Resin 510",
-      "current_strain": "Blackwater OG (Mendo Purps x SFV OG)",
-      "type": "100% live resin (fresh frozen, hydrocarbon, CRC'd)",
-      "size": "1g",
-      "price_ocs": 44.95,
-      "street_price": "$34–40",
-      "thc": "76.7–82.7%",
-      "terps": "10.8–15% (Caryophyllene, Limonene, Humulene)",
-      "hardware": "Iris full-ceramic (same as Fantasm)",
-      "tier": "S",
-      "score": 9.2,
-      "ocs_url": "https://ocs.ca/products/blackwater-live-resin-510-thread-cartridge-iris-labs",
-      "availability": "OCS.ca online + Toronto stores",
-      "leaning": "Heavy indica",
-      "flavour": "Kush/OG, gassy, earthy; the 'kushiest' Iris; some get grape or liquorice",
-      "effects": "Hardest-hitting Iris; sleep-mode body high; 'most potent and most consistent cart for me' (high-tolerance users)",
-      "verdict": "The night-time / heavy-indica pick of the S-tier. If you want an OG-kush dab-like hit in a reliable ceramic cart, this is the consensus answer.",
-      "pros": ["Most potent Iris SKU", "Real kush flavour (not fruity)", "Same bulletproof hardware as Fantasm", "Frequently $34–39 in stores"],
-      "cons": ["Terp profile shifted between 2025 lots (Myrcene → Limonene) — some say newer lots less dank", "Label changed from '100% live resin' to 'live resin, cannabis extract' (community noticed)", "Too body-heavy for daytime"],
-      "reddit_quotes": [
-        {"q": "Man this thing hits like an absolute truck, I find I really get the OG taste while hitting it. Super gazzy I love it.", "t": "1o5se5j", "s": 73},
-        {"q": "Iris Labs Blackwater is the most potent and most consistent cart for me personally.", "t": "1rmgkik", "s": 3},
-        {"q": "I take 2-3 hits at 1.8V and I'm gone… makes you feel like you hit a blunt. 10/10 cart", "t": "1u8qjrd", "s": 44}
-      ],
-      "threads": ["1u8qjrd", "1o9ljzk", "1nwrejt", "1muaqhz", "1uavozu", "1kzvr47"]
+     "q": "Route 66… It's stimulating and cerebral, but also calm and floaty. It's possible to focus and get things done. 10/10",
+     "t": "1vr965c",
+     "s": 24
     },
     {
-      "id": "iris-purple-sundaze",
-      "brand": "Iris Labs",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Purple Sundaze Live Resin 510",
-      "current_strain": "Purple Sundaze (Purple Elephant x Purple Punch)",
-      "type": "100% live resin (fresh frozen, hydrocarbon)",
-      "size": "1g",
-      "price_ocs": 44.95,
-      "street_price": "$37–46",
-      "thc": "76.5–82.5%",
-      "terps": "15.9–17.6%",
-      "hardware": "Iris full-ceramic",
-      "tier": "A",
-      "score": 8.8,
-      "ocs_url": "https://ocs.ca/products/purple-sundaze-live-resin-510-thread-cartridge-iris-labs-purple-elephant-x-purple-punch",
-      "availability": "OCS.ca online + Toronto stores",
-      "leaning": "Hybrid (reported both as 'sativa face high' and 'indica-leaning')",
-      "flavour": "Sweet orange / grape-gas, 'classic purple taste'",
-      "effects": "Mood-enhancing, euphoric body buzz with a focused head; relaxing without couch-lock; the mildest of the Iris trio",
-      "verdict": "The 'daytime Iris' for people who find Fantasm/Blackwater too heavy. Highest terps of the three but least potent. Top reply in several 'best LR' threads.",
-      "pros": ["Highest terp % in the Iris line", "Functional, anxiety-free buzz", "Same hardware reliability"],
-      "cons": ["'Least high' of the Iris carts", "Some found a lot bland (one turned out to be a wrong-cart-in-box)", "Price varies widely ($37–46)"],
-      "reddit_quotes": [
-        {"q": "Iris Labs - purple Sundaze", "t": "1n0nbbv", "s": 20},
-        {"q": "Purple Sundaze is lovely… a relaxing high with no couch lock or trouble keeping the eyes open.", "t": "1qhj4h4", "s": 2},
-        {"q": "The current batch of purple Sundaze is the best I've ever smoked. No joke", "t": "1mq3myy", "s": 3}
-      ],
-      "threads": ["1qkxp99", "1qwx36w", "1n0nbbv", "1olmx3r", "1k5rw50"]
-    },
-    {
-      "id": "iris-cherry-bang-bang",
-      "brand": "Iris Labs",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Cherry Bang Bang Live Resin 510",
-      "current_strain": "Cherry Bang Bang (Cherry Cosmo x Red Runtz; OCS lists Pineapple Fruz x Wild Cherry pheno)",
-      "type": "100% live resin (fresh frozen, hydrocarbon)",
-      "size": "1g",
-      "price_ocs": 44.95,
-      "street_price": "$38–45",
-      "thc": "78.3–84.3%",
-      "terps": "high (terpinolene-forward)",
-      "hardware": "Iris full-ceramic",
-      "tier": "A",
-      "score": 8.7,
-      "ocs_url": "https://ocs.ca/products/cherry-bang-bang-live-resin-510-thread-cartridge-vape-iris-labs-pineapple-fruz-x-wild-cherry-cherry-phenotype",
-      "availability": "OCS.ca online + Toronto stores (new spring 2026)",
-      "leaning": "Sativa — Iris' only sativa",
-      "flavour": "Lemon, pine, spicy herbal 'cherry'; many say it's really terpinolene/citrus rather than cherry — 'Cuban Linx but better'",
-      "effects": "Energizing, creative, focused head high; no anxiety, no burnout; daytime driver",
-      "verdict": "Launched spring 2026 and immediately a 'cart of the year' contender. The best pure-sativa live resin in the ceramic-hardware class; the direct upgrade path for Cuban Linx fans.",
-      "pros": ["Iris hardware + a true sativa profile", "Very fluid, light golden oil = clean extraction", "Repeatedly compared favourably to Tribal Cuban Linx"],
-      "cons": ["Thin oil goes fast", "Flavour called 'one-dimensional' by Gastro Pop fans", "Not actually cherry-tasting to most"],
-      "reddit_quotes": [
-        {"q": "Smoking the cherry bang right now and it's insane. Already a top runner for cart of the year for me.", "t": "1sdd23r", "s": 6},
-        {"q": "Very reminiscent of tribals Cuban linx but better in my personal opinion. Iris labs also has the better hardware. Effects are fantastic! A great sativa!", "t": "1td8irn", "s": 18},
-        {"q": "Wicked day time toke, I find just a couple hits does me good. No anxiety. Good focus and no burnout.", "t": "1uq30ry", "s": 4}
-      ],
-      "threads": ["1sg74u7", "1td8irn", "1t6c8r1", "1rzy9tz", "1shbfji", "1u2bun7"]
-    },
-    {
-      "id": "eastcann-gastro-pop",
-      "brand": "EastCann",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Gastro Pop Pure Live Resin 510",
-      "current_strain": "Gastro Pop (Apples & Bananas x Grape Gasoline)",
-      "type": "100% live resin (fresh frozen, hydrocarbon)",
-      "size": "1g",
-      "price_ocs": 44.95,
-      "street_price": "$39–45",
-      "thc": "81–87%",
-      "terps": "high",
-      "hardware": "EastCann ceramic core, ceramic tip (slightly narrower than FOUR54's XL)",
-      "tier": "S",
-      "score": 9.3,
-      "ocs_url": "https://ocs.ca/products/gastro-pop-live-resin-510-thread-cartridge-eastcann-apples-bananas-x-grape-gasoline",
-      "availability": "OCS.ca online + Toronto stores (launched Feb 2026)",
-      "leaning": "Indica-leaning hybrid",
-      "flavour": "Grape, floral 'like tea', gas; extremely aromatic",
-      "effects": "Uplifting head rush that settles into body relaxation; 'gets me a lot higher than Purple Kush'",
-      "verdict": "'Haven't found anything that competes with EastCann Gastro Pop' is a recurring 2026 sentiment. It is essentially the same resin as FOUR54's Gastro Pop rotation, made permanent — buy this when FOUR54 has rotated to another strain (FOUR54's hardware is slightly preferred).",
-      "pros": ["Permanent SKU of the community's favourite strain", "Ceramic hardware, no botanicals", "Highest THC of the Atlanticann LR line"],
-      "cons": ["$5 more than FOUR54 at OCS list", "FOUR54's XL hardware is slightly better", "Very stinky — not discreet", "Two-tone oil after opening is normal oxidation but alarms some buyers"],
-      "reddit_quotes": [
-        {"q": "Haven't found anything that competes with eastcann gastro pop", "t": "1uq30ry", "s": 13},
-        {"q": "Eastcann gastro pop is the best quality cart on the market", "t": "1sbhf4z", "s": 4},
-        {"q": "The Eastcann version is essentially the same product, but with worse hardware than the Four54", "t": "1vlkfis", "s": 3}
-      ],
-      "threads": ["1r4lx90", "1uq30ry", "1w1avan", "1vlkfis", "1pnlt43", "1vyfxns"]
-    },
-    {
-      "id": "eastcann-mango-sour",
-      "brand": "EastCann",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Mango Sour Pure Live Resin 510",
-      "current_strain": "Mango Sour (Sour Diesel cross; formerly Msiku 'Starstruck' lineage per some)",
-      "type": "100% live resin (OCS: hydrocarbon; tagged hang-dry — community treats as live)",
-      "size": "1g",
-      "price_ocs": 39.95,
-      "street_price": "$34–40",
-      "thc": "74–80%",
-      "terps": "high",
-      "hardware": "EastCann ceramic (new hardware mid-2025)",
-      "tier": "S",
-      "score": 9.1,
-      "ocs_url": "https://ocs.ca/products/mango-sour-pure-live-resin-510-thread-cartridge-eastcann-sour-mango-cross",
-      "availability": "OCS.ca online + Toronto stores",
-      "leaning": "Sativa",
-      "flavour": "Sour Diesel with a fruity/mango edge, piney citrus",
-      "effects": "Clean, functional, uplifting; energy and focus with no burnout; low odour — the 'work sativa'",
-      "verdict": "The sub's most-recommended daytime sativa live resin ('blows away any sativa cart I've ever had'). Cheaper than Tribal Cuban Linx, in better hardware. Only knock: a few say newer lots are less flavourful.",
-      "pros": ["Best-value true sativa LR", "Ceramic hardware, no clogs reported by most", "Uplifting without anxiety or crash", "$39.95 OCS list"],
-      "cons": ["Some 2026 lots 'less flavour, more cough'", "Sativa/indica labels unreliable — a few felt sleepy", "Pine-citrus not for everyone"],
-      "reddit_quotes": [
-        {"q": "Eastcann Mango Sour: This is an easy 10/10. So delicious and terpy. Clean functional sativa high… blows away any sativa cart I've ever had.", "t": "1pdg3cu", "s": 15},
-        {"q": "My two go-to's are four54 emerald triangle and eastcann mango sour. Anything iris labs/eastcann/four54 is always good imo.", "t": "1sbhf4z", "s": 5},
-        {"q": "It gives a nice uplifting buzz without a heavy burnout… Never had issues with clogging or breaking.", "t": "1pd79oz", "s": 6}
-      ],
-      "threads": ["1pdg3cu", "1tbo6wd", "1pd79oz", "1mq3myy", "1l10go7", "1k42pag"]
-    },
-    {
-      "id": "eastcann-frozen-lemons",
-      "brand": "EastCann",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Frozen Lemons Pure Live Resin 510",
-      "current_strain": "Frozen Lemons",
-      "type": "100% live resin (fresh frozen, hydrocarbon)",
-      "size": "1g",
-      "price_ocs": 44.95,
-      "street_price": "$38–45",
-      "thc": "71–77%",
-      "terps": "high",
-      "hardware": "EastCann ceramic",
-      "tier": "A",
-      "score": 8.9,
-      "ocs_url": "https://ocs.ca/products/frozen-lemons-pure-live-resin-510-thread-cartridge-eastcann-frozen-lemons",
-      "availability": "OCS.ca online + Toronto stores (Jan 2026 launch)",
-      "leaning": "Sativa-leaning hybrid",
-      "flavour": "Intense sweet lemon + pepper, 'like eating candy'; reminiscent of Purple Hills Lemon Pepper",
-      "effects": "Clear-headed, euphoric, social; no burnout; lighter than Purple Kush/Mango Sour",
-      "verdict": "The flavour cart. Several 2026 reviewers rank it #1 for taste ('a game changer… a bit dangerous, might like it too much'). Lower THC and a lighter buzz make it the best 'social / night out' pick.",
-      "pros": ["Arguably the best-tasting LR cart on the market", "Smooth, social, functional", "Ceramic hardware"],
-      "cons": ["Lowest THC in the Atlanticann LR line", "Some find it less potent than siblings"],
-      "reddit_quotes": [
-        {"q": "Eastcann: Frozen Lemons - My favorite of all these listed. The taste is delicious, really addicting. Almost felt like I was eating candy.", "t": "1w1avan", "s": 3},
-        {"q": "Frozen lemons I've found to be a really nice social cart I prefer it for nights where I'm out at a bar or someone else's house.", "t": "1ttuopw", "s": 16},
-        {"q": "Clear headed and euphoric with no burn out, which is what I was after.", "t": "1q4o0rb", "s": 29}
-      ],
-      "threads": ["1q4o0rb", "1w1avan", "1ttuopw", "1tk2l4m"]
-    },
-    {
-      "id": "eastcann-purple-kush",
-      "brand": "EastCann",
-      "parent": "Atlanticann (Nova Scotia)",
-      "name": "Purple Kush Pure Live Resin 510",
-      "current_strain": "Purple Kush (Hindu Kush x Purple Afghani)",
-      "type": "100% live resin",
-      "size": "1g",
-      "price_ocs": 39.95,
-      "street_price": "$34–40",
-      "thc": "77–82%",
-      "terps": "moderate-high",
-      "hardware": "EastCann ceramic (new hardware Jul 2025)",
-      "tier": "A",
-      "score": 8.6,
-      "ocs_url": "https://ocs.ca/products/purple-kush-live-resin-510-thread-cartridge-eastcann-purple-kush",
-      "availability": "OCS.ca online + Toronto stores",
-      "leaning": "Indica",
-      "flavour": "Grape, classic kush, natural weed taste",
-      "effects": "Full-body relaxing buzz; 'chill indica vibe' — lighter than Gastro Pop or Blackwater",
-      "verdict": "The value indica of the trio at $39.95. Loved for taste and reliability ('finished multiple without any problems'); some find the effects milder than expected.",
-      "pros": ["$39.95 list, often $34 in stores", "Great natural taste", "Reliable hardware, large draw hole"],
-      "cons": ["Milder than Gastro Pop / Blackwater", "One 2026 report of intake holes clogging"],
-      "reddit_quotes": [
-        {"q": "eastcan purple kush or mango sour… i find tribals carts spit and eastcann doesnt", "t": "1jz0yi4", "s": 5},
-        {"q": "grapey grape full body buzzer. potent. new hardware. grab on sight.", "t": "1lpzbrc", "s": 35}
-      ],
-      "threads": ["1lpzbrc", "1tyzk2v", "1pwcbcj", "1w1avan"]
+     "q": "Four54 cured resin carts are probably the best quality for under $40. Really good hardware, good resin, and no additives.",
+     "t": "1u2fxk8",
+     "s": 11
     }
-  ]
+   ],
+   "threads": [
+    "1uq30ry",
+    "1omqf89",
+    "1vr965c",
+    "1riheh4",
+    "1stsmlw",
+    "1qxpb1b",
+    "1of9n3j",
+    "1rkx9nt",
+    "1twv5bv"
+   ]
+  },
+  {
+   "id": "iris-fantasm",
+   "brand": "Iris Labs",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Fantasm Live Resin 510",
+   "current_strain": "Fantasm (ICC x Kush Mints #11 per OCS; 'strain002')",
+   "type": "100% live resin (fresh frozen, hydrocarbon, CRC'd)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$34–46",
+   "thc": "78.5–84.5%",
+   "terps": "~16%",
+   "hardware": "Iris full-ceramic core + (since 2026) ceramic mouthpiece; orange tip; longer than a standard cart (won't fit some batteries); cotton stays clean to the end",
+   "tier": "S",
+   "score": 9.4,
+   "ocs_url": "https://ocs.ca/products/fantasm-live-resin-510-thread-cartridge-iris-labs-icc-x-kushmints-11",
+   "availability": "OCS.ca online + most Toronto stores (e.g., Cannabis Hut Coxwell)",
+   "leaning": "Indica-leaning hybrid",
+   "flavour": "Orange zest / creamsicle, floral, 'tastes like ice cream'; some get lemon-candy-gas",
+   "effects": "Smooth, potent, 'hits like a truck' but functional; warm fuzzy head pressure, chilled not knocked out",
+   "verdict": "The flagship of the brand most often called 'the best live resin carts in Ontario'. Fantasm is the safest single recommendation on the sub for taste + smoothness + hardware reliability. Slightly pricier than FOUR54 at OCS list, often cheaper in stores.",
+   "pros": [
+    "'Never clogged, never burnt, smoke to the very bottom' (many users, 8–20 carts deep)",
+    "Best flavour in the category for many",
+    "Now fully ceramic incl. mouthpiece (2026)",
+    "Great for infrequent users — holds up 8+ weeks",
+    "Iris CS reimburses defects"
+   ],
+   "cons": [
+    "2026 lots called 'muted'/weaker by some long-time fans",
+    "Longer cart doesn't fit some batteries",
+    "Fluid oil → used up faster than Tribal",
+    "Not a sativa (Iris' only sativa is Cherry Bang Bang)",
+    "A few clog/leak reports, usually on stick batteries"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "After officially trying the 3 carts by Iris labs I can say they are definitely the best carts in the Ontario market at the moment. My favourite is the Fantasm which tastes like ice cream, hits like a truck and always smooth.",
+     "t": "1o5se5j",
+     "s": 73
+    },
+    {
+     "q": "I've gone through >8 Iris carts, and have never had a clog or failure.",
+     "t": "1sbhf4z",
+     "s": 5
+    },
+    {
+     "q": "Iris labs never leak, never burn, I can smoke them down to the very bottom.",
+     "t": "1pmf4mq",
+     "s": 6
+    },
+    {
+     "q": "The fact this is a couple dollars more than a bottom 1g distillate cart blows my mind.",
+     "t": "1qs7naq",
+     "s": 65
+    }
+   ],
+   "threads": [
+    "1o5se5j",
+    "1j2v0o3",
+    "1qs7naq",
+    "1sbhf4z",
+    "1pmf4mq",
+    "1rjcj8z",
+    "1ljen9d",
+    "1pomvyj"
+   ]
+  },
+  {
+   "id": "iris-blackwater",
+   "brand": "Iris Labs",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Blackwater Live Resin 510",
+   "current_strain": "Blackwater OG (Mendo Purps x SFV OG)",
+   "type": "100% live resin (fresh frozen, hydrocarbon, CRC'd)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$34–40",
+   "thc": "76.7–82.7%",
+   "terps": "10.8–15% (Caryophyllene, Limonene, Humulene)",
+   "hardware": "Iris full-ceramic (same as Fantasm)",
+   "tier": "S",
+   "score": 9.2,
+   "ocs_url": "https://ocs.ca/products/blackwater-live-resin-510-thread-cartridge-iris-labs",
+   "availability": "OCS.ca online + Toronto stores",
+   "leaning": "Heavy indica",
+   "flavour": "Kush/OG, gassy, earthy; the 'kushiest' Iris; some get grape or liquorice",
+   "effects": "Hardest-hitting Iris; sleep-mode body high; 'most potent and most consistent cart for me' (high-tolerance users)",
+   "verdict": "The night-time / heavy-indica pick of the S-tier. If you want an OG-kush dab-like hit in a reliable ceramic cart, this is the consensus answer.",
+   "pros": [
+    "Most potent Iris SKU",
+    "Real kush flavour (not fruity)",
+    "Same bulletproof hardware as Fantasm",
+    "Frequently $34–39 in stores"
+   ],
+   "cons": [
+    "Terp profile shifted between 2025 lots (Myrcene → Limonene) — some say newer lots less dank",
+    "Label changed from '100% live resin' to 'live resin, cannabis extract' (community noticed)",
+    "Too body-heavy for daytime"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Man this thing hits like an absolute truck, I find I really get the OG taste while hitting it. Super gazzy I love it.",
+     "t": "1o5se5j",
+     "s": 73
+    },
+    {
+     "q": "Iris Labs Blackwater is the most potent and most consistent cart for me personally.",
+     "t": "1rmgkik",
+     "s": 3
+    },
+    {
+     "q": "I take 2-3 hits at 1.8V and I'm gone… makes you feel like you hit a blunt. 10/10 cart",
+     "t": "1u8qjrd",
+     "s": 44
+    }
+   ],
+   "threads": [
+    "1u8qjrd",
+    "1o9ljzk",
+    "1nwrejt",
+    "1muaqhz",
+    "1uavozu",
+    "1kzvr47"
+   ]
+  },
+  {
+   "id": "iris-purple-sundaze",
+   "brand": "Iris Labs",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Purple Sundaze Live Resin 510",
+   "current_strain": "Purple Sundaze (Purple Elephant x Purple Punch)",
+   "type": "100% live resin (fresh frozen, hydrocarbon)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$37–46",
+   "thc": "76.5–82.5%",
+   "terps": "15.9–17.6%",
+   "hardware": "Iris full-ceramic",
+   "tier": "A",
+   "score": 8.8,
+   "ocs_url": "https://ocs.ca/products/purple-sundaze-live-resin-510-thread-cartridge-iris-labs-purple-elephant-x-purple-punch",
+   "availability": "OCS.ca online + Toronto stores",
+   "leaning": "Hybrid (reported both as 'sativa face high' and 'indica-leaning')",
+   "flavour": "Sweet orange / grape-gas, 'classic purple taste'",
+   "effects": "Mood-enhancing, euphoric body buzz with a focused head; relaxing without couch-lock; the mildest of the Iris trio",
+   "verdict": "The 'daytime Iris' for people who find Fantasm/Blackwater too heavy. Highest terps of the three but least potent. Top reply in several 'best LR' threads.",
+   "pros": [
+    "Highest terp % in the Iris line",
+    "Functional, anxiety-free buzz",
+    "Same hardware reliability"
+   ],
+   "cons": [
+    "'Least high' of the Iris carts",
+    "Some found a lot bland (one turned out to be a wrong-cart-in-box)",
+    "Price varies widely ($37–46)"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Iris Labs - purple Sundaze",
+     "t": "1n0nbbv",
+     "s": 20
+    },
+    {
+     "q": "Purple Sundaze is lovely… a relaxing high with no couch lock or trouble keeping the eyes open.",
+     "t": "1qhj4h4",
+     "s": 2
+    },
+    {
+     "q": "The current batch of purple Sundaze is the best I've ever smoked. No joke",
+     "t": "1mq3myy",
+     "s": 3
+    }
+   ],
+   "threads": [
+    "1qkxp99",
+    "1qwx36w",
+    "1n0nbbv",
+    "1olmx3r",
+    "1k5rw50"
+   ]
+  },
+  {
+   "id": "iris-cherry-bang-bang",
+   "brand": "Iris Labs",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Cherry Bang Bang Live Resin 510",
+   "current_strain": "Cherry Bang Bang (Cherry Cosmo x Red Runtz; OCS lists Pineapple Fruz x Wild Cherry pheno)",
+   "type": "100% live resin (fresh frozen, hydrocarbon)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$38–45",
+   "thc": "78.3–84.3%",
+   "terps": "high (terpinolene-forward)",
+   "hardware": "Iris full-ceramic",
+   "tier": "A",
+   "score": 8.7,
+   "ocs_url": "https://ocs.ca/products/cherry-bang-bang-live-resin-510-thread-cartridge-vape-iris-labs-pineapple-fruz-x-wild-cherry-cherry-phenotype",
+   "availability": "OCS.ca online + Toronto stores (new spring 2026)",
+   "leaning": "Sativa — Iris' only sativa",
+   "flavour": "Lemon, pine, spicy herbal 'cherry'; many say it's really terpinolene/citrus rather than cherry — 'Cuban Linx but better'",
+   "effects": "Energizing, creative, focused head high; no anxiety, no burnout; daytime driver",
+   "verdict": "Launched spring 2026 and immediately a 'cart of the year' contender. The best pure-sativa live resin in the ceramic-hardware class; the direct upgrade path for Cuban Linx fans.",
+   "pros": [
+    "Iris hardware + a true sativa profile",
+    "Very fluid, light golden oil = clean extraction",
+    "Repeatedly compared favourably to Tribal Cuban Linx"
+   ],
+   "cons": [
+    "Thin oil goes fast",
+    "Flavour called 'one-dimensional' by Gastro Pop fans",
+    "Not actually cherry-tasting to most"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Smoking the cherry bang right now and it's insane. Already a top runner for cart of the year for me.",
+     "t": "1sdd23r",
+     "s": 6
+    },
+    {
+     "q": "Very reminiscent of tribals Cuban linx but better in my personal opinion. Iris labs also has the better hardware. Effects are fantastic! A great sativa!",
+     "t": "1td8irn",
+     "s": 18
+    },
+    {
+     "q": "Wicked day time toke, I find just a couple hits does me good. No anxiety. Good focus and no burnout.",
+     "t": "1uq30ry",
+     "s": 4
+    }
+   ],
+   "threads": [
+    "1sg74u7",
+    "1td8irn",
+    "1t6c8r1",
+    "1rzy9tz",
+    "1shbfji",
+    "1u2bun7"
+   ]
+  },
+  {
+   "id": "eastcann-gastro-pop",
+   "brand": "EastCann",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Gastro Pop Pure Live Resin 510",
+   "current_strain": "Gastro Pop (Apples & Bananas x Grape Gasoline)",
+   "type": "100% live resin (fresh frozen, hydrocarbon)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$39–45",
+   "thc": "81–87%",
+   "terps": "high",
+   "hardware": "EastCann ceramic core, ceramic tip (slightly narrower than FOUR54's XL)",
+   "tier": "S",
+   "score": 9.3,
+   "ocs_url": "https://ocs.ca/products/gastro-pop-live-resin-510-thread-cartridge-eastcann-apples-bananas-x-grape-gasoline",
+   "availability": "OCS.ca online + Toronto stores (launched Feb 2026)",
+   "leaning": "Indica-leaning hybrid",
+   "flavour": "Grape, floral 'like tea', gas; extremely aromatic",
+   "effects": "Uplifting head rush that settles into body relaxation; 'gets me a lot higher than Purple Kush'",
+   "verdict": "'Haven't found anything that competes with EastCann Gastro Pop' is a recurring 2026 sentiment. It is essentially the same resin as FOUR54's Gastro Pop rotation, made permanent — buy this when FOUR54 has rotated to another strain (FOUR54's hardware is slightly preferred).",
+   "pros": [
+    "Permanent SKU of the community's favourite strain",
+    "Ceramic hardware, no botanicals",
+    "Highest THC of the Atlanticann LR line"
+   ],
+   "cons": [
+    "$5 more than FOUR54 at OCS list",
+    "FOUR54's XL hardware is slightly better",
+    "Very stinky — not discreet",
+    "Two-tone oil after opening is normal oxidation but alarms some buyers"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Haven't found anything that competes with eastcann gastro pop",
+     "t": "1uq30ry",
+     "s": 13
+    },
+    {
+     "q": "Eastcann gastro pop is the best quality cart on the market",
+     "t": "1sbhf4z",
+     "s": 4
+    },
+    {
+     "q": "The Eastcann version is essentially the same product, but with worse hardware than the Four54",
+     "t": "1vlkfis",
+     "s": 3
+    }
+   ],
+   "threads": [
+    "1r4lx90",
+    "1uq30ry",
+    "1w1avan",
+    "1vlkfis",
+    "1pnlt43",
+    "1vyfxns"
+   ]
+  },
+  {
+   "id": "eastcann-mango-sour",
+   "brand": "EastCann",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Mango Sour Pure Live Resin 510",
+   "current_strain": "Mango Sour (Sour Diesel cross; formerly Msiku 'Starstruck' lineage per some)",
+   "type": "100% live resin (OCS: hydrocarbon; tagged hang-dry — community treats as live)",
+   "size": "1g",
+   "price_ocs": 39.95,
+   "street_price": "$34–40",
+   "thc": "74–80%",
+   "terps": "high",
+   "hardware": "EastCann ceramic (new hardware mid-2025)",
+   "tier": "S",
+   "score": 9.1,
+   "ocs_url": "https://ocs.ca/products/mango-sour-pure-live-resin-510-thread-cartridge-eastcann-sour-mango-cross",
+   "availability": "OCS.ca online + Toronto stores",
+   "leaning": "Sativa",
+   "flavour": "Sour Diesel with a fruity/mango edge, piney citrus",
+   "effects": "Clean, functional, uplifting; energy and focus with no burnout; low odour — the 'work sativa'",
+   "verdict": "The sub's most-recommended daytime sativa live resin ('blows away any sativa cart I've ever had'). Cheaper than Tribal Cuban Linx, in better hardware. Only knock: a few say newer lots are less flavourful.",
+   "pros": [
+    "Best-value true sativa LR",
+    "Ceramic hardware, no clogs reported by most",
+    "Uplifting without anxiety or crash",
+    "$39.95 OCS list"
+   ],
+   "cons": [
+    "Some 2026 lots 'less flavour, more cough'",
+    "Sativa/indica labels unreliable — a few felt sleepy",
+    "Pine-citrus not for everyone"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Eastcann Mango Sour: This is an easy 10/10. So delicious and terpy. Clean functional sativa high… blows away any sativa cart I've ever had.",
+     "t": "1pdg3cu",
+     "s": 15
+    },
+    {
+     "q": "My two go-to's are four54 emerald triangle and eastcann mango sour. Anything iris labs/eastcann/four54 is always good imo.",
+     "t": "1sbhf4z",
+     "s": 5
+    },
+    {
+     "q": "It gives a nice uplifting buzz without a heavy burnout… Never had issues with clogging or breaking.",
+     "t": "1pd79oz",
+     "s": 6
+    }
+   ],
+   "threads": [
+    "1pdg3cu",
+    "1tbo6wd",
+    "1pd79oz",
+    "1mq3myy",
+    "1l10go7",
+    "1k42pag"
+   ]
+  },
+  {
+   "id": "eastcann-frozen-lemons",
+   "brand": "EastCann",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Frozen Lemons Pure Live Resin 510",
+   "current_strain": "Frozen Lemons",
+   "type": "100% live resin (fresh frozen, hydrocarbon)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$38–45",
+   "thc": "71–77%",
+   "terps": "high",
+   "hardware": "EastCann ceramic",
+   "tier": "A",
+   "score": 8.9,
+   "ocs_url": "https://ocs.ca/products/frozen-lemons-pure-live-resin-510-thread-cartridge-eastcann-frozen-lemons",
+   "availability": "OCS.ca online + Toronto stores (Jan 2026 launch)",
+   "leaning": "Sativa-leaning hybrid",
+   "flavour": "Intense sweet lemon + pepper, 'like eating candy'; reminiscent of Purple Hills Lemon Pepper",
+   "effects": "Clear-headed, euphoric, social; no burnout; lighter than Purple Kush/Mango Sour",
+   "verdict": "The flavour cart. Several 2026 reviewers rank it #1 for taste ('a game changer… a bit dangerous, might like it too much'). Lower THC and a lighter buzz make it the best 'social / night out' pick.",
+   "pros": [
+    "Arguably the best-tasting LR cart on the market",
+    "Smooth, social, functional",
+    "Ceramic hardware"
+   ],
+   "cons": [
+    "Lowest THC in the Atlanticann LR line",
+    "Some find it less potent than siblings"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Eastcann: Frozen Lemons - My favorite of all these listed. The taste is delicious, really addicting. Almost felt like I was eating candy.",
+     "t": "1w1avan",
+     "s": 3
+    },
+    {
+     "q": "Frozen lemons I've found to be a really nice social cart I prefer it for nights where I'm out at a bar or someone else's house.",
+     "t": "1ttuopw",
+     "s": 16
+    },
+    {
+     "q": "Clear headed and euphoric with no burn out, which is what I was after.",
+     "t": "1q4o0rb",
+     "s": 29
+    }
+   ],
+   "threads": [
+    "1q4o0rb",
+    "1w1avan",
+    "1ttuopw",
+    "1tk2l4m"
+   ]
+  },
+  {
+   "id": "eastcann-purple-kush",
+   "brand": "EastCann",
+   "parent": "Atlanticann (Nova Scotia)",
+   "name": "Purple Kush Pure Live Resin 510",
+   "current_strain": "Purple Kush (Hindu Kush x Purple Afghani)",
+   "type": "100% live resin",
+   "size": "1g",
+   "price_ocs": 39.95,
+   "street_price": "$34–40",
+   "thc": "77–82%",
+   "terps": "moderate-high",
+   "hardware": "EastCann ceramic (new hardware Jul 2025)",
+   "tier": "A",
+   "score": 8.6,
+   "ocs_url": "https://ocs.ca/products/purple-kush-live-resin-510-thread-cartridge-eastcann-purple-kush",
+   "availability": "OCS.ca online + Toronto stores",
+   "leaning": "Indica",
+   "flavour": "Grape, classic kush, natural weed taste",
+   "effects": "Full-body relaxing buzz; 'chill indica vibe' — lighter than Gastro Pop or Blackwater",
+   "verdict": "The value indica of the trio at $39.95. Loved for taste and reliability ('finished multiple without any problems'); some find the effects milder than expected.",
+   "pros": [
+    "$39.95 list, often $34 in stores",
+    "Great natural taste",
+    "Reliable hardware, large draw hole"
+   ],
+   "cons": [
+    "Milder than Gastro Pop / Blackwater",
+    "One 2026 report of intake holes clogging"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "eastcan purple kush or mango sour… i find tribals carts spit and eastcann doesnt",
+     "t": "1jz0yi4",
+     "s": 5
+    },
+    {
+     "q": "grapey grape full body buzzer. potent. new hardware. grab on sight.",
+     "t": "1lpzbrc",
+     "s": 35
+    }
+   ],
+   "threads": [
+    "1lpzbrc",
+    "1tyzk2v",
+    "1pwcbcj",
+    "1w1avan"
+   ]
+  },
+  {
+   "id": "tribal-triple-burger",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "Triple Burger Live Resin 510",
+   "current_strain": "Triple Burger (GMO x Han Solo Burger)",
+   "type": "100% live resin (fresh frozen, hydrocarbon, CRC'd)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–45",
+   "thc": "73–79%",
+   "terps": "11–12%",
+   "hardware": "Tribal (Yocan-made) black ceramic-coated metal cart with cotton wick; restrictive airflow; tends to clog/spit in the last third",
+   "tier": "A",
+   "score": 8.6,
+   "ocs_url": "https://ocs.ca/products/triple-burger-live-resin-510-thread-cartridge-tribal",
+   "availability": "OCS.ca online + virtually every Toronto store",
+   "leaning": "Heavy indica",
+   "flavour": "GMO garlic/onion/gas, 'cooked weed edible', very pungent — polarizing",
+   "effects": "The strongest-hitting Tribal; sedative, 'sends people to a coffin'; harsh, cough-inducing (high terps)",
+   "verdict": "Tribal's hardest hitter and a top-3 potency cart in the whole market for many heavy users. Buy for effect, not taste or discretion. Hardware is the weak point vs Atlanticann.",
+   "pros": [
+    "Potency — repeatedly named the hardest-hitting LR 510",
+    "True to the GMO flower",
+    "Available everywhere; Tribal CS credits defects fast"
+   ],
+   "cons": [
+    "Oniony/garlic taste many dislike",
+    "Harsh; coughing fits",
+    "Tribal hardware: clogs ~halfway, sticky pulls at end, restrictive airflow",
+    "Not discreet — reeks",
+    "2026 lots reported runnier / finishing faster"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Triple burger is the strongest hitter but tastes pretty gassy.",
+     "t": "1jtzih0",
+     "s": 20
+    },
+    {
+     "q": "The cart is the best I've had, period… The high gets you blasted… I don't remember coughing so much ever smoking a cart.",
+     "t": "1l89luu",
+     "s": 23
+    },
+    {
+     "q": "Bro triple burger gonna send people to a coffin",
+     "t": "1kiz65e",
+     "s": 2
+    }
+   ],
+   "threads": [
+    "1l89luu",
+    "1jtzih0",
+    "1kiz65e",
+    "1pp5srr",
+    "1nfpvin",
+    "1w1avan"
+   ]
+  },
+  {
+   "id": "tribal-bubble-up",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "Bubble Up Live Resin 510",
+   "current_strain": "Bubble Up (Exotic Genetix; Cannara exclusive)",
+   "type": "100% live resin (hydrocarbon, CRC'd)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–45",
+   "thc": "73–79%",
+   "terps": "~10%",
+   "hardware": "Tribal (Yocan-made) cart",
+   "tier": "A",
+   "score": 8.8,
+   "ocs_url": "https://ocs.ca/products/bubble-up-live-resin-510-thread-cartridge-tribal-bubble-up",
+   "availability": "OCS.ca online + Toronto stores",
+   "leaning": "Indica-leaning hybrid",
+   "flavour": "Fresh, floral, gassy, 'soap/gas/filth' — unique; a minority find it soapy",
+   "effects": "Heavy but not comatose; strong body with a happy head; 'only had one leak out of 100s'",
+   "verdict": "The Tribal cart with the most consistent love on the sub across 2025–2026 ('my fav lately' topped the biggest go-to thread). Best balance of Tribal potency and flavour. Several users say it beats every Atlanticann cart for them.",
+   "pros": [
+    "Top-voted Tribal SKU in multiple 'favourite cart' threads",
+    "Exclusive genetics",
+    "Strong yet balanced"
+   ],
+   "cons": [
+    "Tribal hardware caveats",
+    "Floral/soapy notes divide opinion",
+    "$44.95 vs $39.95 FOUR54"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Bubble Up has been my fav lately",
+     "t": "1jz0yi4",
+     "s": 15
+    },
+    {
+     "q": "I prefer bubble up over any eastcann, iris labs, four54 cart ive tried. So to each their own.",
+     "t": "1w2hu1w",
+     "s": 8
+    },
+    {
+     "q": "Bubble up I'd say is by far the best taste and high. Been my go to for a year plus! Also only had one leak out of 100s",
+     "t": "1rfseap",
+     "s": 3
+    }
+   ],
+   "threads": [
+    "1jz0yi4",
+    "1ijvuv9",
+    "1no39ql",
+    "1w2hu1w",
+    "1rfseap",
+    "1vph9qo"
+   ]
+  },
+  {
+   "id": "tribal-neon-sunshine",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "Neon Sunshine Live Resin 510",
+   "current_strain": "Neon Sunshine",
+   "type": "100% live resin (hydrocarbon, CRC'd)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–45",
+   "thc": "76–82%",
+   "terps": "high",
+   "hardware": "Tribal (Yocan-made) cart",
+   "tier": "A",
+   "score": 8.8,
+   "ocs_url": "https://ocs.ca/products/neon-sunshine-live-resin-510-thread-cartridge-tribal-neon-sunshine",
+   "availability": "OCS.ca online + Toronto stores",
+   "leaning": "Sativa-leaning hybrid",
+   "flavour": "Bright orange / tangie terps, floral; profile similar to Fantasm and Rainbow Driver",
+   "effects": "Uplifting, energetic-but-relaxed; 'cart of the year hands down' (2025); 'one of the greatest carts ever' (2026)",
+   "verdict": "Tribal's best daytime option and the pick for people who want orange terps without the Cuban Linx gas. Fans routinely prefer it to Iris Fantasm.",
+   "pros": [
+    "Delicious, true-to-flower orange profile",
+    "Potent for a sativa-leaner",
+    "Consistent across 2025–26 lots"
+   ],
+   "cons": [
+    "Tribal hardware caveats",
+    "Porto Leche is very similar (choose one)"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Neon Sunshine is my cart of the year hands down",
+     "t": "1kiz65e",
+     "s": 2
+    },
+    {
+     "q": "This DESTROYS Fantasm imo. One of the greatest carts ever imo.",
+     "t": "1uwq8kg",
+     "s": 3
+    },
+    {
+     "q": "Just tried Porto, Neon and Galactic for the first time last night and Neon was definitely the best one.",
+     "t": "1pp5srr",
+     "s": 9
+    }
+   ],
+   "threads": [
+    "1uwq8kg",
+    "1pp5srr",
+    "1kiz65e",
+    "1lrhv5z",
+    "1vivsr3"
+   ]
+  },
+  {
+   "id": "tribal-cuban-linx",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "Cuban Linx Live Resin 510",
+   "current_strain": "Cuban Linx (TK Skunk x Trigerian)",
+   "type": "100% live resin (fresh frozen, hydrocarbon, CRC'd)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–45",
+   "thc": "74–80%",
+   "terps": "10–14%",
+   "hardware": "Tribal (Yocan-made) cart — the SKU with the most clog-at-halfway reports",
+   "tier": "A",
+   "score": 8.4,
+   "ocs_url": "https://ocs.ca/products/cuban-linx-live-resin-510-thread-cartridge-tribal",
+   "availability": "OCS.ca online + everywhere",
+   "leaning": "Sativa",
+   "flavour": "Lemon Pledge / gas / pine, 'sour pissy' to detractors",
+   "effects": "Racy, potent, heady sativa; some get a 'weird, in-your-thoughts hybrid' high or a hard comedown",
+   "verdict": "The most-mentioned single SKU on r/TheOCS (300+ mentions since 2025). A long-time sativa staple with legions of fans, but now outclassed on hardware by Iris Cherry Bang Bang and EastCann Mango Sour, which the sub increasingly recommends instead.",
+   "pros": [
+    "Iconic, widely available",
+    "Potent daytime sativa",
+    "Recent lots up to 14% terps"
+   ],
+   "cons": [
+    "Clogging around the halfway mark is the most common Tribal complaint",
+    "Gassy/lemon-cleaner taste divides",
+    "Some report crash on comedown"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "If i could install a breathing machine that pumped tribal cuban linx at me 24/7 I'd be a happy man. Love the flavour so much.",
+     "t": "1jz0yi4",
+     "s": 2
+    },
+    {
+     "q": "The Cuban Linx legitimately blew me away for a daytime puff, 10/10.",
+     "t": "1n0nbbv",
+     "s": 4
+    },
+    {
+     "q": "Cuban Linx tastes solid but never really feel much from it",
+     "t": "1w1avan",
+     "s": 5
+    }
+   ],
+   "threads": [
+    "1rhyhsl",
+    "1olmx3r",
+    "1sbhf4z",
+    "1n0nbbv",
+    "1td8irn"
+   ]
+  },
+  {
+   "id": "tribal-galactic-rntz",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "Galactic Rntz Live Resin 510",
+   "current_strain": "Galactic Runtz",
+   "type": "100% live resin (fresh frozen, hydrocarbon)",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–50",
+   "thc": "75–81%",
+   "terps": "high",
+   "hardware": "Tribal (Yocan-made) cart",
+   "tier": "A",
+   "score": 8.5,
+   "ocs_url": "https://ocs.ca/products/galactic-rntz-510-thread-cartridge-tribal-galactic-rntz",
+   "availability": "OCS.ca online; rumoured to be discontinued (May 2026) — grab if seen",
+   "leaning": "Indica-leaning hybrid",
+   "flavour": "'Straight kushy purple weed', skunk, runtz candy, citrus gas",
+   "effects": "Instant couch-lock, insomnia cart; 'sent me to an early grave in the best way'",
+   "verdict": "Cult Tribal favourite ('I've bought like 30'). Great for sleep. Buy fresh — a Jan 2025 lot was 'soup' and some found the new packaging batch weaker.",
+   "pros": [
+    "Best Tribal flavour for many",
+    "True indica effect"
+   ],
+   "cons": [
+    "Rumoured discontinuation",
+    "Batch variance reports",
+    "Tribal hardware"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Honestly, there is nothing that compares to the taste.. to me it tastes like straight kushy, purple weed.. I have bought like 30 since they came out",
+     "t": "1ox09xj",
+     "s": 24
+    },
+    {
+     "q": "Instant couch lock and tired relaxed body. Great for insomnia. This is a true indica high. 9.5/10",
+     "t": "1t357th",
+     "s": 16
+    }
+   ],
+   "threads": [
+    "1ox09xj",
+    "1t357th",
+    "1pp5srr",
+    "1l3d4h0"
+   ]
+  },
+  {
+   "id": "tribal-porto-leche",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "Porto Leche Live Resin 510",
+   "current_strain": "Porto Leche #293 (Oreoz x Grape Jubilee)",
+   "type": "100% live resin",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–45",
+   "thc": "75–81%",
+   "terps": "high",
+   "hardware": "Tribal cart — first Nov/Dec 2025 lots leaked through the mouthpiece (a dispensary returned 12+); later lots fine",
+   "tier": "A",
+   "score": 8.4,
+   "ocs_url": "https://ocs.ca/products/porto-leche-live-resin-510-thread-cartridge-tribal-oreoz-x-grape-jubilee",
+   "availability": "OCS.ca online + Toronto stores (launched late 2025)",
+   "leaning": "Hybrid (slightly indica)",
+   "flavour": "Creamy grape, berries, orange/Tangie, funk — 'Neon Sunshine with berry'",
+   "effects": "Hits like a truck, headband squeeze, body tingles without full sedation",
+   "verdict": "Tribal's newest hit; by mid-2026 it appears in nearly every 'favourite cart' list. Check the package date to avoid the leaky launch lots.",
+   "pros": [
+    "Excellent flavour",
+    "Strong, versatile hybrid",
+    "Also great in flower/rosin formats"
+   ],
+   "cons": [
+    "Early-lot leaking issue (Nov–Dec 2025)",
+    "Tribal hardware"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Porto Leche by tribal … so good",
+     "t": "1omqf89",
+     "s": 9
+    },
+    {
+     "q": "Tried porto leche at an industry event and it hits like a truck.",
+     "t": "1pp5srr",
+     "s": 6
+    },
+    {
+     "q": "I've returned like 12+ units from their first batch of this product.",
+     "t": "1pgkjry",
+     "s": 27
+    }
+   ],
+   "threads": [
+    "1pgkjry",
+    "1opdlxa",
+    "1nbv85n",
+    "1omqf89",
+    "1uwq8kg"
+   ]
+  },
+  {
+   "id": "tribal-gt",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "GT (Gran Turismo) Live Resin 510",
+   "current_strain": "Gran Turismo (Motorbreath x Lemon Cherry Gelato)",
+   "type": "100% live resin",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–45",
+   "thc": "83–89%",
+   "terps": "high",
+   "hardware": "Tribal cart (2026)",
+   "tier": "A",
+   "score": 8.3,
+   "ocs_url": "https://ocs.ca/products/gran-turismo-live-resin-510-thread-cartridge-tribal-motorbreath-x-lemon-cherry-gelato",
+   "availability": "Toronto stores (Wholesale Only — not on OCS.ca) since spring 2026",
+   "leaning": "Hybrid",
+   "flavour": "Gassy, kushy, lemon-cherry",
+   "effects": "Potent; 'this cart hits, end of story'",
+   "verdict": "Tribal's 2026 release and its highest-THC LR. Early reviews are strong and it 'vaped proper all the way through'. Recommended for gas lovers.",
+   "pros": [
+    "Highest THC Tribal LR",
+    "Positive early hardware reports"
+   ],
+   "cons": [
+    "Store-only",
+    "Limited review history"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "This cart hits. End of story.",
+     "t": "1w2hu1w",
+     "s": 48
+    },
+    {
+     "q": "Tribal puts out some fire as well, I am loving the GT Live Resin right now 🔥🔥",
+     "t": "1uq30ry",
+     "s": 11
+    }
+   ],
+   "threads": [
+    "1w2hu1w",
+    "1uq30ry",
+    "1ume9xy"
+   ]
+  },
+  {
+   "id": "tribal-other",
+   "brand": "Tribal",
+   "parent": "Cannara Biotech (Quebec)",
+   "name": "Power Sherb / G Mint / Drip Station / Jigglers / Terple Live Resin 510",
+   "current_strain": "various",
+   "type": "100% live resin",
+   "size": "1g",
+   "price_ocs": 44.95,
+   "street_price": "$40–45",
+   "thc": "72–81%",
+   "terps": "varies",
+   "hardware": "Tribal cart",
+   "tier": "B",
+   "score": 7.8,
+   "ocs_url": "https://ocs.ca/products/g-mint-live-resin-510-thread-cartridge-tribal",
+   "availability": "OCS.ca + stores",
+   "leaning": "Power Sherb & Drip Station = indica; G Mint = relaxing hybrid; Jigglers = fruity sativa-hybrid; Terple = clear-headed hybrid",
+   "flavour": "Power Sherb: peppery/skunky (some: 'floral perfume'). G Mint: gelato mint/soap/dank. Terple: sweet, tasty. Jigglers: fruity.",
+   "effects": "Power Sherb strong indica; G Mint 'light high, beginner cart' vs 'best LR cart #1'; Terple mild",
+   "verdict": "Tribal's second string. Power Sherb is a solid indica; G Mint is beloved for taste but often called mild ('6-year-old genetic'); Terple/Jigglers are pleasant, lower-intensity. Buy Bubble Up, Neon Sunshine, Triple Burger or Porto Leche first.",
+   "pros": [
+    "Wide range of profiles",
+    "Same reliable availability"
+   ],
+   "cons": [
+    "Lower potency (G Mint, Terple)",
+    "Tribal hardware",
+    "$44.95 for mid-intensity"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "G-Mint…best Live Resin Cart #1, not even close.",
+     "t": "1w1avan",
+     "s": 5
+    },
+    {
+     "q": "G mint is a very light high, great taste but not very potent, a lot better tribal carts than gmint, more a beginnings cart.",
+     "t": "1w1avan",
+     "s": 3
+    }
+   ],
+   "threads": [
+    "1sgwwrw",
+    "1sb3mak",
+    "1kl0er2",
+    "1jtzih0"
+   ]
+  },
+  {
+   "id": "ph-gorilla-z",
+   "brand": "Purple Hills",
+   "parent": "Agripharm (Creemore, Ontario)",
+   "name": "Gorilla Z XL Live Resin 510 (formerly Gorilla Zkittlez)",
+   "current_strain": "Gorilla Zkittlez",
+   "type": "Live resin (fresh frozen); 'sungrown outdoor' input",
+   "size": "1.2g",
+   "price_ocs": 47.5,
+   "street_price": "$40–48",
+   "thc": "74–80%",
+   "terps": "~7–15% (lot dependent)",
+   "hardware": "Stainless CCELL-style post with plastic body (owner: <0.01% failure) — purists dislike plastic/metal taste; XL 1.2g runs out fast",
+   "tier": "B",
+   "score": 7.6,
+   "ocs_url": "https://ocs.ca/products/live-resin-gorilla-zkittles-xl-510-thread-cartridge-purple-hills-gorilla-zkittles",
+   "availability": "Toronto stores (Wholesale Only)",
+   "leaning": "Indica",
+   "flavour": "Alien-OG-ish kush, grape candy",
+   "effects": "'Potent as a mf' — one of the hardest-hitting carts of 2025 for many; heavy head buzz",
+   "verdict": "Purple Hills' flagship and a 2025 fan favourite for raw potency and value (1.2g). Downgraded for 2026 because of repeated reports of burnt-tasting lots, lower-terp batches (a 7.7% lot 'not full live resin'), leaks (Mar 2025 lot) and plastic hardware. Still great when you get a good lot — check package date.",
+   "pros": [
+    "1.2g for the price of 1g",
+    "Hits very hard",
+    "Owner active on Reddit and honours returns"
+   ],
+   "cons": [
+    "Batch inconsistency 2025→2026 ('quality deteriorating')",
+    "Plastic/stainless hardware",
+    "Runs out quickly",
+    "Label terp % inflation controversy"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "This Purple hills gorilla zkittles live resin cart is hitting me really hard rn… this hits so much harder [than Cuban Linx]",
+     "t": "1kacpls",
+     "s": 47
+    },
+    {
+     "q": "Last 3 carts all taste burnt and before anyone says my temps are to high this only happens with Purple Hills",
+     "t": "1rb70zp",
+     "s": 3
+    },
+    {
+     "q": "Not bringing purple hills in 2026 unfortunately 😬 Quality has been deteriorating",
+     "t": "1rb70zp",
+     "s": 2
+    }
+   ],
+   "threads": [
+    "1kacpls",
+    "1rb70zp",
+    "1ko8vgc",
+    "1ixcfk4",
+    "1mw12ny"
+   ]
+  },
+  {
+   "id": "ph-orangeade",
+   "brand": "Purple Hills",
+   "parent": "Agripharm (Creemore, Ontario)",
+   "name": "Orangeade Live Resin 510",
+   "current_strain": "Orangeade",
+   "type": "Live resin (fresh frozen)",
+   "size": "1g",
+   "price_ocs": 44.5,
+   "street_price": "$38–45",
+   "thc": "70–76%",
+   "terps": "8.8–23% claimed (varies wildly by lot)",
+   "hardware": "Purple Hills stainless/plastic",
+   "tier": "B",
+   "score": 7.4,
+   "ocs_url": "https://ocs.ca/products/orangeade-live-resin-510-thread-cartridge-purple-hills",
+   "availability": "OCS.ca online + stores",
+   "leaning": "Marketed sativa; many say indica-leaning",
+   "flavour": "Pinesol-citrus orange (classic lots); newer lots musky/earthy",
+   "effects": "'The only cart that actually gets me fried' (loyalist); relaxing more than energizing",
+   "verdict": "A multi-year sativa favourite whose 2025 batches disappointed (hay taste, leaks, changed terp profile). Loyalists remain; the sub now points Orangeade fans to EastCann Mango Sour or Iris Fantasm.",
+   "pros": [
+    "Beloved flavour when on form",
+    "Often discounted"
+   ],
+   "cons": [
+    "Inconsistent lots",
+    "Label % controversy (80% THC + 23% terps)",
+    "Plastic hardware, leaks in 2025"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "I have bought like 6 orangeade carts off purple hills and it's the only cart that actually gets me fried.",
+     "t": "1qwpxc8",
+     "s": 6
+    },
+    {
+     "q": "Orangeade was having problems for a while forsure",
+     "t": "1ixcfk4",
+     "s": 5
+    }
+   ],
+   "threads": [
+    "1qwpxc8",
+    "1mw12ny",
+    "1ixcfk4",
+    "1ko8vgc"
+   ]
+  },
+  {
+   "id": "ph-others",
+   "brand": "Purple Hills",
+   "parent": "Agripharm (Creemore, Ontario)",
+   "name": "Big White Dawg XL / Creemore Valley Kush / Red Hot Cookies Live Resin 510",
+   "current_strain": "various (Lemon Pepper discontinued 2026)",
+   "type": "Live resin",
+   "size": "1–1.2g",
+   "price_ocs": 44.5,
+   "street_price": "$38–48",
+   "thc": "69–87%",
+   "terps": "up to 15.6% (Big White Dawg)",
+   "hardware": "Purple Hills stainless/plastic",
+   "tier": "B",
+   "score": 7.5,
+   "ocs_url": "https://ocs.ca/products/creemore-valley-kush-live-resin-510-thread-cartridge-purple-hills",
+   "availability": "Toronto stores",
+   "leaning": "Big White Dawg = hybrid (sativa-leaning); CVK = couch-lock indica; Red Hot Cookies = potent hybrid",
+   "flavour": "Big White Dawg: gassy/dawg. CVK: kush. Lemon Pepper (RIP): lemon-pepper.",
+   "effects": "Big White Dawg 'fantastic, beats any Tribal for me'; CVK 'nectar of the gods… all-time couch-lock sleeper'",
+   "verdict": "Big White Dawg XL was a 2025 standout and is still recommended in 2026; Creemore Valley Kush is the sleep cart. Same hardware and batch caveats as the rest of the PH line.",
+   "pros": [
+    "Strong effects, good value (XL)",
+    "Distinct profiles"
+   ],
+   "cons": [
+    "PH consistency/hardware caveats",
+    "Lemon Pepper discontinued"
+   ],
+   "reddit_quotes": [
+    {
+     "q": "Big White Dawg from purple hills is fantastic, beats out any tribal cart for me personally.",
+     "t": "1nfpvin",
+     "s": 8
+    },
+    {
+     "q": "Creemore valley kush by ph is the nectar of the gods",
+     "t": "1l3d4h0",
+     "s": 1
+    }
+   ],
+   "threads": [
+    "1nfpvin",
+    "1j99u0m",
+    "1l3d4h0",
+    "1lrhv5z"
+   ]
+  }
+ ]
 }
