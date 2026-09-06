@@ -1,151 +1,109 @@
 #!/usr/bin/env python3
 """
-Harvest r/TheOCS posts + comments about live resin / live rosin 510 carts via Arctic Shift API.
-Idempotent & incremental: saves each post + its comments to research/reddit/posts/<id>.json.
-Re-running skips already-fetched posts. Safe to interrupt at any time.
+Harvest r/TheOCS via Arctic Shift API (Pushshift successor).
+STRATEGY: full dump of ALL posts (paginated by `before`, ~500/page with limit=auto), slimmed,
+saved in chunk files research/reddit/posts_chunks/NNNN.json so interruption never loses work.
+Then filter locally for cart-relevant posts and fetch their comments -> research/reddit/threads/<id>.json.
 
 Usage:
-  python3 research/fetch_reddit.py posts     # fetch post listings for all queries -> research/reddit/index.json
-  python3 research/fetch_reddit.py comments  # fetch comments for indexed posts (skips done)
+  python3 research/fetch_reddit.py posts      # full post dump (resumable)
+  python3 research/fetch_reddit.py comments   # comments for relevant posts (resumable)
   python3 research/fetch_reddit.py all
 """
-import json, os, sys, time, urllib.parse, urllib.request
+import json, os, re, sys, time, glob, urllib.parse, urllib.request
 
 BASE = "https://arctic-shift.photon-reddit.com/api"
-OUT = os.path.join(os.path.dirname(__file__), "reddit")
-POSTS_DIR = os.path.join(OUT, "posts")
-INDEX = os.path.join(OUT, "index.json")
-os.makedirs(POSTS_DIR, exist_ok=True)
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(HERE, "reddit")
+CHUNKS = os.path.join(OUT, "posts_chunks")
+THREADS = os.path.join(OUT, "threads")
+STATE = os.path.join(OUT, "state.json")
+for d in (CHUNKS, THREADS): os.makedirs(d, exist_ok=True)
 
-# Title / body search terms. Arctic Shift supports 'title' and 'body' and 'query' params.
-TITLE_QUERIES = [
-    "live resin", "live rosin", "rosin cart", "rosin 510", "resin cart", "resin 510",
-    "510 cart", "510 vape", "cartridge", "carts", "best cart", "best carts", "best vape",
-    "liquid diamonds", "diamonds cart", "full spectrum", "FSE", "HTFSE",
-    "hash rosin", "solventless", "cured resin",
-    # brands commonly associated with live resin/rosin carts on OCS
-    "Eastcann", "Four54", "FOUR54", "Tribal", "Lune Rise", "Tribal cuban linx",
-    "General Admission", "Back Forty", "Good Supply", "Roilty", "Sticky Greens",
-    "Boxhot", "BOXHOT", "Endgame", "Debunk", "Redecan", "Ambr", "AMBR", "Jays", "Weed Me",
-    "Fresh Coast", "Wildcard", "Spinach", "Broken Coast", "Simply Bare", "Rubicon",
-    "Kolab", "KOLAB", "Dab Bods", "Dabbods", "Greybeard", "Greybeard vape", "Astrolab", "Astro Lab",
-    "Beurre Blanc", "Beurre", "Divvy", "Versus", "Contraband", "Adults Only", "Pure Sunfarms",
-    "Lord Jones", "Zoda", "ZODA", "Iris Labs", "MTL Cannabis", "Cruuzy", "Ghost Drops", "Ghost Drops vape",
-    "Carmel", "Woody Nelson", "Tenzo", "Shred", "SHRED", "Shred X", "Bzam", "BZAM", "Pistol and Paris",
-    "Highly Dutch", "Gage", "Cookies", "Alien Labs", "Connected", "Homestead", "Homestead Cannabis",
-    "Joints cannabis", "Sitka", "Cannabis Cousins", "Dymond", "Dymond Concentrates", "Fume", "FUME",
-    "Marley", "Dunn Cannabis", "Twd", "TWD", "Trailblazer", "Hexo", "HEXO", "Aurora", "San Rafael",
-    "Bhang", "Riff", "RIFF", "Solei", "Wagners", "Wana", "Glacial Gold", "Kingsway", "Kinloch",
-    "Nuance", "Farmhouse", "Purple Hills", "Muskoka Grown", "Ness", "Edison", "Northern Harvest",
-    "Foray", "Weed Pool", "Station House", "1964", "Qwest", "Thumbs Up", "Loosh", "Nith & Grand", "Nith and Grand",
-    "Origami", "Kush Kraft", "Level Up", "Motif", "Tilray", "Flowr", "Ontario Cannabis Store vape",
-]
-BODY_QUERIES = [
-    "live resin cart", "live rosin cart", "rosin 510", "best live resin", "best live rosin",
-    "best 510", "best cart", "favourite cart", "favorite cart", "cart recommendation",
-    "liquid diamonds", "hash rosin cart", "solventless cart", "fse cart", "htfse cart",
-]
-
-def get(url, tries=8):
+def get(url, tries=10):
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "ocs-cart-research/1.0 (personal research)"})
-            with urllib.request.urlopen(req, timeout=90) as r:
+            with urllib.request.urlopen(req, timeout=120) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
-            body = e.read()[:200]
-            wait = 4 + 4 * i
-            print(f"  HTTP {e.code} -> sleep {wait}s ({body[:80]})", flush=True)
+            body = e.read()[:120]
+            wait = 5 + 5 * i
+            print(f"  HTTP {e.code} -> sleep {wait}s ({body})", flush=True)
             time.sleep(wait)
         except Exception as e:
-            wait = 4 + 4 * i
+            wait = 5 + 5 * i
             print(f"  ERR {e} -> sleep {wait}s", flush=True)
             time.sleep(wait)
     return None
 
-def search_posts(param, q, after=None):
-    """Paginate backwards through time using 'before' cursor."""
-    results = []
-    before = None
-    while True:
-        qs = {"subreddit": "TheOCS", param: q, "limit": 100, "sort": "desc"}
-        if before: qs["before"] = before
-        if after: qs["after"] = after
-        url = f"{BASE}/posts/search?" + urllib.parse.urlencode(qs)
-        d = get(url)
-        if not d or not d.get("data"):
-            break
-        data = d["data"]
-        results.extend(data)
-        print(f"  [{param}={q!r}] +{len(data)} (total {len(results)}) oldest={data[-1]['created_utc']}", flush=True)
-        if len(data) < 100:
-            break
-        before = data[-1]["created_utc"] - 1
-        time.sleep(2.5)
-    return results
-
-def load_index():
-    if os.path.exists(INDEX):
-        return json.load(open(INDEX))
-    return {}
-
-def save_index(idx):
-    tmp = INDEX + ".tmp"
-    json.dump(idx, open(tmp, "w"), indent=0, ensure_ascii=False)
-    os.replace(tmp, INDEX)
-
 KEEP = ["id","title","selftext","author","created_utc","score","upvote_ratio","num_comments","permalink","url","link_flair_text","author_flair_text"]
+def slim(p): return {k: p.get(k) for k in KEEP}
 
-def slim(p):
-    return {k: p.get(k) for k in KEEP}
+def load_state():
+    return json.load(open(STATE)) if os.path.exists(STATE) else {"before": None, "chunk": 0, "done": False}
+def save_state(s):
+    json.dump(s, open(STATE + ".tmp", "w")); os.replace(STATE + ".tmp", STATE)
 
 def do_posts():
-    idx = load_index()
-    done_q = set(idx.get("_queries_done", []))
-    posts = idx.setdefault("posts", {})
-    for param, qlist in (("title", TITLE_QUERIES), ("body", BODY_QUERIES)):
-        for q in qlist:
-            key = f"{param}:{q}"
-            if key in done_q:
-                continue
-            print(f"Query {key}", flush=True)
-            res = search_posts(param, q)
-            for p in res:
-                posts[p["id"]] = slim(p)
-            done_q.add(key)
-            idx["_queries_done"] = sorted(done_q)
-            save_index(idx)
-            time.sleep(2.5)
-    print(f"Index has {len(posts)} unique posts")
+    s = load_state()
+    if s.get("done"):
+        print("posts already complete"); return
+    while True:
+        qs = {"subreddit": "TheOCS", "limit": "auto", "sort": "desc"}
+        if s["before"]: qs["before"] = s["before"]
+        d = get(f"{BASE}/posts/search?" + urllib.parse.urlencode(qs))
+        if d is None:
+            print("giving up this round; rerun to resume"); return
+        data = d.get("data") or []
+        if not data:
+            s["done"] = True; save_state(s); print("DONE full dump"); return
+        rows = [slim(p) for p in data]
+        fn = os.path.join(CHUNKS, f"{s['chunk']:04d}.json")
+        json.dump(rows, open(fn, "w"), ensure_ascii=False)
+        s["chunk"] += 1
+        s["before"] = data[-1]["created_utc"] - 1
+        save_state(s)
+        print(f"chunk {s['chunk']-1}: {len(rows)} posts, oldest {time.strftime('%Y-%m-%d', time.gmtime(data[-1]['created_utc']))}", flush=True)
+        time.sleep(3)
+
+def all_posts():
+    out = {}
+    for fn in sorted(glob.glob(os.path.join(CHUNKS, "*.json"))):
+        for p in json.load(open(fn)): out[p["id"]] = p
+    return out
+
+# relevance filter for cart-related posts
+REL = re.compile(r"\b(cart|carts|cartridge|cartridges|510|vape|vapes|live resin|live rosin|rosin|resin|liquid diamond|diamonds|fse|htfse|full spectrum|solventless|distillate|disty|pen|pens|aio|all[- ]in[- ]one|disposable)\b", re.I)
+def relevant(p):
+    return bool(REL.search((p.get("title") or "") + " " + (p.get("selftext") or "")[:2000]))
 
 CKEEP = ["id","parent_id","link_id","author","body","score","created_utc","author_flair_text"]
 
 def do_comments(min_comments=1):
-    idx = load_index()
-    posts = idx.get("posts", {})
-    todo = [p for p in posts.values() if (p.get("num_comments") or 0) >= min_comments
-            and not os.path.exists(os.path.join(POSTS_DIR, p["id"] + ".json"))]
-    # highest engagement first so most valuable data lands early
+    posts = all_posts()
+    todo = [p for p in posts.values() if relevant(p) and (p.get("num_comments") or 0) >= min_comments
+            and not os.path.exists(os.path.join(THREADS, p["id"] + ".json"))]
     todo.sort(key=lambda p: -(p.get("num_comments") or 0))
-    print(f"{len(todo)} posts need comments")
+    print(f"{len(posts)} total posts; {len(todo)} relevant threads need comments", flush=True)
     for n, p in enumerate(todo):
-        comments = []
-        before = None
+        comments, before = [], None
         while True:
-            qs = {"link_id": p["id"], "limit": 100, "sort": "desc"}
+            qs = {"link_id": p["id"], "limit": "auto", "sort": "desc"}
             if before: qs["before"] = before
             d = get(f"{BASE}/comments/search?" + urllib.parse.urlencode(qs))
-            if not d or not d.get("data"):
-                break
-            comments.extend({k: c.get(k) for k in CKEEP} for c in d["data"])
-            if len(d["data"]) < 100:
-                break
-            before = d["data"][-1]["created_utc"] - 1
+            if d is None: break
+            data = d.get("data") or []
+            if not data: break
+            comments.extend({k: c.get(k) for k in CKEEP} for c in data)
+            if len(data) < 100: break
+            before = data[-1]["created_utc"] - 1
             time.sleep(2)
-        out = {"post": p, "comments": comments}
-        json.dump(out, open(os.path.join(POSTS_DIR, p["id"] + ".json"), "w"), ensure_ascii=False)
-        print(f"[{n+1}/{len(todo)}] {p['id']} {len(comments)}c | {p['title'][:70]}", flush=True)
-        time.sleep(1.5)
+        json.dump({"post": p, "comments": comments}, open(os.path.join(THREADS, p["id"] + ".json"), "w"), ensure_ascii=False)
+        if n % 20 == 0:
+            print(f"[{n+1}/{len(todo)}] {p['id']} {len(comments)}c | {p['title'][:70]}", flush=True)
+        time.sleep(1.2)
+    print("comments DONE")
 
 if __name__ == "__main__":
     mode = sys.argv[1] if len(sys.argv) > 1 else "all"
